@@ -13,87 +13,64 @@
             "state": {
               "type": "atlas-vtt-dashboard",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "atlas-vtt-dashboard"
+              "icon": "home",
+              "title": "Atlas dashboard"
             }
           },
           {
             "id": "0f8cef62e08a1c76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e193ba9f353f35f7",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Locations/Towns/Greyhold/Greyhold.md",
+                "file": "Sesh 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greyhold"
+              "title": "Sesh 2"
             }
           },
           {
-            "id": "f8f59e3e122352ee",
+            "id": "2f5be886e133f284",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Locations/Towns/Ascot/Tavern \"The Wandering Basilisk\".md",
+                "file": "Lore/Characters/Player Characters/Desmodus (WAR-01).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tavern \"The Wandering Basilisk\""
+              "title": "Desmodus (WAR-01)"
             }
           },
           {
-            "id": "1241d160ec15cb1f",
+            "id": "9d5c4a869d177b26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Locations/Towns/Ascot/Ascot.md",
+                "file": "Lore/Characters/Player Characters/Bob Bobber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ascot"
+              "title": "Bob Bobber"
             }
           },
           {
-            "id": "356116017cd1d748",
+            "id": "57c3b0209420564e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bestiary/Homebrew/Flying Warforged.md",
+                "file": "Lore/Characters/Player Characters/Daimon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flying Warforged"
-            }
-          },
-          {
-            "id": "20a1bb85ed984c06",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Bases/Homebrew.base",
-                "viewName": "Cards"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "Homebrew"
+              "title": "Daimon"
             }
           }
         ],
@@ -251,8 +228,8 @@
             "state": {
               "type": "dnd-charactersheet",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "dnd-charactersheet"
+              "icon": "dice",
+              "title": "Character Sheet"
             }
           },
           {
@@ -261,8 +238,8 @@
             "state": {
               "type": "hp-tracker-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "hp-tracker-view"
+              "icon": "heart",
+              "title": "HP tracker"
             }
           },
           {
@@ -271,8 +248,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -281,8 +258,8 @@
             "state": {
               "type": "tavernus-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "tavernus-view"
+              "icon": "beer",
+              "title": "Tavernus"
             }
           },
           {
@@ -291,8 +268,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "fantasy-statblocks-creature-pane"
+              "icon": "skull",
+              "title": "Combatant"
             }
           },
           {
@@ -306,7 +283,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -331,11 +308,26 @@
       "dndbeyond-importer:Open Dice Roller": false,
       "templater-obsidian:Templater": false,
       "atlas-vtt:Display image on player view": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "0f8cef62e08a1c76",
   "lastOpenFiles": [
+    "Bases/Sessions.base",
+    "Sessions/Sesh 1.md",
+    "Sesh 2.md",
+    "Sessions/Sesh 0.md",
+    "Lore/Characters/Player Characters/Bob Bobber.md",
+    "Lore/Characters/Player Characters/Desmodus (WAR-01).md",
+    "Lore/Characters/Player Characters/Daimon.md",
+    "Structure/Andere Lore.md",
+    "Welcome.md",
+    "Lore/Locations/Towns/Greyhold/Greyhold.md",
+    "Bases/Homebrew.base",
+    "Bestiary/Homebrew/Flying Warforged.md",
+    "Lore/Locations/Towns/Ascot/Ascot.md",
+    "Lore/Locations/Towns/Ascot/Tavern \"The Wandering Basilisk\".md",
     "atlas-vtt/collections/Default/tokens/token-starter-occultist.json",
     "atlas-vtt/assets/Occultist_1792601021126_7ornay.webp",
     "atlas-vtt/collections/Default/tokens/token-starter-assassin.json",
@@ -352,36 +344,21 @@
     "atlas-vtt/assets/Ranger_1792601021064_3issaq.webp",
     "atlas-vtt/collections/Default/tokens/token-starter-paladin.json",
     "atlas-vtt/assets/Paladin_1792601021057_qvhwgm.webp",
-    "atlas-vtt/collections/Default/tokens/token-starter-fighter.json",
     "atlas-vtt/assets/Fighter_1792601021050_6plm17.webp",
-    "atlas-vtt/collections/Default/tokens/token-starter-cleric.json",
     "atlas-vtt/assets/Cleric_1792601021042_0m50yu.webp",
-    "atlas-vtt/library.json",
     "Music/Locations/Cities.md",
     "Music/Locations/Taverns.md",
     "Music/Locations/Towns.md",
     "Music/Events/Boss Fights.md",
-    "Lore/Locations/Towns/Greyhold/Greyhold.md",
     "Custom Homebrew/Spells/Serpents Bed of Sand.md",
     "Custom Homebrew/Weapons/Crystal Shotgun.md",
-    "Bestiary/Homebrew/Flying Warforged.md",
     "Timeline/Timeline.md",
     "Timeline/Timeline Notes/Forged War/Invention of Warforged (the X-series).md",
     "Timeline/Timeline Notes/Forged War/Invention of Warforged (the F-series).md",
     "Timeline/Timeline Notes/Forged War/Invention of Warforged (the T-series).md",
     "Timeline/Timeline Notes/Forged War/Invention of Warforged (the WAR-series).md",
-    "Lore/Locations/Towns/Ascot/Tavern \"The Wandering Basilisk\".md",
-    "Lore/Locations/Towns/Ascot/Ascot.md",
     "Bestiary/AATM/Animated Coffin.md",
     "Bestiary/Homebrew/Flying Warforged (1).md",
-    "Bestiary/XMM/Aboleth.md",
-    "Lore/Characters/NPCs/Warforged/F-02.md",
-    "Tools/Azgaar's Fantasy Map Generator.md",
-    "Tools/HomeBrewery.md",
-    "Timeline/Timeline Notes/Forged War/The End of the Forged War.md",
-    "Lore/Characters/Player Characters/Desmodus (WAR-01).md",
-    "Timeline/Births.md",
-    "Templates/PC Template.md",
     "Timeline/Test/Canvases/Basic concept.canvas",
     "Timeline/Test/Canvases/Basic usage.canvas",
     "Timeline/Test/Canvases/Conditional Formats.canvas",

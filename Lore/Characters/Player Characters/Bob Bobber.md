@@ -31,7 +31,7 @@ spells:
     - name: Spare the Dying
       link: ""
     - name: Mending
-      link: ""
+      link: https://open5e.com/spells/srd_mending
     - name: Light
       link: ""
   lvl1:

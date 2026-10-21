@@ -1,14 +1,14 @@
 ---
-Played:
+Played: 2026-10-17T19:30:00
 tags:
   - Session
 People:
   - Gage
   - Maya
   - Thijs
-Month:
-Year:
-Played?: false
+Month: 10
+Year: 2026
+Played?: true
 ---
 
 First discuss:
