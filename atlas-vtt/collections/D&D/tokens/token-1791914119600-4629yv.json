@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "pyromancer",
+    "imagePath": "atlas-vtt/assets/pyromancer_1791914119515_42jpz3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Fire Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/pyromancer_1791914119515_42jpz3-447fb333.webp",
+    "id": "token-1791914119600-4629yv",
+    "createdAt": 1791914119600,
+    "modifiedAt": 1791914119600
+  }
+}

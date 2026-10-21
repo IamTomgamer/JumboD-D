@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "red haired youth",
+    "imagePath": "atlas-vtt/assets/red_haired_youth_1791910768651_796g4v.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/red_haired_youth_1791910768651_796g4v-280c5c8d.webp",
+    "id": "token-1791910769255-ne1x41",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

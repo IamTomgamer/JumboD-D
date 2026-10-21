@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "blue dragon perched atop castle",
+    "imagePath": "atlas-vtt/assets/blue_dragon_perched_atop_castle_1791914471279_ocrne5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blue_dragon_perched_atop_castle_1791914471279_ocrne5-fc827334.webp",
+    "id": "token-1791914472437-p0zgae",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

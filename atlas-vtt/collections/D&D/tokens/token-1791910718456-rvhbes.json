@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "contemplating scholar",
+    "imagePath": "atlas-vtt/assets/contemplating_scholar_1791910717712_41kbb4.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/contemplating_scholar_1791910717712_41kbb4-59103e1b.webp",
+    "id": "token-1791910718456-rvhbes",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

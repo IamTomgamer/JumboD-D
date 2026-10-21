@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "witch horned",
+    "imagePath": "atlas-vtt/assets/witch_horned_1791914207612_ktoq1l.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/witch_horned_1791914207612_ktoq1l-d34f48b0.webp",
+    "id": "token-1791914207704-6udmkw",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

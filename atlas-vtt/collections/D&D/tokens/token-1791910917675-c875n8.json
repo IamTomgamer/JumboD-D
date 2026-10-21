@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "adolescent archer",
+    "imagePath": "atlas-vtt/assets/adolescent_archer_1791910917151_6x0zff.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/adolescent_archer_1791910917151_6x0zff-a1553644.webp",
+    "id": "token-1791910917675-c875n8",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

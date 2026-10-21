@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "older general",
+    "imagePath": "atlas-vtt/assets/older_general_1791910718110_t5ane4.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/older_general_1791910718110_t5ane4-9bfde0d2.webp",
+    "id": "token-1791910718456-hjfggi",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

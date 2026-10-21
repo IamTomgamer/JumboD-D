@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Volinda",
+    "imagePath": "atlas-vtt/assets/Volinda_1791910917272_8opgq0.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Volinda_1791910917272_8opgq0-d26339ce.webp",
+    "id": "token-1791910917675-ibb7rm",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

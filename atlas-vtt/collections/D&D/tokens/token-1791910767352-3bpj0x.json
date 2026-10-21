@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "haughty woman with pipe and crown",
+    "imagePath": "atlas-vtt/assets/haughty_woman_with_pipe_and_crown_1791910764896_2n6das.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/haughty_woman_with_pipe_and_crown_1791910764896_2n6das-599db1f5.webp",
+    "id": "token-1791910767352-3bpj0x",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

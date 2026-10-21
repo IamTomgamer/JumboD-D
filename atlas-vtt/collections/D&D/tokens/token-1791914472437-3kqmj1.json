@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "thunderbreath dragon",
+    "imagePath": "atlas-vtt/assets/thunderbreath_dragon_1791914472283_9knmx6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/thunderbreath_dragon_1791914472283_9knmx6-da24bb05.webp",
+    "id": "token-1791914472437-3kqmj1",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

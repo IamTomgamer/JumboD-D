@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "artificer with flying contraption",
+    "imagePath": "atlas-vtt/assets/artificer_with_flying_contraption_1791914086561_jc9khm.webp",
+    "collection": "D&D",
+    "tags": [
+      "Artificer"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/artificer_with_flying_contraption_1791914086561_jc9khm-9e370578.webp",
+    "id": "token-1791914087079-mut12i",
+    "createdAt": 1791914087079,
+    "modifiedAt": 1791914087079
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "red dragon 3",
+    "imagePath": "atlas-vtt/assets/red_dragon_3_1791914472059_hru31n.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/red_dragon_3_1791914472059_hru31n-2b2e22d5.webp",
+    "id": "token-1791914472437-9sfx8j",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Yermenna",
+    "imagePath": "atlas-vtt/assets/Yermenna_1791910768937_6w54bu.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Yermenna_1791910768937_6w54bu-a9378116.webp",
+    "id": "token-1791910769255-dby1ht",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

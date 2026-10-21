@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf cleric scholar",
+    "imagePath": "atlas-vtt/assets/dwarf_cleric_scholar_1791911294947_uzxpo3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_cleric_scholar_1791911294947_uzxpo3-98376871.webp",
+    "id": "token-1791911295663-bl642w",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

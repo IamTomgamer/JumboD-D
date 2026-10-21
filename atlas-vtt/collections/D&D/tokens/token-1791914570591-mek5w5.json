@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "blight skeletal dragon",
+    "imagePath": "atlas-vtt/assets/blight_skeletal_dragon_1791914567590_dfjjob.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blight_skeletal_dragon_1791914567590_dfjjob-3aad2af3.webp",
+    "id": "token-1791914570591-mek5w5",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

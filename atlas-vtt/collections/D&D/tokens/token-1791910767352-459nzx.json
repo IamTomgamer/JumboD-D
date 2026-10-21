@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female noble blonde",
+    "imagePath": "atlas-vtt/assets/human_female_noble_blonde_1791910767063_rfgebe.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_noble_blonde_1791910767063_rfgebe-a1425a46.webp",
+    "id": "token-1791910767352-459nzx",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

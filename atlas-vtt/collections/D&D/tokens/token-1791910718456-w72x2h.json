@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "tavern patron",
+    "imagePath": "atlas-vtt/assets/tavern_patron_1791910717205_8njcvc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/tavern_patron_1791910717205_8njcvc-226534e5.webp",
+    "id": "token-1791910718456-w72x2h",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

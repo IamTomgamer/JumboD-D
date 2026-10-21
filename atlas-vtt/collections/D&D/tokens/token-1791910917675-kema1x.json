@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Geres",
+    "imagePath": "atlas-vtt/assets/Geres_1791910916873_15rp0m.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Geres_1791910916873_15rp0m-e38861e7.webp",
+    "id": "token-1791910917675-kema1x",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

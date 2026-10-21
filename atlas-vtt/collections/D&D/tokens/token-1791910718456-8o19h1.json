@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "paladin",
+    "imagePath": "atlas-vtt/assets/paladin_1791910718340_3vbx9i.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/paladin_1791910718340_3vbx9i-bc70d5bf.webp",
+    "id": "token-1791910718456-8o19h1",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "trickster",
+    "imagePath": "atlas-vtt/assets/trickster_1791910717919_0yhf9m.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/trickster_1791910717919_0yhf9m-4a8846ee.webp",
+    "id": "token-1791910718456-gt2qmf",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

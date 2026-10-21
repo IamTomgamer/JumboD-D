@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "antagonist in black armor",
+    "imagePath": "atlas-vtt/assets/antagonist_in_black_armor_1791910716675_6st88o.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/antagonist_in_black_armor_1791910716675_6st88o-16fc2d0a.webp",
+    "id": "token-1791910718456-jjrx3x",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

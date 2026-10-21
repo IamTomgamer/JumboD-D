@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "welcoming scholar",
+    "imagePath": "atlas-vtt/assets/welcoming_scholar_1791910717259_3dbey7.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/welcoming_scholar_1791910717259_3dbey7-f4866d09.webp",
+    "id": "token-1791910718456-2s5qbi",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

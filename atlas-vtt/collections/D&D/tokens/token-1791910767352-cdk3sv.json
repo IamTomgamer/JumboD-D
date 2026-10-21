@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "relieved fighter",
+    "imagePath": "atlas-vtt/assets/relieved_fighter_1791910765702_hmvdr1.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/relieved_fighter_1791910765702_hmvdr1-b74b1d37.webp",
+    "id": "token-1791910767352-cdk3sv",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "zombie stitched 2",
+    "imagePath": "atlas-vtt/assets/zombie_stitched_2_1791914570396_8wg7h8.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/zombie_stitched_2_1791914570396_8wg7h8-40398743.webp",
+    "id": "token-1791914570591-cd6khs",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

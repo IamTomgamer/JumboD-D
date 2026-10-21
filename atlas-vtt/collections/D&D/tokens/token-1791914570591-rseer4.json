@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "flying specter",
+    "imagePath": "atlas-vtt/assets/flying_specter_1791914568089_a1g9tk.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/flying_specter_1791914568089_a1g9tk-8c66cb0d.webp",
+    "id": "token-1791914570591-rseer4",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

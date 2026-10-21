@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Lady Leandra",
+    "imagePath": "atlas-vtt/assets/Lady_Leandra_1791910764143_5yxx5v.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Lady_Leandra_1791910764143_5yxx5v-08439618.webp",
+    "id": "token-1791910767352-wrrfvg",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

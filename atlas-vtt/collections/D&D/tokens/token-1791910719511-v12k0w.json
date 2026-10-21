@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Ekvarn",
+    "imagePath": "atlas-vtt/assets/Ekvarn_1791910719402_qfk5od.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Ekvarn_1791910719402_qfk5od-ea2033d4.webp",
+    "id": "token-1791910719511-v12k0w",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

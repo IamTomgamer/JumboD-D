@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "undead knight token",
+    "imagePath": "atlas-vtt/assets/undead_knight_token_1791914569196_k911vy.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/undead_knight_token_1791914569196_k911vy-c54648f0.webp",
+    "id": "token-1791914570591-8kibuf",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

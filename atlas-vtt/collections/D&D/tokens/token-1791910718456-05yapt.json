@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Thargos",
+    "imagePath": "atlas-vtt/assets/Thargos_1791910718424_hw222y.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Thargos_1791910718424_hw222y-e1b7ea5a.webp",
+    "id": "token-1791910718456-05yapt",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

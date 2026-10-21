@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "old man thinking",
+    "imagePath": "atlas-vtt/assets/old_man_thinking_1791910717617_t4iudz.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/old_man_thinking_1791910717617_t4iudz-3c79c250.webp",
+    "id": "token-1791910718456-zbscky",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

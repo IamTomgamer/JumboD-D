@@ -1,0 +1,15 @@
+{
+  "mapPath": "atlas-vtt/collections/D&D/scenes/Ascot.atlasmap",
+  "atlasRecord": {
+    "format": 1,
+    "type": "scene",
+    "name": "Ascot",
+    "collection": "D&D",
+    "tags": [
+      "Towns"
+    ],
+    "id": "scene-1792481820146-xc9zns",
+    "createdAt": 1792481820146,
+    "modifiedAt": 1792481829074
+  }
+}

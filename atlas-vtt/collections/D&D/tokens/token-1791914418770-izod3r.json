@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "hezrou",
+    "imagePath": "atlas-vtt/assets/hezrou_1791914418191_bfhz90.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/hezrou_1791914418191_bfhz90-fdfc0252.webp",
+    "id": "token-1791914418770-izod3r",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "childish curiosity",
+    "imagePath": "atlas-vtt/assets/childish_curiosity_1791910916938_2xw3l4.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/childish_curiosity_1791910916938_2xw3l4-fff1abf2.webp",
+    "id": "token-1791910917675-k9zcnd",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

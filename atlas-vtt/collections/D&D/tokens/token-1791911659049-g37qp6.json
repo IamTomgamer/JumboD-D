@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cultist with dagger",
+    "imagePath": "atlas-vtt/assets/cultist_with_dagger_1791911658590_7njkyy.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cultist_with_dagger_1791911658590_7njkyy-32fad132.webp",
+    "id": "token-1791911659049-g37qp6",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1791911659049
+  }
+}

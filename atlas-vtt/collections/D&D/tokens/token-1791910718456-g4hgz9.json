@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "young affluent man",
+    "imagePath": "atlas-vtt/assets/young_affluent_man_1791910718124_wtdheq.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/young_affluent_man_1791910718124_wtdheq-bfecae4f.webp",
+    "id": "token-1791910718456-g4hgz9",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

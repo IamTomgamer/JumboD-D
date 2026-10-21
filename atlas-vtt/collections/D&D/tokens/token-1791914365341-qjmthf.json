@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "guarding radiant angel",
+    "imagePath": "atlas-vtt/assets/guarding_radiant_angel_1791914364907_1n1seq.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/guarding_radiant_angel_1791914364907_1n1seq-aac739cf.webp",
+    "id": "token-1791914365341-qjmthf",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Zamvorae",
+    "imagePath": "atlas-vtt/assets/Zamvorae_1791910917308_s68jtp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Zamvorae_1791910917308_s68jtp-e1c2534a.webp",
+    "id": "token-1791910917675-foqjem",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

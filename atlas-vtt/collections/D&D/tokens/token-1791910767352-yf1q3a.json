@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "wine connnoisseur",
+    "imagePath": "atlas-vtt/assets/wine_connnoisseur_1791910765337_upxmgl.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/wine_connnoisseur_1791910765337_upxmgl-00e1acd6.webp",
+    "id": "token-1791910767352-yf1q3a",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

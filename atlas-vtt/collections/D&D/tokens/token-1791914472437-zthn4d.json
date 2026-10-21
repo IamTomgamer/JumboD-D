@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "spirit dragon",
+    "imagePath": "atlas-vtt/assets/spirit_dragon_1791914472236_i52znb.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/spirit_dragon_1791914472236_i52znb-a2a997a5.webp",
+    "id": "token-1791914472437-zthn4d",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

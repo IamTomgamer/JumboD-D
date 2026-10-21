@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "regal woman dressed black",
+    "imagePath": "atlas-vtt/assets/regal_woman_dressed_black_1791910765437_5cpur2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/regal_woman_dressed_black_1791910765437_5cpur2-5b8d2962.webp",
+    "id": "token-1791910767352-1lnzxq",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

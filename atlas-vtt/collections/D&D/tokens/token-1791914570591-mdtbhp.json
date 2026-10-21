@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "zombie stitcher",
+    "imagePath": "atlas-vtt/assets/zombie_stitcher_1791914570463_foynlj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/zombie_stitcher_1791914570463_foynlj-c8c9a51a.webp",
+    "id": "token-1791914570591-mdtbhp",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

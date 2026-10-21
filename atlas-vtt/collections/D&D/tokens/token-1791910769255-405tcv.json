@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "regal old noble",
+    "imagePath": "atlas-vtt/assets/regal_old_noble_1791910769042_kfjrfk.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/regal_old_noble_1791910769042_kfjrfk-0b5c7230.webp",
+    "id": "token-1791910769255-405tcv",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "veteran in plate armor",
+    "imagePath": "atlas-vtt/assets/veteran_in_plate_armor_1791910718236_e4ra3m.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/veteran_in_plate_armor_1791910718236_e4ra3m-f1ef27cd.webp",
+    "id": "token-1791910718456-1aj9c0",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

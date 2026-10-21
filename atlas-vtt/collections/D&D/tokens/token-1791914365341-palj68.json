@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "tired angel",
+    "imagePath": "atlas-vtt/assets/tired_angel_1791914365167_ovd30t.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/tired_angel_1791914365167_ovd30t-76a672ce.webp",
+    "id": "token-1791914365341-palj68",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

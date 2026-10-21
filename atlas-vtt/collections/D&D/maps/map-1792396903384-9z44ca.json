@@ -1,0 +1,21 @@
+{
+  "id": "map-1792396903384-9z44ca",
+  "name": "Town Square",
+  "mapFilePath": "atlas-vtt/assets/Town_Square_1792396903353_6806lx.webp",
+  "tags": [],
+  "collection": "D&D",
+  "createdAt": 1792396903384,
+  "modifiedAt": 1792396903384,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "Town Square",
+    "mapFilePath": "atlas-vtt/assets/Town_Square_1792396903353_6806lx.webp",
+    "collection": "D&D",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Town_Square_1792396903353_6806lx-bf508cb0.webp",
+    "id": "map-1792396903384-9z44ca",
+    "createdAt": 1792396903384,
+    "modifiedAt": 1792396903384
+  }
+}

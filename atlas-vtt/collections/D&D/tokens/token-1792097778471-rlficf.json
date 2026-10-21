@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Chest",
+    "imagePath": "atlas-vtt/assets/Chest_1792097778371_nhis6w.webp",
+    "collection": "D&D",
+    "tags": [
+      "Non-Character"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Chest_1792097778371_nhis6w-a6ccaac6.webp",
+    "id": "token-1792097778471-rlficf",
+    "createdAt": 1792097778471,
+    "modifiedAt": 1792097837784
+  }
+}

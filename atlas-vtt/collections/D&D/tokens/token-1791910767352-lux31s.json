@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "elder woman",
+    "imagePath": "atlas-vtt/assets/elder_woman_1791910764841_wigbto.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_woman_1791910764841_wigbto-ecb15fd9.webp",
+    "id": "token-1791910767352-lux31s",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

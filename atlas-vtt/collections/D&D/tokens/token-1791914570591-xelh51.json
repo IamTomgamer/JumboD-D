@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "nightstalker",
+    "imagePath": "atlas-vtt/assets/nightstalker_1791914568654_cldomh.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/nightstalker_1791914568654_cldomh-00875b95.webp",
+    "id": "token-1791914570591-xelh51",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

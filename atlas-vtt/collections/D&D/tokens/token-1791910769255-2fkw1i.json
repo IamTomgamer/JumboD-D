@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Iarnu",
+    "imagePath": "atlas-vtt/assets/Iarnu_1791910768686_zo3qnp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Iarnu_1791910768686_zo3qnp-9a980481.webp",
+    "id": "token-1791910769255-2fkw1i",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

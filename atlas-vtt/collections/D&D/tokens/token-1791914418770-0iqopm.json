@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "demon ritualist",
+    "imagePath": "atlas-vtt/assets/demon_ritualist_1791914417704_9w2tfk.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/demon_ritualist_1791914417704_9w2tfk-e99242b1.webp",
+    "id": "token-1791914418770-0iqopm",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

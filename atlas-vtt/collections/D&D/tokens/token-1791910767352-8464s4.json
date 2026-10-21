@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "elder woman with goggles",
+    "imagePath": "atlas-vtt/assets/elder_woman_with_goggles_1791910766061_gtk0mx.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_woman_with_goggles_1791910766061_gtk0mx-cb9783f6.webp",
+    "id": "token-1791910767352-8464s4",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

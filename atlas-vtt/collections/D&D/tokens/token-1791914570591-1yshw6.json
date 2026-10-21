@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "thinking undead",
+    "imagePath": "atlas-vtt/assets/thinking_undead_1791914568933_vtmxnt.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/thinking_undead_1791914568933_vtmxnt-c437251f.webp",
+    "id": "token-1791914570591-1yshw6",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

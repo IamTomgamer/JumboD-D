@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "imposing sovereign",
+    "imagePath": "atlas-vtt/assets/imposing_sovereign_1791910765396_8zwje1.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/imposing_sovereign_1791910765396_8zwje1-fd37072c.webp",
+    "id": "token-1791910767352-xp2eqa",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

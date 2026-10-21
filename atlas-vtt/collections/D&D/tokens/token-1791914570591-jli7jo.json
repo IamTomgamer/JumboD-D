@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "skeleton knight",
+    "imagePath": "atlas-vtt/assets/skeleton_knight_1791914568796_gm1cna.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/skeleton_knight_1791914568796_gm1cna-20ff6f15.webp",
+    "id": "token-1791914570591-jli7jo",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "undead dinosaur",
+    "imagePath": "atlas-vtt/assets/undead_dinosaur_1791914568997_nn9tte.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/undead_dinosaur_1791914568997_nn9tte-3d618525.webp",
+    "id": "token-1791914570591-v60tcw",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

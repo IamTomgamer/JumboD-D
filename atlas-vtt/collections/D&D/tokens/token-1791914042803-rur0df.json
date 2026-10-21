@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "circle of the land druid",
+    "imagePath": "atlas-vtt/assets/circle_of_the_land_druid_1791914042553_g9lu16.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/circle_of_the_land_druid_1791914042553_g9lu16-0ddd6158.webp",
+    "id": "token-1791914042803-rur0df",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "scared youth",
+    "imagePath": "atlas-vtt/assets/scared_youth_1791910917224_lecxvz.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/scared_youth_1791910917224_lecxvz-cfc5fe23.webp",
+    "id": "token-1791910917675-hk9fzr",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

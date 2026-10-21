@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Depdack",
+    "imagePath": "atlas-vtt/assets/Depdack_1791910719166_zdg5xf.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Depdack_1791910719166_zdg5xf-cfc026b4.webp",
+    "id": "token-1791910719511-b1qpjo",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

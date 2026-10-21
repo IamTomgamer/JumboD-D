@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel among ruins",
+    "imagePath": "atlas-vtt/assets/angel_among_ruins_1791914363012_z5245b.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_among_ruins_1791914363012_z5245b-116f44cd.webp",
+    "id": "token-1791914365341-rpx5wg",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

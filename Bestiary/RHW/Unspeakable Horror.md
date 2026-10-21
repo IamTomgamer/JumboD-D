@@ -1,0 +1,43 @@
+---
+statblock: true
+layout: Basic 5e Layout
+name: Unspeakable Horror
+source: RHW
+size: Huge
+type: monstrosity
+alignment: chaotic evil
+ac: 13
+hp: 126
+hit_dice: 12d12 + 48
+speed: 40 ft.
+stats:
+- 21
+- 13
+- 19
+- 3
+- 14
+- 17
+saves:
+- con: 7
+- wis: 5
+damage_resistances: acid, cold, necrotic, poison
+condition_immunities: frightened, grappled, prone, restrained
+senses: Truesight 60 ft., passive Perception 12
+languages: —
+cr: '8'
+traits:
+- name: Incomprehensible Form
+  desc: Attack rolls against the horror have Disadvantage. This trait is suppressed while the horror has the Incapacitated condition.
+- name: Regeneration
+  desc: The horror regains 10 Hit Points at the start of each of its turns if it has at least 1 Hit Point.
+- name: Terrifying Aura
+  desc: The horror radiates an aura in a 15-foot Emanation while it doesn't have the Incapacitated condition. wis DC 15, any enemy that starts its turn in the aura.  The target has the Frightened condition until the start of its next turn. While Frightened in this way, the target has the Paralyzed condition.  The target is immune to this horror's aura for 24 hours.
+actions:
+- name: Multiattack
+  desc: The horror makes three Phantasmic Assault attacks.
+- name: Phantasmic Assault
+  desc: 'm,r +8, reach 5 ft. or range 60 ft. Hit: 14 (4d6) Cold, Necrotic, Poison, or Psychic damage (horror''s choice).'
+reactions:
+- name: Warp Mind
+  desc: ' A creature the horror can see within 120 feet of itself takes the Study action or makes a Constitution saving throw to maintain Concentration. dwis DC 15, the triggering creature.  7 (2d6) Psychic damage, and the target has the Stunned condition until the end of its next turn.'
+---

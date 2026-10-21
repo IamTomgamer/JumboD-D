@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Chult grave cleric",
+    "imagePath": "atlas-vtt/assets/Chult_grave_cleric_1791914020514_11wk26.webp",
+    "collection": "D&D",
+    "tags": [
+      "Religious Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Chult_grave_cleric_1791914020514_11wk26-c6173a4b.webp",
+    "id": "token-1791914020847-1k3h8i",
+    "createdAt": 1791914020847,
+    "modifiedAt": 1791914020847
+  }
+}

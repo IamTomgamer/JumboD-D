@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Dac Fayden",
+    "imagePath": "atlas-vtt/assets/Dac_Fayden_1791910717309_21lc9r.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Dac_Fayden_1791910717309_21lc9r-6553d868.webp",
+    "id": "token-1791910718456-b6n0vb",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

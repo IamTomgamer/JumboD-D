@@ -1,0 +1,6 @@
+{
+  "maxHP": 100,
+  "currentHP": 100,
+  "tempHP": 0,
+  "isConcentrating": false
+}

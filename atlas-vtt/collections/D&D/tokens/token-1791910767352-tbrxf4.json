@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female servant",
+    "imagePath": "atlas-vtt/assets/human_female_servant_1791910766819_d78htc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_servant_1791910766819_d78htc-882d53c7.webp",
+    "id": "token-1791910767352-tbrxf4",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "stern man with high collar",
+    "imagePath": "atlas-vtt/assets/stern_man_with_high_collar_1791910717700_c3l09w.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/stern_man_with_high_collar_1791910717700_c3l09w-f192f08b.webp",
+    "id": "token-1791910718456-c3ywmt",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

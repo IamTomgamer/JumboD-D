@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "youth, blue eyes, earrings",
+    "imagePath": "atlas-vtt/assets/youth__blue_eyes__earrings_1791910763927_2tl5kn.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/youth__blue_eyes__earrings_1791910763927_2tl5kn-537f1781.webp",
+    "id": "token-1791910767352-fmpv0f",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

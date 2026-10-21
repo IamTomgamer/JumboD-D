@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "warforged with red energy stone",
+    "imagePath": "atlas-vtt/assets/warforged_with_red_energy_stone_1791914320404_4wzxes.webp",
+    "collection": "D&D",
+    "tags": [
+      "Warforged"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/warforged_with_red_energy_stone_1791914320404_4wzxes-aff44a75.webp",
+    "id": "token-1791914320504-ncsc7d",
+    "createdAt": 1791914320504,
+    "modifiedAt": 1791914320504
+  }
+}

@@ -1,0 +1,6 @@
+filters:
+  and:
+    - LootTables.contains("Weapons")
+views:
+  - type: table
+    name: View

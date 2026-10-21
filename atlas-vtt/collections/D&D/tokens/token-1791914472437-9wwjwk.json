@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "elder dragon, white with red details",
+    "imagePath": "atlas-vtt/assets/elder_dragon__white_with_red_details_1791914471579_5fidm3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_dragon__white_with_red_details_1791914471579_5fidm3-7567eb8c.webp",
+    "id": "token-1791914472437-9wwjwk",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

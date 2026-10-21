@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cartographer",
+    "imagePath": "atlas-vtt/assets/cartographer_1791910764452_wabc8u.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cartographer_1791910764452_wabc8u-4ca3c31e.webp",
+    "id": "token-1791910767352-o5sx93",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

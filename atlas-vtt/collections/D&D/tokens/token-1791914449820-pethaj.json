@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dragonbord red",
+    "imagePath": "atlas-vtt/assets/dragonbord_red_1791914449591_gml68f.webp",
+    "collection": "D&D",
+    "tags": [
+      "DragonBorn"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dragonbord_red_1791914449591_gml68f-49808b58.webp",
+    "id": "token-1791914449820-pethaj",
+    "createdAt": 1791914449820,
+    "modifiedAt": 1791914449820
+  }
+}

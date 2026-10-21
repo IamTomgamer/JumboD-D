@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "young man with bandana",
+    "imagePath": "atlas-vtt/assets/young_man_with_bandana_1791910717653_sx57u5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/young_man_with_bandana_1791910717653_sx57u5-efcd1be0.webp",
+    "id": "token-1791910718456-yteaxu",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

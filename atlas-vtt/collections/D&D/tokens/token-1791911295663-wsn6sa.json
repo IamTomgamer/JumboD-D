@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf negotiator",
+    "imagePath": "atlas-vtt/assets/dwarf_negotiator_1791911294591_2cau0a.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_negotiator_1791911294591_2cau0a-c9bc694a.webp",
+    "id": "token-1791911295663-wsn6sa",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

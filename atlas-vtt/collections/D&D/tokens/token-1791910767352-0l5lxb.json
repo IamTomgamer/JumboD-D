@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "determined captain",
+    "imagePath": "atlas-vtt/assets/determined_captain_1791910765661_qt1lh2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/determined_captain_1791910765661_qt1lh2-23c163b7.webp",
+    "id": "token-1791910767352-0l5lxb",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

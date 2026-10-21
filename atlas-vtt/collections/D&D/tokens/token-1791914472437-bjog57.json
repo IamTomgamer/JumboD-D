@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "white dragon",
+    "imagePath": "atlas-vtt/assets/white_dragon_1791914472408_rfxc7u.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/white_dragon_1791914472408_rfxc7u-78eb087f.webp",
+    "id": "token-1791914472437-bjog57",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

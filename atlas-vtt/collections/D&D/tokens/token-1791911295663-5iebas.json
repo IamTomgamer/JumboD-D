@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf paladin 2",
+    "imagePath": "atlas-vtt/assets/dwarf_paladin_2_1791911294075_tyslow.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Paladin"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_paladin_2_1791911294075_tyslow-8d58aa6f.webp",
+    "id": "token-1791911295663-5iebas",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

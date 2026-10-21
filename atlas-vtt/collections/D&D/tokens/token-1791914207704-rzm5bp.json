@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cuombajj witch 2",
+    "imagePath": "atlas-vtt/assets/cuombajj_witch_2_1791914206379_qbue6k.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cuombajj_witch_2_1791914206379_qbue6k-21555861.webp",
+    "id": "token-1791914207704-rzm5bp",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

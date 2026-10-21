@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "5e Warlock Character Art min",
+    "imagePath": "atlas-vtt/assets/5e_Warlock_Character_Art_min_1792080496911_i3jfci.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Warlock"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/5e_Warlock_Character_Art_min_1792080496911_i3jfci-0c044c3a.webp",
+    "id": "token-1792080496992-ope2ee",
+    "createdAt": 1792080496992,
+    "modifiedAt": 1792267683168
+  }
+}

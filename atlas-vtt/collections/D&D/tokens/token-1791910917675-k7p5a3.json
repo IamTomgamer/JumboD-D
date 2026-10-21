@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Duversa",
+    "imagePath": "atlas-vtt/assets/Duversa_1791910916982_xtf5j9.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Duversa_1791910916982_xtf5j9-dd38a5cf.webp",
+    "id": "token-1791910917675-k7p5a3",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "grey armored fighter",
+    "imagePath": "atlas-vtt/assets/grey_armored_fighter_1791910717485_obqrct.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/grey_armored_fighter_1791910717485_obqrct-3af570e5.webp",
+    "id": "token-1791910718456-hsyy81",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

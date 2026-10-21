@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "barbarian smirking",
+    "imagePath": "atlas-vtt/assets/barbarian_smirking_1791910764377_bojr1f.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/barbarian_smirking_1791910764377_bojr1f-bae7100f.webp",
+    "id": "token-1791910767352-3a73h1",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

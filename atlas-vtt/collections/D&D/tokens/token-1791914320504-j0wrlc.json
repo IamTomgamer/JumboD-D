@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "warforged cleric",
+    "imagePath": "atlas-vtt/assets/warforged_cleric_1791914320112_yuvpei.webp",
+    "collection": "D&D",
+    "tags": [
+      "Warforged"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/warforged_cleric_1791914320112_yuvpei-a9580bb9.webp",
+    "id": "token-1791914320504-j0wrlc",
+    "createdAt": 1791914320504,
+    "modifiedAt": 1791914320504
+  }
+}

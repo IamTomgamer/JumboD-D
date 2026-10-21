@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "emerald dragon",
+    "imagePath": "atlas-vtt/assets/emerald_dragon_1791914471725_wgdrmo.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/emerald_dragon_1791914471725_wgdrmo-fc14cca4.webp",
+    "id": "token-1791914472437-qusjiz",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

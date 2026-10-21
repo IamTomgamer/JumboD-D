@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "fiend",
+    "imagePath": "atlas-vtt/assets/fiend_1791914418061_8x1p10.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/fiend_1791914418061_8x1p10-e9dac976.webp",
+    "id": "token-1791914418770-ddyak0",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

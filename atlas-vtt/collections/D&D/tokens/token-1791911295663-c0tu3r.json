@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dward merchant",
+    "imagePath": "atlas-vtt/assets/dward_merchant_1791911294413_i1v7oz.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dward_merchant_1791911294413_i1v7oz-7f9b8dbf.webp",
+    "id": "token-1791911295663-c0tu3r",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

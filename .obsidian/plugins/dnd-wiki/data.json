@@ -1,0 +1,17 @@
+{
+  "baseurls": {
+    "2024": "http://dnd2024.wikidot.com",
+    "5e": "http://dnd5e.wikidot.com"
+  },
+  "homebrewSearchEntireVault": true,
+  "homebrewFolderPath": "Custom Homebrew",
+  "homebrewClasses": [],
+  "homebrewMagicSchools": [
+    "Sigilist"
+  ],
+  "homebrewWeaponTypes": [],
+  "homebrewMagicItemTypes": [],
+  "homebrewIgnoredFilePrefixes": [
+    "_"
+  ]
+}

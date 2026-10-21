@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female disheveled",
+    "imagePath": "atlas-vtt/assets/human_female_disheveled_1791910766934_ch64oz.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_disheveled_1791910766934_ch64oz-1969d419.webp",
+    "id": "token-1791910767352-ypb8kp",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

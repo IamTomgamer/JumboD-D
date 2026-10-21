@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "rejkar",
+    "imagePath": "atlas-vtt/assets/rejkar_1791914418509_st5l3o.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/rejkar_1791914418509_st5l3o-a38ba274.webp",
+    "id": "token-1791914418770-mlw57o",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

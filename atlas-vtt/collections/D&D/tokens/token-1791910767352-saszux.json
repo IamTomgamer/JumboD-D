@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "smiling youth",
+    "imagePath": "atlas-vtt/assets/smiling_youth_1791910765634_gr3top.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/smiling_youth_1791910765634_gr3top-c8f367bb.webp",
+    "id": "token-1791910767352-saszux",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel balancer",
+    "imagePath": "atlas-vtt/assets/angel_balancer_1791914363109_1x7t72.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_balancer_1791914363109_1x7t72-134e28c9.webp",
+    "id": "token-1791914365341-mrbye3",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

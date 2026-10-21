@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "smiling artificer",
+    "imagePath": "atlas-vtt/assets/smiling_artificer_1791910766118_xtsduo.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/smiling_artificer_1791910766118_xtsduo-0e78e14b.webp",
+    "id": "token-1791910767352-ir2781",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

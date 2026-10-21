@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cultist leader",
+    "imagePath": "atlas-vtt/assets/cultist_leader_1791911658757_xry93f.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cultist_leader_1791911658757_xry93f-bfb1483e.webp",
+    "id": "token-1791911659049-65lsmx",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1791911659049
+  }
+}

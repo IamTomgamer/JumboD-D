@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "fallen valkyrie",
+    "imagePath": "atlas-vtt/assets/fallen_valkyrie_1791914364841_5norzm.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/fallen_valkyrie_1791914364841_5norzm-9dab97e3.webp",
+    "id": "token-1791914365341-hhldcd",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

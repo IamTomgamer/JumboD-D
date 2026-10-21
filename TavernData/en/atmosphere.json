@@ -1,0 +1,53 @@
+{
+  "atmospheres": [
+    "The room is lit only by the flickering fireplace; shadows gather in the corners. The quiet rattle of dice can be heard.",
+    "The air is thick with the smell of cheap perfume and spilled wine. Ringing laughter and the clinking of glasses echo around.",
+    "A heavy scent of sweat and unwashed bodies hangs in the air. Patrons scowl suspiciously.",
+    "Bright and spacious. Tables are covered with clean tablecloths. A calm harp melody plays.",
+    "A draft sweeps through the hall, making the candle flames dance. It smells of dampness and old wood.",
+    "A noisy crowd is celebrating a successful campaign. Shouts, songs, and clinking mugs drown out any conversation.",
+    "The aroma of fresh pastry and cinnamon fills the air. The place feels very cozy and safe.",
+    "The tavern is full of mysterious hooded figures. Everyone speaks in whispers.",
+    "It smells of ozone and burnt hair here. Apparently, a magical incident occurred recently.",
+    "Trophies of bizarre creatures hang on the walls. It smells of leather and weapon grease.",
+    "The place resembles a greenhouse - pots with exotic plants are placed everywhere.",
+    "Cages with songbirds hang from the ceiling. Their chirping fills the entire room.",
+    "The air is thick with pipe smoke. Visibility is no more than a few steps.",
+    "The floor is covered with fresh sawdust. It smells of pine and roasted meat.",
+    "The tavern is illuminated by magical glowing mushrooms, emitting a soft bluish light."
+  ],
+  "rumors": [
+    "The local lord is gathering a militia; they say the border is restless.",
+    "Last night someone broke into the tomb of the city's founder.",
+    "Iron prices have jumped again. Blacksmiths complain about supply interruptions.",
+    "A giant wolf with glowing eyes was seen in the forest.",
+    "A ship without a crew moored at the port.",
+    "They say a cult of a dark deity has settled in the catacombs under the temple.",
+    "A strange amulet was stolen from an antique dealer.",
+    "Authorities are looking for a group of adventurers for causing a riot in a neighboring village.",
+    "The burgomaster's daughter ran away with a traveling artist.",
+    "An avalanche in the mountains exposed the entrance to ancient ruins.",
+    "The river on the outskirts of the city suddenly turned blood-red.",
+    "A local mage is looking for rare ingredients and promises a generous reward.",
+    "The thieves' guild has a new leader; turf wars are expected.",
+    "Farmers complain that someone is draining the blood from their livestock at night.",
+    "A great storm is approaching; old-timers say there hasn't been one like it in a hundred years."
+  ],
+  "patron_quirks": [
+    "Draws the faces of everyone who enters with charcoal in a notebook.",
+    "Constantly recounts a small pouch of copper coins.",
+    "Quietly hums a creepy lullaby.",
+    "Lays out Tarot cards on the table.",
+    "Drinks only water, carefully examining the bottom of the mug.",
+    "Loudly argues with themselves in two different voices.",
+    "Tries to sell dubious amulets to those around.",
+    "Sleeps sitting at the table, hugging their sword.",
+    "Juggles daggers, occasionally dropping them.",
+    "Writes a long letter, wiping away tears every now and then.",
+    "Feeds a tiny pet dragon crumbs from the table.",
+    "Stares intently at one spot without blinking.",
+    "Tries to read a book while holding it upside down.",
+    "Carves wooden figurines with a small knife.",
+    "Drinks from a flask that never seems to run empty."
+  ]
+}

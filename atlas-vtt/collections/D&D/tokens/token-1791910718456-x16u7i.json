@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "vicious arcanist",
+    "imagePath": "atlas-vtt/assets/vicious_arcanist_1791910717171_5n8pkr.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/vicious_arcanist_1791910717171_5n8pkr-19d38b8e.webp",
+    "id": "token-1791910718456-x16u7i",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

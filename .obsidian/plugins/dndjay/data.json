@@ -1,0 +1,84 @@
+{
+  "loadouts": [
+    {
+      "id": "default",
+      "name": "Tavern",
+      "pads": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "quickPads": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "id": "lmu9x3ldn9usp9",
+      "name": "Loadout 2",
+      "pads": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "quickPads": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "activeLoadoutId": "default",
+  "autoplay": true,
+  "scene": {
+    "transition": "smooth",
+    "unselected": "keep"
+  },
+  "projector": {
+    "host": "raspberrypi.local",
+    "port": 8765
+  },
+  "channelNames": [
+    "Channel 1",
+    "Channel 2",
+    "Channel 3",
+    "Effect"
+  ]
+}

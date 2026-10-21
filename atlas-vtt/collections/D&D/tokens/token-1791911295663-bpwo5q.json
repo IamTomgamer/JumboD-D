@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf merchant",
+    "imagePath": "atlas-vtt/assets/dwarf_merchant_1791911295415_i5fle6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_merchant_1791911295415_i5fle6-46c65057.webp",
+    "id": "token-1791911295663-bpwo5q",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

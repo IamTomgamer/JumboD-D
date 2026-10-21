@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "child travelling",
+    "imagePath": "atlas-vtt/assets/child_travelling_1791910917058_98vnpt.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/child_travelling_1791910917058_98vnpt-60f51642.webp",
+    "id": "token-1791910917675-i38j1e",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

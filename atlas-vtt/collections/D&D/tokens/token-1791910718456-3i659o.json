@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "priest with beard",
+    "imagePath": "atlas-vtt/assets/priest_with_beard_1791910717992_fpzrlg.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/priest_with_beard_1791910717992_fpzrlg-8855007d.webp",
+    "id": "token-1791910718456-3i659o",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

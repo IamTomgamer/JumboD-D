@@ -1,0 +1,19 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf paladin",
+    "imagePath": "atlas-vtt/assets/dwarf_paladin_1791911295014_gqllzh.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Female",
+      "Paladin"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_paladin_1791911295014_gqllzh-179c8b56.webp",
+    "id": "token-1791911295663-9wh2er",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

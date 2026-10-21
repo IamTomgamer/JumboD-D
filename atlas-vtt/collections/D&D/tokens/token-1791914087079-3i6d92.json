@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "elder artificer",
+    "imagePath": "atlas-vtt/assets/elder_artificer_1791914086489_2lhic0.webp",
+    "collection": "D&D",
+    "tags": [
+      "Artificer"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_artificer_1791914086489_2lhic0-61c9c453.webp",
+    "id": "token-1791914087079-3i6d92",
+    "createdAt": 1791914087079,
+    "modifiedAt": 1791914087079
+  }
+}

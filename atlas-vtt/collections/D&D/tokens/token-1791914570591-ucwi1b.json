@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "zombies invasion",
+    "imagePath": "atlas-vtt/assets/zombies_invasion_1791914570508_ykhs56.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/zombies_invasion_1791914570508_ykhs56-88efc128.webp",
+    "id": "token-1791914570591-ucwi1b",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

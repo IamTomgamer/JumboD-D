@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel in throne",
+    "imagePath": "atlas-vtt/assets/angel_in_throne_1791914363449_lul7j3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_in_throne_1791914363449_lul7j3-1b305b9c.webp",
+    "id": "token-1791914365341-sfos8i",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Raghin",
+    "imagePath": "atlas-vtt/assets/Raghin_1791910917340_owklec.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Raghin_1791910917340_owklec-f1ba5764.webp",
+    "id": "token-1791910917675-5u2z1c",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

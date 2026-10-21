@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Njallar",
+    "imagePath": "atlas-vtt/assets/Njallar_1791910719193_3qf8yb.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Njallar_1791910719193_3qf8yb-0923941b.webp",
+    "id": "token-1791910719511-xwds0a",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

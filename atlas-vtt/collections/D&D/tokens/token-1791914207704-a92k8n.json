@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cultist warlock",
+    "imagePath": "atlas-vtt/assets/cultist_warlock_1791914207520_6dp6lf.webp",
+    "collection": "D&D",
+    "tags": [
+      "Warlock",
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cultist_warlock_1791914207520_6dp6lf-5c032df2.webp",
+    "id": "token-1791914207704-a92k8n",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

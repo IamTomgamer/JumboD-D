@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "deer hunter",
+    "imagePath": "atlas-vtt/assets/deer_hunter_1791910767127_1rrac3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/deer_hunter_1791910767127_1rrac3-7dbe2253.webp",
+    "id": "token-1791910767352-3nqbkw",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

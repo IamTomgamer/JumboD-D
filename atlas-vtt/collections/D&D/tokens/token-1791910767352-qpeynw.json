@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "higher scholar mage",
+    "imagePath": "atlas-vtt/assets/higher_scholar_mage_1791910764021_vzzekr.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/higher_scholar_mage_1791910764021_vzzekr-162d6947.webp",
+    "id": "token-1791910767352-qpeynw",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

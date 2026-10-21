@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "caller of the sea",
+    "imagePath": "atlas-vtt/assets/caller_of_the_sea_1791911658337_f01s1y.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/caller_of_the_sea_1791911658337_f01s1y-63757ff2.webp",
+    "id": "token-1791911659049-zx9wch",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1791911659049
+  }
+}

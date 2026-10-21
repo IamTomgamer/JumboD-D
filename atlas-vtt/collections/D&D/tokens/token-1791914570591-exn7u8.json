@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "death giant",
+    "imagePath": "atlas-vtt/assets/death_giant_1791914567729_7xtbu4.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/death_giant_1791914567729_7xtbu4-ca575d2e.webp",
+    "id": "token-1791914570591-exn7u8",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

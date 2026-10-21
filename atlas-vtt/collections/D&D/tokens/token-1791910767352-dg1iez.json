@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "corrupted rogue",
+    "imagePath": "atlas-vtt/assets/corrupted_rogue_1791910767200_3xqhwc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/corrupted_rogue_1791910767200_3xqhwc-d91d758b.webp",
+    "id": "token-1791910767352-dg1iez",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

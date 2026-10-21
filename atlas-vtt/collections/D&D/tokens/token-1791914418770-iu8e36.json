@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "devil hound rider",
+    "imagePath": "atlas-vtt/assets/devil_hound_rider_1791914417846_jsnlgj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/devil_hound_rider_1791914417846_jsnlgj-8000e660.webp",
+    "id": "token-1791914418770-iu8e36",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

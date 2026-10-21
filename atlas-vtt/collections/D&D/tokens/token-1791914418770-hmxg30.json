@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "servant of Lolth",
+    "imagePath": "atlas-vtt/assets/servant_of_Lolth_1791914418546_x51ci9.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/servant_of_Lolth_1791914418546_x51ci9-6a5dfe0c.webp",
+    "id": "token-1791914418770-hmxg30",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

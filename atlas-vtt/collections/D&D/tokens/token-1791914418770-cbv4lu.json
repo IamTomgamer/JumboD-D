@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "devil fire spreader",
+    "imagePath": "atlas-vtt/assets/devil_fire_spreader_1791914417812_ff0mai.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/devil_fire_spreader_1791914417812_ff0mai-c44a90a2.webp",
+    "id": "token-1791914418770-cbv4lu",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

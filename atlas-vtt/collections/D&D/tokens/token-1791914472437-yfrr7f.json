@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "adult blue dragon",
+    "imagePath": "atlas-vtt/assets/adult_blue_dragon_1791914470846_o5uf6a.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/adult_blue_dragon_1791914470846_o5uf6a-0079d282.webp",
+    "id": "token-1791914472437-yfrr7f",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1792099329360,
+    "statblockPath": "Bestiary/MM/Adult Blue Dragon.md"
+  }
+}

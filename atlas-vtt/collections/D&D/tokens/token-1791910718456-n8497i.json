@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "scholar poet",
+    "imagePath": "atlas-vtt/assets/scholar_poet_1791910718326_98767x.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/scholar_poet_1791910718326_98767x-5c256255.webp",
+    "id": "token-1791910718456-n8497i",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

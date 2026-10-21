@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "hooded stern female",
+    "imagePath": "atlas-vtt/assets/hooded_stern_female_1791910766567_8q6579.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/hooded_stern_female_1791910766567_8q6579-e420f958.webp",
+    "id": "token-1791910767352-8kvhfw",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Hoille",
+    "imagePath": "atlas-vtt/assets/Hoille_1791910768779_uz8065.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Hoille_1791910768779_uz8065-1d7629cb.webp",
+    "id": "token-1791910769255-tofba0",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

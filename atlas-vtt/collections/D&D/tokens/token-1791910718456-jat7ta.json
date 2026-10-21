@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "rich artificer",
+    "imagePath": "atlas-vtt/assets/rich_artificer_1791910717146_kniqxl.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/rich_artificer_1791910717146_kniqxl-93b25ead.webp",
+    "id": "token-1791910718456-jat7ta",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

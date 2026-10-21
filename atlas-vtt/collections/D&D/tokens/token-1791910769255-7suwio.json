@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Medeth",
+    "imagePath": "atlas-vtt/assets/Medeth_1791910769111_ini2xl.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Medeth_1791910769111_ini2xl-bd5efd4e.webp",
+    "id": "token-1791910769255-7suwio",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

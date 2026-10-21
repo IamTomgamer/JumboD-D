@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "demon of bloodlust",
+    "imagePath": "atlas-vtt/assets/demon_of_bloodlust_1791914417595_poefy2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/demon_of_bloodlust_1791914417595_poefy2-c07eb1ea.webp",
+    "id": "token-1791914418770-xcoej9",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

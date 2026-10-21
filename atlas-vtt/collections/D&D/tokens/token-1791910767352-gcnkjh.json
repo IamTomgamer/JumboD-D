@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "travelling merchant",
+    "imagePath": "atlas-vtt/assets/travelling_merchant_1791910766002_52kikw.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/travelling_merchant_1791910766002_52kikw-051bda85.webp",
+    "id": "token-1791910767352-gcnkjh",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

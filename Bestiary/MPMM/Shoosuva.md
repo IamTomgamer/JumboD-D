@@ -1,0 +1,41 @@
+---
+statblock: true
+layout: Basic 5e Layout
+name: Shoosuva
+source: MPMM
+size: Large
+type: fiend
+subtype: demon
+alignment: Typically chaotic evil
+ac: 14 (natural armor)
+hp: 136
+hit_dice: 16d10 + 48
+speed: 40 ft.
+stats:
+- 18
+- 13
+- 17
+- 7
+- 14
+- 9
+saves:
+- dex: 4
+- con: 6
+- wis: 5
+damage_resistances: cold, fire, lightning
+damage_immunities: poison
+condition_immunities: charmed, frightened, poisoned
+senses: darkvision 60 ft., passive Perception 12
+languages: Abyssal, Gnoll, telepathy 120 ft.
+cr: '8'
+actions:
+- name: Multiattack
+  desc: The shoosuva makes one Bite attack and one Tail Stinger attack.
+- name: Bite
+  desc: 'Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 26 (4d10 + 4) piercing damage.'
+- name: Tail Stinger
+  desc: 'Melee Weapon Attack: +7 to hit, reach 15 ft., one creature. Hit: 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, the target is also paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.'
+bonus_actions:
+- name: Rampage
+  desc: When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can move up to half its speed and make one Bite attack.
+---

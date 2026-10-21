@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "roaring dragon(1)",
+    "imagePath": "atlas-vtt/assets/roaring_dragon_1__1791914472176_y03fop.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/roaring_dragon_1__1791914472176_y03fop-01b365ed.webp",
+    "id": "token-1791914472437-jwa9c5",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

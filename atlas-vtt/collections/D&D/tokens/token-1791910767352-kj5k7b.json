@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "blissful young woman",
+    "imagePath": "atlas-vtt/assets/blissful_young_woman_1791910764417_zyzavc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blissful_young_woman_1791910764417_zyzavc-17e69fea.webp",
+    "id": "token-1791910767352-kj5k7b",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

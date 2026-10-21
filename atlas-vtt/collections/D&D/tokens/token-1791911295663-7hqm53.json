@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf in armor",
+    "imagePath": "atlas-vtt/assets/dwarf_in_armor_1791911295443_6l8sap.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_in_armor_1791911295443_6l8sap-4cfebf78.webp",
+    "id": "token-1791911295663-7hqm53",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

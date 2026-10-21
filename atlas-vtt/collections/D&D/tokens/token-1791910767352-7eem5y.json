@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "fighter adjusting her armor",
+    "imagePath": "atlas-vtt/assets/fighter_adjusting_her_armor_1791910765244_obohns.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/fighter_adjusting_her_armor_1791910765244_obohns-7fb4c0a4.webp",
+    "id": "token-1791910767352-7eem5y",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

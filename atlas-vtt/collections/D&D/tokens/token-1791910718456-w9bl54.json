@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cutpurse",
+    "imagePath": "atlas-vtt/assets/cutpurse_1791910717908_cjngv2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cutpurse_1791910717908_cjngv2-978d9d17.webp",
+    "id": "token-1791910718456-w9bl54",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

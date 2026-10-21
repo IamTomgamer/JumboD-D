@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human with wolf pup",
+    "imagePath": "atlas-vtt/assets/human_with_wolf_pup_1791910717511_k22yz2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_with_wolf_pup_1791910717511_k22yz2-453f00ad.webp",
+    "id": "token-1791910718456-ix5d9j",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

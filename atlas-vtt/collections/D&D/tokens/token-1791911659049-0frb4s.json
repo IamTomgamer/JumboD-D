@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cultist poisoner",
+    "imagePath": "atlas-vtt/assets/cultist_poisoner_1791911659000_xtzpts.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cultist_poisoner_1791911659000_xtzpts-e750a65a.webp",
+    "id": "token-1791911659049-0frb4s",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1791911659049
+  }
+}

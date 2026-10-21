@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "warlock cloaked",
+    "imagePath": "atlas-vtt/assets/warlock_cloaked_1791914206887_04sjae.webp",
+    "collection": "D&D",
+    "tags": [
+      "Warlock"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/warlock_cloaked_1791914206887_04sjae-262cd531.webp",
+    "id": "token-1791914207704-lfelf2",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

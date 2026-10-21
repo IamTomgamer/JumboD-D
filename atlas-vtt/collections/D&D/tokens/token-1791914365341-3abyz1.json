@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel steadfast",
+    "imagePath": "atlas-vtt/assets/angel_steadfast_1791914364183_vtvzwn.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_steadfast_1791914364183_vtvzwn-b61ce8c3.webp",
+    "id": "token-1791914365341-3abyz1",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "fighter with rapier",
+    "imagePath": "atlas-vtt/assets/fighter_with_rapier_1791910717966_rkzldn.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/fighter_with_rapier_1791910717966_rkzldn-f04151fd.webp",
+    "id": "token-1791910718456-7jaqbs",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Vierelle",
+    "imagePath": "atlas-vtt/assets/Vierelle_1791910768576_2gay10.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Vierelle_1791910768576_2gay10-f5b3a0d5.webp",
+    "id": "token-1791910769255-9ldmff",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

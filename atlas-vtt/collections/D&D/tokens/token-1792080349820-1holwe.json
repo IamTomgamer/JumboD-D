@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Fungus",
+    "imagePath": "atlas-vtt/assets/Fungus_1792080349731_hemgxx.webp",
+    "collection": "D&D",
+    "tags": [
+      "Player",
+      "Myconid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Fungus_1792080349731_hemgxx-e8dce7a3.webp",
+    "id": "token-1792080349820-1holwe",
+    "createdAt": 1792080349820,
+    "modifiedAt": 1792080363289
+  }
+}

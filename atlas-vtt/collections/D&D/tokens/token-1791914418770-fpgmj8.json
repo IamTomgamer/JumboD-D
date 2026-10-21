@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "demon hordedriver",
+    "imagePath": "atlas-vtt/assets/demon_hordedriver_1791914417487_comxgp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/demon_hordedriver_1791914417487_comxgp-b1575fb3.webp",
+    "id": "token-1791914418770-fpgmj8",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

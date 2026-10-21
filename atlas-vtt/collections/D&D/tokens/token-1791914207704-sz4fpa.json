@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "witch caller of rats",
+    "imagePath": "atlas-vtt/assets/witch_caller_of_rats_1791914207245_qixhqd.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/witch_caller_of_rats_1791914207245_qixhqd-c48ca4f5.webp",
+    "id": "token-1791914207704-sz4fpa",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

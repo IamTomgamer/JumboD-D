@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "adult silver dragon",
+    "imagePath": "atlas-vtt/assets/adult_silver_dragon_1791914470959_0jwy6y.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/adult_silver_dragon_1791914470959_0jwy6y-b665aa65.webp",
+    "id": "token-1791914472437-agf181",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

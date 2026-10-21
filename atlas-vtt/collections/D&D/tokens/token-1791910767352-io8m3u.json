@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "black haired noble",
+    "imagePath": "atlas-vtt/assets/black_haired_noble_1791910764801_ylgpnj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/black_haired_noble_1791910764801_ylgpnj-e9aa4568.webp",
+    "id": "token-1791910767352-io8m3u",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

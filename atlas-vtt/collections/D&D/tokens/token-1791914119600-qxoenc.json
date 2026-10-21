@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "red clad pyromancer",
+    "imagePath": "atlas-vtt/assets/red_clad_pyromancer_1791914119049_so29mu.webp",
+    "collection": "D&D",
+    "tags": [
+      "Fire Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/red_clad_pyromancer_1791914119049_so29mu-034ef63c.webp",
+    "id": "token-1791914119600-qxoenc",
+    "createdAt": 1791914119600,
+    "modifiedAt": 1791914119600
+  }
+}

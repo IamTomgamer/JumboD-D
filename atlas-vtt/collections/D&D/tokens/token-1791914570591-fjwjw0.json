@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "death caller",
+    "imagePath": "atlas-vtt/assets/death_caller_1791914567705_jnbhp4.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/death_caller_1791914567705_jnbhp4-315e06f2.webp",
+    "id": "token-1791914570591-fjwjw0",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf armorsmith",
+    "imagePath": "atlas-vtt/assets/dwarf_armorsmith_1791911294249_atwzkl.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male",
+      "Smith"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_armorsmith_1791911294249_atwzkl-ae92704f.webp",
+    "id": "token-1791911295663-da33tc",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

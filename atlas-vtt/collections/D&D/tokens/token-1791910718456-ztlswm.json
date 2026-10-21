@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "bearded noble",
+    "imagePath": "atlas-vtt/assets/bearded_noble_1791910716867_gyl69a.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/bearded_noble_1791910716867_gyl69a-4ca7841f.webp",
+    "id": "token-1791910718456-ztlswm",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

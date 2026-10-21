@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf 2",
+    "imagePath": "atlas-vtt/assets/dwarf_2_1791911294466_3yyaf0.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_2_1791911294466_3yyaf0-e7d3bfb1.webp",
+    "id": "token-1791911295663-egx1gl",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

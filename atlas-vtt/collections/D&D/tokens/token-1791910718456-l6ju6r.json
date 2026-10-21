@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "experiement conductor",
+    "imagePath": "atlas-vtt/assets/experiement_conductor_1791910716993_j8h31v.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/experiement_conductor_1791910716993_j8h31v-18af0353.webp",
+    "id": "token-1791910718456-l6ju6r",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

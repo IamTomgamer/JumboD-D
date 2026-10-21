@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "devil shrieker",
+    "imagePath": "atlas-vtt/assets/devil_shrieker_1791914417911_8qtxn5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/devil_shrieker_1791914417911_8qtxn5-27c07e53.webp",
+    "id": "token-1791914418770-ecvpjq",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

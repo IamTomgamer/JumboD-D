@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Fedur",
+    "imagePath": "atlas-vtt/assets/Fedur_1791910916847_e9kbzr.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Fedur_1791910916847_e9kbzr-4aa624be.webp",
+    "id": "token-1791910917675-vywdnz",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

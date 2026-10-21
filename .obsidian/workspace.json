@@ -1,0 +1,392 @@
+{
+  "main": {
+    "id": "c402fadd1f8ff828",
+    "type": "split",
+    "children": [
+      {
+        "id": "628d723636266483",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a998b65101120fa",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt-dashboard",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "atlas-vtt-dashboard"
+            }
+          },
+          {
+            "id": "0f8cef62e08a1c76",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e193ba9f353f35f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Locations/Towns/Greyhold/Greyhold.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greyhold"
+            }
+          },
+          {
+            "id": "f8f59e3e122352ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Locations/Towns/Ascot/Tavern \"The Wandering Basilisk\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tavern \"The Wandering Basilisk\""
+            }
+          },
+          {
+            "id": "1241d160ec15cb1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Locations/Towns/Ascot/Ascot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ascot"
+            }
+          },
+          {
+            "id": "356116017cd1d748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bestiary/Homebrew/Flying Warforged.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flying Warforged"
+            }
+          },
+          {
+            "id": "20a1bb85ed984c06",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Homebrew.base",
+                "viewName": "Cards"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Homebrew"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb49fcaa299ed110",
+    "type": "split",
+    "children": [
+      {
+        "id": "f989d62da90a68c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7baf5beaa0a6543",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d8f4e062347f74a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "939562783b45aa51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.91796875
+  },
+  "right": {
+    "id": "001e4b582655c770",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b5a1a3e45f55b7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fb4974afde7cb51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "89301187587b74d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d48f53207adfe4db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "542fff7e957067f0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c6f6ce9179454318",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ffb482200aef8d2d",
+            "type": "leaf",
+            "state": {
+              "type": "dnd-charactersheet",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "dnd-charactersheet"
+            }
+          },
+          {
+            "id": "3ff9829867ed67a6",
+            "type": "leaf",
+            "state": {
+              "type": "hp-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "hp-tracker-view"
+            }
+          },
+          {
+            "id": "1bb419e7ec343683",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "f6f072f979bc5208",
+            "type": "leaf",
+            "state": {
+              "type": "tavernus-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tavernus-view"
+            }
+          },
+          {
+            "id": "5a8f822e88b72cbc",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "fantasy-statblocks-creature-pane"
+            }
+          },
+          {
+            "id": "e9fba095648a56ea",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 494.984375,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "dndjay:Open DnDJay console": false,
+      "dnd-charactersheet:DnD Character Sheets": false,
+      "dnd-tavern-generator:Open tavern generator": false,
+      "dnd-hp-tracker:Open DnD HP Tracker": false,
+      "spell-picker:Open Spell Picker": false,
+      "dndbeyond-importer:Import D&D Beyond character": false,
+      "dndbeyond-importer:Open Dice Roller": false,
+      "templater-obsidian:Templater": false,
+      "atlas-vtt:Display image on player view": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "0f8cef62e08a1c76",
+  "lastOpenFiles": [
+    "atlas-vtt/collections/Default/tokens/token-starter-occultist.json",
+    "atlas-vtt/assets/Occultist_1792601021126_7ornay.webp",
+    "atlas-vtt/collections/Default/tokens/token-starter-assassin.json",
+    "atlas-vtt/assets/Assassin_1792601021111_xvy11k.webp",
+    "atlas-vtt/collections/Default/tokens/token-starter-knight.json",
+    "atlas-vtt/assets/Knight_1792601021104_hrik9k.webp",
+    "atlas-vtt/collections/Default/tokens/token-starter-wizard.json",
+    "atlas-vtt/assets/Wizard_1792601021097_d1sspr.webp",
+    "atlas-vtt/collections/Default/tokens/token-starter-warlock.json",
+    "atlas-vtt/assets/Warlock_1792601021089_lgf4so.webp",
+    "atlas-vtt/collections/Default/tokens/token-starter-rogue.json",
+    "atlas-vtt/assets/Rogue_1792601021081_mlpm9c.webp",
+    "atlas-vtt/collections/Default/tokens/token-starter-ranger.json",
+    "atlas-vtt/assets/Ranger_1792601021064_3issaq.webp",
+    "atlas-vtt/collections/Default/tokens/token-starter-paladin.json",
+    "atlas-vtt/assets/Paladin_1792601021057_qvhwgm.webp",
+    "atlas-vtt/collections/Default/tokens/token-starter-fighter.json",
+    "atlas-vtt/assets/Fighter_1792601021050_6plm17.webp",
+    "atlas-vtt/collections/Default/tokens/token-starter-cleric.json",
+    "atlas-vtt/assets/Cleric_1792601021042_0m50yu.webp",
+    "atlas-vtt/library.json",
+    "Music/Locations/Cities.md",
+    "Music/Locations/Taverns.md",
+    "Music/Locations/Towns.md",
+    "Music/Events/Boss Fights.md",
+    "Lore/Locations/Towns/Greyhold/Greyhold.md",
+    "Custom Homebrew/Spells/Serpents Bed of Sand.md",
+    "Custom Homebrew/Weapons/Crystal Shotgun.md",
+    "Bestiary/Homebrew/Flying Warforged.md",
+    "Timeline/Timeline.md",
+    "Timeline/Timeline Notes/Forged War/Invention of Warforged (the X-series).md",
+    "Timeline/Timeline Notes/Forged War/Invention of Warforged (the F-series).md",
+    "Timeline/Timeline Notes/Forged War/Invention of Warforged (the T-series).md",
+    "Timeline/Timeline Notes/Forged War/Invention of Warforged (the WAR-series).md",
+    "Lore/Locations/Towns/Ascot/Tavern \"The Wandering Basilisk\".md",
+    "Lore/Locations/Towns/Ascot/Ascot.md",
+    "Bestiary/AATM/Animated Coffin.md",
+    "Bestiary/Homebrew/Flying Warforged (1).md",
+    "Bestiary/XMM/Aboleth.md",
+    "Lore/Characters/NPCs/Warforged/F-02.md",
+    "Tools/Azgaar's Fantasy Map Generator.md",
+    "Tools/HomeBrewery.md",
+    "Timeline/Timeline Notes/Forged War/The End of the Forged War.md",
+    "Lore/Characters/Player Characters/Desmodus (WAR-01).md",
+    "Timeline/Births.md",
+    "Templates/PC Template.md",
+    "Timeline/Test/Canvases/Basic concept.canvas",
+    "Timeline/Test/Canvases/Basic usage.canvas",
+    "Timeline/Test/Canvases/Conditional Formats.canvas",
+    "Timeline/Canvases/Basic usage.canvas",
+    "Timeline/Canvases/Basic concept.canvas",
+    "Timeline/Canvases/Conditional Formats.canvas"
+  ]
+}

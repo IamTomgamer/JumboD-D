@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.tags.contains("Locations/Towns")
+views:
+  - type: cards
+    name: Table
+    groupBy:
+      property: file.folder
+      direction: ASC

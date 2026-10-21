@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female serene",
+    "imagePath": "atlas-vtt/assets/human_female_serene_1791910767086_hr5e4a.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_serene_1791910767086_hr5e4a-74835db8.webp",
+    "id": "token-1791910767352-5jcqli",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

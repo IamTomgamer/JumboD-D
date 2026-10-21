@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female druid",
+    "imagePath": "atlas-vtt/assets/human_female_druid_1791910766659_rex0gj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_druid_1791910766659_rex0gj-ddf4c788.webp",
+    "id": "token-1791910767352-pjnhih",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

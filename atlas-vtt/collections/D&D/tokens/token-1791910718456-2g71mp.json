@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "hunter with white bear skin",
+    "imagePath": "atlas-vtt/assets/hunter_with_white_bear_skin_1791910718179_2xhe17.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/hunter_with_white_bear_skin_1791910718179_2xhe17-76f594ce.webp",
+    "id": "token-1791910718456-2g71mp",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

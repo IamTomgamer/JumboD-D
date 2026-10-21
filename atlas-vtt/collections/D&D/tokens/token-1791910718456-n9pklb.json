@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "enraged barbarian",
+    "imagePath": "atlas-vtt/assets/enraged_barbarian_1791910717876_2la595.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/enraged_barbarian_1791910717876_2la595-7f0f0805.webp",
+    "id": "token-1791910718456-n9pklb",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

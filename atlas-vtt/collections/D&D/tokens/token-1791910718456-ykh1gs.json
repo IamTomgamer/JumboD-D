@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "count",
+    "imagePath": "atlas-vtt/assets/count_1791910718164_xm6yu9.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/count_1791910718164_xm6yu9-a86edd1c.webp",
+    "id": "token-1791910718456-ykh1gs",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

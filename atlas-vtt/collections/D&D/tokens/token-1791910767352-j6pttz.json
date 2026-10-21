@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female wizard",
+    "imagePath": "atlas-vtt/assets/human_female_wizard_1791910766912_479o58.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_wizard_1791910766912_479o58-80c577ed.webp",
+    "id": "token-1791910767352-j6pttz",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

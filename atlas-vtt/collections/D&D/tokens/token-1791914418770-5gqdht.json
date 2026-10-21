@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "abberant demon",
+    "imagePath": "atlas-vtt/assets/abberant_demon_1791914417286_ss5qmh.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/abberant_demon_1791914417286_ss5qmh-9ff643b8.webp",
+    "id": "token-1791914418770-5gqdht",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

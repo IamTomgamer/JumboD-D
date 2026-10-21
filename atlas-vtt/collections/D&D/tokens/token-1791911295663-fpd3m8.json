@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf with beard ornaments",
+    "imagePath": "atlas-vtt/assets/dwarf_with_beard_ornaments_1791911295130_jh8yzm.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_with_beard_ornaments_1791911295130_jh8yzm-04b81e1b.webp",
+    "id": "token-1791911295663-fpd3m8",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

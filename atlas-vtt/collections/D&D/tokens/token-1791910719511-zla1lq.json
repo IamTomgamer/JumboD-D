@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "elder with hood and white beard",
+    "imagePath": "atlas-vtt/assets/elder_with_hood_and_white_beard_1791910719253_tz4aty.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_with_hood_and_white_beard_1791910719253_tz4aty-bcb7a0d6.webp",
+    "id": "token-1791910719511-zla1lq",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

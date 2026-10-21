@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "warlord with auburn hair",
+    "imagePath": "atlas-vtt/assets/warlord_with_auburn_hair_1791910765817_d7qivx.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/warlord_with_auburn_hair_1791910765817_d7qivx-73efdfd0.webp",
+    "id": "token-1791910767352-99z4zr",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

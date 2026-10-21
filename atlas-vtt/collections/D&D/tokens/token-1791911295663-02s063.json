@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf triumphant",
+    "imagePath": "atlas-vtt/assets/dwarf_triumphant_1791911294707_7l1dp0.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_triumphant_1791911294707_7l1dp0-fa57f463.webp",
+    "id": "token-1791911295663-02s063",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

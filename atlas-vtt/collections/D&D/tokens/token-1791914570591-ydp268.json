@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "undead naga(1)",
+    "imagePath": "atlas-vtt/assets/undead_naga_1__1791914569354_nj5e72.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/undead_naga_1__1791914569354_nj5e72-768b29d1.webp",
+    "id": "token-1791914570591-ydp268",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

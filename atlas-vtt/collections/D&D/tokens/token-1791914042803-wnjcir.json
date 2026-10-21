@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "druid rhino caller",
+    "imagePath": "atlas-vtt/assets/druid_rhino_caller_1791914041978_rbplx7.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/druid_rhino_caller_1791914041978_rbplx7-264b2449.webp",
+    "id": "token-1791914042803-wnjcir",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

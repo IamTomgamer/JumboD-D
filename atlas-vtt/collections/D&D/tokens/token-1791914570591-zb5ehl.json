@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dracolich black",
+    "imagePath": "atlas-vtt/assets/dracolich_black_1791914567963_2rcvew.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dracolich_black_1791914567963_2rcvew-192b37d2.webp",
+    "id": "token-1791914570591-zb5ehl",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

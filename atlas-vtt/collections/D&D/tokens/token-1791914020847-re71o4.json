@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "blood ritualist",
+    "imagePath": "atlas-vtt/assets/blood_ritualist_1791914020724_lap11s.webp",
+    "collection": "D&D",
+    "tags": [
+      "Religious Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blood_ritualist_1791914020724_lap11s-57cae35d.webp",
+    "id": "token-1791914020847-re71o4",
+    "createdAt": 1791914020847,
+    "modifiedAt": 1791914020847
+  }
+}

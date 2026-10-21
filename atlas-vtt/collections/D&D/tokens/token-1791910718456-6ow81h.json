@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Gerrard captain",
+    "imagePath": "atlas-vtt/assets/Gerrard_captain_1791910718220_h85l66.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Gerrard_captain_1791910718220_h85l66-4094900b.webp",
+    "id": "token-1791910718456-6ow81h",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

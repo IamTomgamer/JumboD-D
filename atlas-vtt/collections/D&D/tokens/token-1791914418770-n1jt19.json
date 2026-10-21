@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "succubus with whip",
+    "imagePath": "atlas-vtt/assets/succubus_with_whip_1791914418692_m063o2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/succubus_with_whip_1791914418692_m063o2-fd665d64.webp",
+    "id": "token-1791914418770-n1jt19",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

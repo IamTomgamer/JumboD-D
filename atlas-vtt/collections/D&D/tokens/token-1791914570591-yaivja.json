@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "undead raven",
+    "imagePath": "atlas-vtt/assets/undead_raven_1791914569399_spgkci.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/undead_raven_1791914569399_spgkci-52daa9b0.webp",
+    "id": "token-1791914570591-yaivja",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

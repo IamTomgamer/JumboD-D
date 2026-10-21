@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "disheveled old bearded man",
+    "imagePath": "atlas-vtt/assets/disheveled_old_bearded_man_1791910719459_u6pua1.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/disheveled_old_bearded_man_1791910719459_u6pua1-b32cc459.webp",
+    "id": "token-1791910719511-qmrlk8",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

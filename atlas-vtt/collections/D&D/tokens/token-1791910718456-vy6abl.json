@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human attendant",
+    "imagePath": "atlas-vtt/assets/human_attendant_1791910717246_rqxwtu.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_attendant_1791910717246_rqxwtu-5ebba6af.webp",
+    "id": "token-1791910718456-vy6abl",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

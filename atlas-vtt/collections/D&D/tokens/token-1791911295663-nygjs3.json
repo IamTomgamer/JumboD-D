@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf axe wielding",
+    "imagePath": "atlas-vtt/assets/dwarf_axe_wielding_1791911294131_n2w88p.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_axe_wielding_1791911294131_n2w88p-1eca9b8b.webp",
+    "id": "token-1791911295663-nygjs3",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

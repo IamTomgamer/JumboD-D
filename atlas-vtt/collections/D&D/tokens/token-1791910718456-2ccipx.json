@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "calm man in blue and white",
+    "imagePath": "atlas-vtt/assets/calm_man_in_blue_and_white_1791910717368_3jp6fk.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/calm_man_in_blue_and_white_1791910717368_3jp6fk-5b9ceef1.webp",
+    "id": "token-1791910718456-2ccipx",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "elder mystic scholar",
+    "imagePath": "atlas-vtt/assets/elder_mystic_scholar_1791910717159_t3xsjm.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_mystic_scholar_1791910717159_t3xsjm-e27f4c46.webp",
+    "id": "token-1791910718456-sxm32y",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

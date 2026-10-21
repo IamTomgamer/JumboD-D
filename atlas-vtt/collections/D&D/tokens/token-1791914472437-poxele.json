@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "brown copper dragon",
+    "imagePath": "atlas-vtt/assets/brown_copper_dragon_1791914471426_jni90m.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/brown_copper_dragon_1791914471426_jni90m-497d74bb.webp",
+    "id": "token-1791914472437-poxele",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

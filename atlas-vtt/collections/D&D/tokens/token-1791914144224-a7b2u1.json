@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "delighted necromancer",
+    "imagePath": "atlas-vtt/assets/delighted_necromancer_1791914143998_7wrjd5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Necromancer"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/delighted_necromancer_1791914143998_7wrjd5-db62be4d.webp",
+    "id": "token-1791914144224-a7b2u1",
+    "createdAt": 1791914144224,
+    "modifiedAt": 1791914144224
+  }
+}

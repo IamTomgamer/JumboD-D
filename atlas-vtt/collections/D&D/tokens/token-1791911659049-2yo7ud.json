@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "arch cultist",
+    "imagePath": "atlas-vtt/assets/arch_cultist_1791911658482_utdeyv.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/arch_cultist_1791911658482_utdeyv-05f5a972.webp",
+    "id": "token-1791911659049-2yo7ud",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1791911659049
+  }
+}

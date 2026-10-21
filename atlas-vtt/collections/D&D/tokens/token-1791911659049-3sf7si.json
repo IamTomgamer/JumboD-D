@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cultist of the old gods",
+    "imagePath": "atlas-vtt/assets/cultist_of_the_old_gods_1791911658807_32t5wj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cultist_of_the_old_gods_1791911658807_32t5wj-1c02d508.webp",
+    "id": "token-1791911659049-3sf7si",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1791911659049
+  }
+}

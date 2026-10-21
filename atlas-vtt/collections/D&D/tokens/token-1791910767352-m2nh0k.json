@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "artifact finder",
+    "imagePath": "atlas-vtt/assets/artifact_finder_1791910764617_te6ct5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/artifact_finder_1791910764617_te6ct5-46bbb953.webp",
+    "id": "token-1791910767352-m2nh0k",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

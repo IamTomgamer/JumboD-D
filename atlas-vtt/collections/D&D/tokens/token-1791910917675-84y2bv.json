@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Perkeda",
+    "imagePath": "atlas-vtt/assets/Perkeda_1791910917508_1gq19y.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Perkeda_1791910917508_1gq19y-24f07cb8.webp",
+    "id": "token-1791910917675-84y2bv",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

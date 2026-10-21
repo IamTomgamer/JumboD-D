@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Mildretha",
+    "imagePath": "atlas-vtt/assets/Mildretha_1791910767284_ohvuj5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Mildretha_1791910767284_ohvuj5-994fb245.webp",
+    "id": "token-1791910767352-wg1ddd",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

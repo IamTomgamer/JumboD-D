@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "imp",
+    "imagePath": "atlas-vtt/assets/imp_1791914418303_a7d08c.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/imp_1791914418303_a7d08c-65b128f0.webp",
+    "id": "token-1791914418770-ujnjzc",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

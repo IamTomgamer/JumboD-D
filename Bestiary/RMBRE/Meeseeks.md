@@ -1,0 +1,26 @@
+---
+statblock: true
+layout: Basic 5e Layout
+name: Meeseeks
+source: RMBRE
+size: Medium
+type: humanoid
+subtype: any race
+alignment: any alignment
+ac: 10
+hp: —(immune to damage)
+speed: 30 ft.
+stats:
+- 10
+- 10
+- 10
+- 10
+- 10
+- 10
+senses: passive Perception 10
+languages: any one language (usually Common)
+cr: '0'
+actions:
+- name: Club
+  desc: 'Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.'
+---

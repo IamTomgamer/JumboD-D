@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "exalted angel",
+    "imagePath": "atlas-vtt/assets/exalted_angel_1791914364749_cr9te2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/exalted_angel_1791914364749_cr9te2-4e23d5db.webp",
+    "id": "token-1791914365341-s55r4n",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

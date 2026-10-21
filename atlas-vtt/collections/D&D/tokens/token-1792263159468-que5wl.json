@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Daimon",
+    "imagePath": "atlas-vtt/assets/Daimon_1792263159394_s789bj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Player"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Daimon_1792263159394_s789bj-8be148c2.webp",
+    "id": "token-1792263159468-que5wl",
+    "createdAt": 1792263159468,
+    "modifiedAt": 1792267675797
+  }
+}

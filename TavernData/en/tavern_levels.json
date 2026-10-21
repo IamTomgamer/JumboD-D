@@ -1,0 +1,28 @@
+{
+  "quality": [
+    "Cheap Tavern",
+    "Average Tavern",
+    "Luxury Tavern"
+  ],
+  "size": [
+    "0 rooms; 1 waitstaff",
+    "2 rooms; 1 waitstaff",
+    "4 rooms; 2 waitstaff",
+    "4 rooms; 3 waitstaff, 1 bouncer",
+    "4 rooms; 4 waitstaff, 2 bouncers",
+    "6 rooms; 4 waitstaff, 2 bouncers",
+    "6 rooms; 5 waitstaff, 2 bouncers",
+    "8 rooms; 5 waitstaff, 2 bouncers",
+    "8 rooms; 6 waitstaff, 2 bouncers",
+    "10 rooms; 7 waitstaff, 2 bouncers",
+    "10 rooms; 7 waitstaff, 4 bouncers",
+    "12 rooms; 8 waitstaff, 6 bouncers",
+    "15 rooms; 10 waitstaff, 8 bouncers",
+    "20 rooms; 15 waitstaff, 10 bouncers"
+  ],
+  "prices": [
+    "Common room - 2 CP\nPrivate room - 5 CP\nSpecial dish - 3 CP\nSpecial drink - 1 CP",
+    "Common room - 2 SP\nPrivate room - 5 SP\nSpecial dish - 2 SP\nSpecial drink - 1 SP",
+    "Common room - 2 GP\nPrivate room - 10 GP\nSpecial dish - 2 GP\nSpecial drink - 1 GP"
+  ]
+}

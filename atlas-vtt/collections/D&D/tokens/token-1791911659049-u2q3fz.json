@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cultist of the eye",
+    "imagePath": "atlas-vtt/assets/cultist_of_the_eye_1791911658690_91mupk.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cultist_of_the_eye_1791911658690_91mupk-f7be67a2.webp",
+    "id": "token-1791911659049-u2q3fz",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1791911659049
+  }
+}

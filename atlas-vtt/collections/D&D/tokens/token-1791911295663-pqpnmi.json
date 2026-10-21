@@ -1,0 +1,19 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf artificer",
+    "imagePath": "atlas-vtt/assets/dwarf_artificer_1791911294213_9pstaw.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Artificer",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_artificer_1791911294213_9pstaw-7fcfc682.webp",
+    "id": "token-1791911295663-pqpnmi",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

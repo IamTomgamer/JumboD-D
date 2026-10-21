@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "incubus",
+    "imagePath": "atlas-vtt/assets/incubus_1791914418391_amc83l.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/incubus_1791914418391_amc83l-b3191973.webp",
+    "id": "token-1791914418770-fitfqn",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

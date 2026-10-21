@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "radiant angel",
+    "imagePath": "atlas-vtt/assets/radiant_angel_1791914365057_xv7yo8.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/radiant_angel_1791914365057_xv7yo8-d1ef7124.webp",
+    "id": "token-1791914365341-csgytj",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

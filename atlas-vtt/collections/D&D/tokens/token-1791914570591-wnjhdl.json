@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dragon skeleton",
+    "imagePath": "atlas-vtt/assets/dragon_skeleton_1791914568008_uniqwe.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dragon_skeleton_1791914568008_uniqwe-3bb97fa5.webp",
+    "id": "token-1791914570591-wnjhdl",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

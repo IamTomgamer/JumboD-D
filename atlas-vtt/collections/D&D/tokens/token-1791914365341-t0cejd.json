@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel shield bearer",
+    "imagePath": "atlas-vtt/assets/angel_shield_bearer_1791914364108_le0ekf.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_shield_bearer_1791914364108_le0ekf-35c2a2e6.webp",
+    "id": "token-1791914365341-t0cejd",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

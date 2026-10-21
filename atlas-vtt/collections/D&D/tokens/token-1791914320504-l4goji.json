@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "solemn warforged",
+    "imagePath": "atlas-vtt/assets/solemn_warforged_1791914320010_ozx0ve.webp",
+    "collection": "D&D",
+    "tags": [
+      "Warforged"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/solemn_warforged_1791914320010_ozx0ve-8c0e4294.webp",
+    "id": "token-1791914320504-l4goji",
+    "createdAt": 1791914320504,
+    "modifiedAt": 1791914320504
+  }
+}

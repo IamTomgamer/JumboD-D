@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "village elder worried",
+    "imagePath": "atlas-vtt/assets/village_elder_worried_1791910717043_h1wp1m.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/village_elder_worried_1791910717043_h1wp1m-01f4e242.webp",
+    "id": "token-1791910718456-lc1zf2",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

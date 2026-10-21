@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.tags.contains("Session")
+    - '!file.name.contains("Template")'
+properties:
+  note.Played:
+    displayName: Date
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Played
+      - Played?
+      - People
+      - tags
+    sort:
+      - property: tags
+        direction: ASC
+      - property: Played
+        direction: ASC
+    columnSize:
+      note.Played: 161
+      note.Played?: 80
+      note.People: 174
+      note.tags: 249

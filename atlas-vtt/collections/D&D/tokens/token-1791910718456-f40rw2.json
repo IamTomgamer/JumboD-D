@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "noble middle aged",
+    "imagePath": "atlas-vtt/assets/noble_middle_aged_1791910718135_bpk7hz.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/noble_middle_aged_1791910718135_bpk7hz-c1e67643.webp",
+    "id": "token-1791910718456-f40rw2",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

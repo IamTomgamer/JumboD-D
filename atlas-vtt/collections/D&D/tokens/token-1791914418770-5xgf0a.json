@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "shade of nightmares",
+    "imagePath": "atlas-vtt/assets/shade_of_nightmares_1791914418602_to45vx.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/shade_of_nightmares_1791914418602_to45vx-eb442bc7.webp",
+    "id": "token-1791914418770-5xgf0a",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

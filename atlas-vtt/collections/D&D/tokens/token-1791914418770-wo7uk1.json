@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "devil reveler",
+    "imagePath": "atlas-vtt/assets/devil_reveler_1791914417886_jktlxx.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/devil_reveler_1791914417886_jktlxx-3a5cd263.webp",
+    "id": "token-1791914418770-wo7uk1",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

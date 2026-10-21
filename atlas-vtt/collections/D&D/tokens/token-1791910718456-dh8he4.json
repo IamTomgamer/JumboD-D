@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "armored man, observant",
+    "imagePath": "atlas-vtt/assets/armored_man__observant_1791910717358_slxej3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/armored_man__observant_1791910717358_slxej3-b8f6e357.webp",
+    "id": "token-1791910718456-dh8he4",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

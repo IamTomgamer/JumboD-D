@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "moor witch",
+    "imagePath": "atlas-vtt/assets/moor_witch_1791914206695_ba3oku.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/moor_witch_1791914206695_ba3oku-5ca54416.webp",
+    "id": "token-1791914207704-4hybb3",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

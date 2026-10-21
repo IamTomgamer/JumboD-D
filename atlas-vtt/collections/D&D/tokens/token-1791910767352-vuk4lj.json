@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "smiling emgineer",
+    "imagePath": "atlas-vtt/assets/smiling_emgineer_1791910765095_lqfeda.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/smiling_emgineer_1791910765095_lqfeda-5e6b568b.webp",
+    "id": "token-1791910767352-vuk4lj",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

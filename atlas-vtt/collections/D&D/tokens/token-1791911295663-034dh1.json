@@ -1,0 +1,19 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf barbarian",
+    "imagePath": "atlas-vtt/assets/dwarf_barbarian_1791911294164_2jxz9v.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Barbarian",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_barbarian_1791911294164_2jxz9v-36333633.webp",
+    "id": "token-1791911295663-034dh1",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

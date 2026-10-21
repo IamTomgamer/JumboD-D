@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "confused look",
+    "imagePath": "atlas-vtt/assets/confused_look_1791910719135_4mrayp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/confused_look_1791910719135_4mrayp-7360a3ae.webp",
+    "id": "token-1791910719511-islchh",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

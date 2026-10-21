@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "izzet scientist",
+    "imagePath": "atlas-vtt/assets/izzet_scientist_1791914086628_b2wr9i.webp",
+    "collection": "D&D",
+    "tags": [
+      "Artificer"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/izzet_scientist_1791914086628_b2wr9i-5ed72ca6.webp",
+    "id": "token-1791914087079-q9cn1p",
+    "createdAt": 1791914087079,
+    "modifiedAt": 1791914087079
+  }
+}

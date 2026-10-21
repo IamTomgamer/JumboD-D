@@ -1,0 +1,17 @@
+{
+  "mapPath": "atlas-vtt/collections/D&D/scenes/Starting Dungeon.atlasmap",
+  "atlasRecord": {
+    "format": 1,
+    "type": "scene",
+    "name": "Starting Dungeon",
+    "collection": "D&D",
+    "tags": [
+      "Session 1",
+      "Dungeon",
+      "Brimmed Caps"
+    ],
+    "id": "scene-1792079787016-j1pttv",
+    "createdAt": 1792079787016,
+    "modifiedAt": 1792096744695
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Nikhal",
+    "imagePath": "atlas-vtt/assets/Nikhal_1791910719269_3uhx38.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Nikhal_1791910719269_3uhx38-bb2b585e.webp",
+    "id": "token-1791910719511-thqkq8",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

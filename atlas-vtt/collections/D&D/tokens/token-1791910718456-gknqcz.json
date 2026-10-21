@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "man with sideburns",
+    "imagePath": "atlas-vtt/assets/man_with_sideburns_1791910717459_nz6omk.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/man_with_sideburns_1791910717459_nz6omk-a7f61b13.webp",
+    "id": "token-1791910718456-gknqcz",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

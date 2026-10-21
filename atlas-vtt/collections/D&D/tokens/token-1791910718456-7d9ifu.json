@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "scribe with glasses",
+    "imagePath": "atlas-vtt/assets/scribe_with_glasses_1791910717385_jvrgbp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/scribe_with_glasses_1791910717385_jvrgbp-a666c964.webp",
+    "id": "token-1791910718456-7d9ifu",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

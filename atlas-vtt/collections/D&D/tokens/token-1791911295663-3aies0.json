@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf rider",
+    "imagePath": "atlas-vtt/assets/dwarf_rider_1791911294780_4y1vw1.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_rider_1791911294780_4y1vw1-f53d752e.webp",
+    "id": "token-1791911295663-3aies0",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

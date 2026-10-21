@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "elder knight",
+    "imagePath": "atlas-vtt/assets/elder_knight_1791910766038_7skiwc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_knight_1791910766038_7skiwc-ed52e176.webp",
+    "id": "token-1791910767352-s48s48",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

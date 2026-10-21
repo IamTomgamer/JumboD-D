@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "old human with pipe",
+    "imagePath": "atlas-vtt/assets/old_human_with_pipe_1791910718274_g9az8c.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/old_human_with_pipe_1791910718274_g9az8c-a3db55fc.webp",
+    "id": "token-1791910718456-rg51fn",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

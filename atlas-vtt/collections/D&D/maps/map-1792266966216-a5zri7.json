@@ -1,0 +1,21 @@
+{
+  "id": "map-1792266966216-a5zri7",
+  "name": "grass texture 2219 2",
+  "mapFilePath": "atlas-vtt/assets/grass_texture_2219_2_1792266966132_mu03tm.webp",
+  "tags": [],
+  "collection": "D&D",
+  "createdAt": 1792266966216,
+  "modifiedAt": 1792266966216,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "grass texture 2219 2",
+    "mapFilePath": "atlas-vtt/assets/grass_texture_2219_2_1792266966132_mu03tm.webp",
+    "collection": "D&D",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/grass_texture_2219_2_1792266966132_mu03tm-97fb795a.webp",
+    "id": "map-1792266966216-a5zri7",
+    "createdAt": 1792266966216,
+    "modifiedAt": 1792266966216
+  }
+}

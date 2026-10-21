@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Ugrathiel druid",
+    "imagePath": "atlas-vtt/assets/Ugrathiel_druid_1791914042653_dxlsm8.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Ugrathiel_druid_1791914042653_dxlsm8-915e284c.webp",
+    "id": "token-1791914042803-7dcy77",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel flaming sword",
+    "imagePath": "atlas-vtt/assets/angel_flaming_sword_1791914363358_6puj9y.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_flaming_sword_1791914363358_6puj9y-0bbd382d.webp",
+    "id": "token-1791914365341-2cmu20",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

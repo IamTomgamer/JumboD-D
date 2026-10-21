@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "praying priest",
+    "imagePath": "atlas-vtt/assets/praying_priest_1791914020223_hcw2oj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Religious Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/praying_priest_1791914020223_hcw2oj-3d476b3c.webp",
+    "id": "token-1791914020847-1qch8i",
+    "createdAt": 1791914020847,
+    "modifiedAt": 1791914020847
+  }
+}

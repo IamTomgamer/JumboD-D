@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "navigator with artifact",
+    "imagePath": "atlas-vtt/assets/navigator_with_artifact_1791910766096_e7h6o5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/navigator_with_artifact_1791910766096_e7h6o5-02866c59.webp",
+    "id": "token-1791910767352-wrt2kq",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

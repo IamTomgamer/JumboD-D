@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "fiery winged devil spawn",
+    "imagePath": "atlas-vtt/assets/fiery_winged_devil_spawn_1791914418108_s03xcc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/fiery_winged_devil_spawn_1791914418108_s03xcc-7daf1431.webp",
+    "id": "token-1791914418770-9wxx4w",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

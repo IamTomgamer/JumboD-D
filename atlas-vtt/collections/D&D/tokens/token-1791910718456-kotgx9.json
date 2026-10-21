@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "lumberjack",
+    "imagePath": "atlas-vtt/assets/lumberjack_1791910717937_qo9hf5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/lumberjack_1791910717937_qo9hf5-f3196920.webp",
+    "id": "token-1791910718456-kotgx9",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

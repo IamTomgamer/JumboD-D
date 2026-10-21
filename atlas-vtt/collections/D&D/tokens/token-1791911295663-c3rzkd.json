@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf elder warrior",
+    "imagePath": "atlas-vtt/assets/dwarf_elder_warrior_1791911295255_o6wvec.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_elder_warrior_1791911295255_o6wvec-d97883c3.webp",
+    "id": "token-1791911295663-c3rzkd",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

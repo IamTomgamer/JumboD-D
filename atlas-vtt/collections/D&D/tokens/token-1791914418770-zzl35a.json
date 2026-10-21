@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "amonkhet demon",
+    "imagePath": "atlas-vtt/assets/amonkhet_demon_1791914417374_a2giqn.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/amonkhet_demon_1791914417374_a2giqn-d9ed05bd.webp",
+    "id": "token-1791914418770-zzl35a",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

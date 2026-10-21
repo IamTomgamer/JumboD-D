@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "handmaiden of Shar",
+    "imagePath": "atlas-vtt/assets/handmaiden_of_Shar_1791914418155_c3e8d6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/handmaiden_of_Shar_1791914418155_c3e8d6-ea02c957.webp",
+    "id": "token-1791914418770-0ltoxb",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

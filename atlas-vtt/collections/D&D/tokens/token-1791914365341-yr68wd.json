@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "valkyrie",
+    "imagePath": "atlas-vtt/assets/valkyrie_1791914365259_rhb8eo.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/valkyrie_1791914365259_rhb8eo-1db927a7.webp",
+    "id": "token-1791914365341-yr68wd",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

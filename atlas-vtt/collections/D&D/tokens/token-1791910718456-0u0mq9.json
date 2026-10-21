@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angry brawler",
+    "imagePath": "atlas-vtt/assets/angry_brawler_1791910716759_c1gh25.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angry_brawler_1791910716759_c1gh25-5d07dc14.webp",
+    "id": "token-1791910718456-0u0mq9",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

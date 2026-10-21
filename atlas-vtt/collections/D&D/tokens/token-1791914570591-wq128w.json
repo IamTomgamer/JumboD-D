@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "silversmote ghoul",
+    "imagePath": "atlas-vtt/assets/silversmote_ghoul_1791914568771_xj51o9.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/silversmote_ghoul_1791914568771_xj51o9-e8288213.webp",
+    "id": "token-1791914570591-wq128w",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

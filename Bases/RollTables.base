@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.tags.contains("RollTables")
+views:
+  - type: cards
+    name: Table
+    groupBy:
+      property: file.tags
+      direction: ASC

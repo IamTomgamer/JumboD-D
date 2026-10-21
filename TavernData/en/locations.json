@@ -1,0 +1,36 @@
+{
+  "locations": [
+    "Flying Island",
+    "Underground City",
+    "Elven Outpost",
+    "Dwarven Mine",
+    "Pirate Cove",
+    "Abandoned Monastery",
+    "Magic Tower Ruins",
+    "Desert Oasis",
+    "Snowy Pass",
+    "Volcanic Crater",
+    "Tree Village",
+    "Castle on a Cliff",
+    "Cursed Swamps",
+    "Trade Crossroads",
+    "City-State"
+  ],
+  "territories": [
+    "Lower tier",
+    "Upper city",
+    "Trade rows",
+    "Artisan quarter",
+    "Slums",
+    "Justice square",
+    "Temple district",
+    "Docks",
+    "Mage quarter",
+    "Non-human ghetto",
+    "Recreation park",
+    "Cemetery",
+    "Guard barracks",
+    "Main gates",
+    "Secret passage"
+  ]
+}

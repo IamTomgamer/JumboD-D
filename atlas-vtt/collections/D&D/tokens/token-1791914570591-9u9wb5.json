@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "undead ritualist(1)",
+    "imagePath": "atlas-vtt/assets/undead_ritualist_1__1791914569557_6pe96w.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/undead_ritualist_1__1791914569557_6pe96w-eb87fe06.webp",
+    "id": "token-1791914570591-9u9wb5",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

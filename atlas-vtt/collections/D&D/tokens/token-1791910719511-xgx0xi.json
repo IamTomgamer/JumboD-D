@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Yarbeck",
+    "imagePath": "atlas-vtt/assets/Yarbeck_1791910719359_uu7504.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Yarbeck_1791910719359_uu7504-d5bd45b5.webp",
+    "id": "token-1791910719511-xgx0xi",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

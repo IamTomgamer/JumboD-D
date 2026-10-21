@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "man yelling",
+    "imagePath": "atlas-vtt/assets/man_yelling_1791910717319_is5q2s.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/man_yelling_1791910717319_is5q2s-fbc7dc00.webp",
+    "id": "token-1791910718456-qu232t",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

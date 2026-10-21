@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "warlord fire summoner",
+    "imagePath": "atlas-vtt/assets/warlord_fire_summoner_1791914119133_idnmdj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Fire Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/warlord_fire_summoner_1791914119133_idnmdj-53684bed.webp",
+    "id": "token-1791914119600-kvk1r4",
+    "createdAt": 1791914119600,
+    "modifiedAt": 1791914119600
+  }
+}

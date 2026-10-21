@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "moonlit dragon",
+    "imagePath": "atlas-vtt/assets/moonlit_dragon_1791914471859_t5wmug.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/moonlit_dragon_1791914471859_t5wmug-2a592e0d.webp",
+    "id": "token-1791914472437-2rho8z",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "noble woman in sunlight",
+    "imagePath": "atlas-vtt/assets/noble_woman_in_sunlight_1791910765059_a64d8w.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/noble_woman_in_sunlight_1791910765059_a64d8w-fe4b951e.webp",
+    "id": "token-1791910767352-sdvxs1",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

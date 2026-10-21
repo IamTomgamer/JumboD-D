@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "izzet electromancer",
+    "imagePath": "atlas-vtt/assets/izzet_electromancer_1791914086786_p1ayg3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Electromancer"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/izzet_electromancer_1791914086786_p1ayg3-34d59b55.webp",
+    "id": "token-1791914087079-x61joq",
+    "createdAt": 1791914087079,
+    "modifiedAt": 1791914087079
+  }
+}

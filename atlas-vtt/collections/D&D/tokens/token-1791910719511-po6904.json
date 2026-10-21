@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "middle aged, black hair, fur cloak",
+    "imagePath": "atlas-vtt/assets/middle_aged__black_hair__fur_cloak_1791910719499_w7fgzp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/middle_aged__black_hair__fur_cloak_1791910719499_w7fgzp-2cc13a03.webp",
+    "id": "token-1791910719511-po6904",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

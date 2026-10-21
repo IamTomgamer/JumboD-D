@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "green dragon spewing",
+    "imagePath": "atlas-vtt/assets/green_dragon_spewing_1791914471771_xd6s3u.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/green_dragon_spewing_1791914471771_xd6s3u-a56bd553.webp",
+    "id": "token-1791914472437-bbresp",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

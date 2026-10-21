@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female mysterious",
+    "imagePath": "atlas-vtt/assets/human_female_mysterious_1791910767262_te3tv1.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_mysterious_1791910767262_te3tv1-afc3925c.webp",
+    "id": "token-1791910767352-ysvdal",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

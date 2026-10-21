@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel vigilant",
+    "imagePath": "atlas-vtt/assets/angel_vigilant_1791914364284_rz96ha.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_vigilant_1791914364284_rz96ha-83eb342f.webp",
+    "id": "token-1791914365341-xppmrc",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

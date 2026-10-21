@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "smiling innkeeper",
+    "imagePath": "atlas-vtt/assets/smiling_innkeeper_1791910718287_sbxe8v.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/smiling_innkeeper_1791910718287_sbxe8v-ae3e60bc.webp",
+    "id": "token-1791910718456-sik14z",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

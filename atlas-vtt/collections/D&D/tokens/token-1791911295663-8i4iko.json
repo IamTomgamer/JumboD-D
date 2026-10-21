@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf enchanter",
+    "imagePath": "atlas-vtt/assets/dwarf_enchanter_1791911294618_3a3ztk.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_enchanter_1791911294618_3a3ztk-128715a6.webp",
+    "id": "token-1791911295663-8i4iko",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

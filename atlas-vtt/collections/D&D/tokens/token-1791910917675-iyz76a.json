@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Ekedolh",
+    "imagePath": "atlas-vtt/assets/Ekedolh_1791910917022_03sj4e.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Ekedolh_1791910917022_03sj4e-c6ac097c.webp",
+    "id": "token-1791910917675-iyz76a",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

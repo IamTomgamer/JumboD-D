@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "innocuous nobleman",
+    "imagePath": "atlas-vtt/assets/innocuous_nobleman_1791910717332_15dxsr.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/innocuous_nobleman_1791910717332_15dxsr-ff1e28ce.webp",
+    "id": "token-1791910718456-fdypv8",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

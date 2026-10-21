@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "demon of battle woe",
+    "imagePath": "atlas-vtt/assets/demon_of_battle_woe_1791914417504_fzp6by.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/demon_of_battle_woe_1791914417504_fzp6by-4be32e3a.webp",
+    "id": "token-1791914418770-ug4wa0",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

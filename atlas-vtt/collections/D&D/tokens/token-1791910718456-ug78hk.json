@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "man pale white haired",
+    "imagePath": "atlas-vtt/assets/man_pale_white_haired_1791910717605_mytw4o.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/man_pale_white_haired_1791910717605_mytw4o-244efa5f.webp",
+    "id": "token-1791910718456-ug78hk",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

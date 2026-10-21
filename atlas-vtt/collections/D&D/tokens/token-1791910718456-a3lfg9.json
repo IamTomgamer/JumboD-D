@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "scoundrel",
+    "imagePath": "atlas-vtt/assets/scoundrel_1791910718366_16f0gs.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/scoundrel_1791910718366_16f0gs-4e7c874d.webp",
+    "id": "token-1791910718456-a3lfg9",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

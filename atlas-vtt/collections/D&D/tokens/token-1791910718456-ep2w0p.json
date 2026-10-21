@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angry man with long hair",
+    "imagePath": "atlas-vtt/assets/angry_man_with_long_hair_1791910716949_3efr5a.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angry_man_with_long_hair_1791910716949_3efr5a-66742cb1.webp",
+    "id": "token-1791910718456-ep2w0p",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

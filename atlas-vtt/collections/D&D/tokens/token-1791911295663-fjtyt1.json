@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf with dragonling familiar",
+    "imagePath": "atlas-vtt/assets/dwarf_with_dragonling_familiar_1791911295174_i84c84.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_with_dragonling_familiar_1791911295174_i84c84-4939cfd8.webp",
+    "id": "token-1791911295663-fjtyt1",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

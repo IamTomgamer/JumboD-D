@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "blind spy",
+    "imagePath": "atlas-vtt/assets/blind_spy_1791910717851_t3wx21.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blind_spy_1791910717851_t3wx21-f5c927e4.webp",
+    "id": "token-1791910718456-fwwck7",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

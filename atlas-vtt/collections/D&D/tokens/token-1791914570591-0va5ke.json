@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "goliath undead",
+    "imagePath": "atlas-vtt/assets/goliath_undead_1791914568322_9gsoqw.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/goliath_undead_1791914568322_9gsoqw-e73fc1a2.webp",
+    "id": "token-1791914570591-0va5ke",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

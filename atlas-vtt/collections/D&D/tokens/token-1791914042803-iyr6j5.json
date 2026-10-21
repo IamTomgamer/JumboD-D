@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "druid with hawk",
+    "imagePath": "atlas-vtt/assets/druid_with_hawk_1791914042045_lwihun.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/druid_with_hawk_1791914042045_lwihun-ccc7df5d.webp",
+    "id": "token-1791914042803-iyr6j5",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

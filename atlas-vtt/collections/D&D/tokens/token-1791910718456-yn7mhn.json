@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human with pleased expression",
+    "imagePath": "atlas-vtt/assets/human_with_pleased_expression_1791910717274_fgrv79.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_with_pleased_expression_1791910717274_fgrv79-e859f6c7.webp",
+    "id": "token-1791910718456-yn7mhn",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

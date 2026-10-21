@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf jeweller",
+    "imagePath": "atlas-vtt/assets/dwarf_jeweller_1791911294822_mvvomr.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_jeweller_1791911294822_mvvomr-d6169b5e.webp",
+    "id": "token-1791911295663-97zwop",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "blue dragon underwater",
+    "imagePath": "atlas-vtt/assets/blue_dragon_underwater_1791914471326_xerv7h.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blue_dragon_underwater_1791914471326_xerv7h-f690f5f9.webp",
+    "id": "token-1791914472437-w1764a",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

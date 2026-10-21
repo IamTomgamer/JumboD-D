@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "white dragon in cave",
+    "imagePath": "atlas-vtt/assets/white_dragon_in_cave_1791914472325_pypqli.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/white_dragon_in_cave_1791914472325_pypqli-03c20adb.webp",
+    "id": "token-1791914472437-gba7d4",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Odvolin",
+    "imagePath": "atlas-vtt/assets/Odvolin_1791910917609_dhd2gq.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Odvolin_1791910917609_dhd2gq-771030b3.webp",
+    "id": "token-1791910917675-fxlwed",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

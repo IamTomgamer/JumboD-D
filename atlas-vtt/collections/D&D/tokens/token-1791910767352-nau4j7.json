@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "citizen with broom",
+    "imagePath": "atlas-vtt/assets/citizen_with_broom_1791910764512_k37he0.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/citizen_with_broom_1791910764512_k37he0-c9803708.webp",
+    "id": "token-1791910767352-nau4j7",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

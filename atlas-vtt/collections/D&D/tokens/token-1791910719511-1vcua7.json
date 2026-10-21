@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Kahriel",
+    "imagePath": "atlas-vtt/assets/Kahriel_1791910719295_ajt4hc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Kahriel_1791910719295_ajt4hc-313ca3a1.webp",
+    "id": "token-1791910719511-1vcua7",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

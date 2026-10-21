@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel of the astral sea",
+    "imagePath": "atlas-vtt/assets/angel_of_the_astral_sea_1791914363940_dfbctl.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_of_the_astral_sea_1791914363940_dfbctl-778a0207.webp",
+    "id": "token-1791914365341-viko45",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "smirking mysterious man",
+    "imagePath": "atlas-vtt/assets/smirking_mysterious_man_1791910716449_60r1dr.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/smirking_mysterious_man_1791910716449_60r1dr-f158291c.webp",
+    "id": "token-1791910718456-yjg420",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

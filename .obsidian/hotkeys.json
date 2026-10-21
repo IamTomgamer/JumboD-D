@@ -1,0 +1,10 @@
+{
+  "spell-picker:open-spell-modal": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
+}

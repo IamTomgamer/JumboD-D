@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "man with mantis",
+    "imagePath": "atlas-vtt/assets/man_with_mantis_1791910717736_bp4gjw.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/man_with_mantis_1791910717736_bp4gjw-615fa363.webp",
+    "id": "token-1791910718456-gqyvaq",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "fair man with dragonid",
+    "imagePath": "atlas-vtt/assets/fair_man_with_dragonid_1791910716909_jnj9px.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/fair_man_with_dragonid_1791910716909_jnj9px-5c02287e.webp",
+    "id": "token-1791910718456-x8ifiu",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

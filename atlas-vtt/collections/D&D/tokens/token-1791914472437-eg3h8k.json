@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "black dragon Silumgar",
+    "imagePath": "atlas-vtt/assets/black_dragon_Silumgar_1791914471119_0hl5nr.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/black_dragon_Silumgar_1791914471119_0hl5nr-dd4e718a.webp",
+    "id": "token-1791914472437-eg3h8k",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

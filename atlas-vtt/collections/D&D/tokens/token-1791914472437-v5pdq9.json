@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "black dragon",
+    "imagePath": "atlas-vtt/assets/black_dragon_1791914471202_g2l6bc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/black_dragon_1791914471202_g2l6bc-07e3cc09.webp",
+    "id": "token-1791914472437-v5pdq9",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

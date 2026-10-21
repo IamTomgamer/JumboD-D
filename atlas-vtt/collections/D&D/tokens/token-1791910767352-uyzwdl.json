@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "musician with tambourine",
+    "imagePath": "atlas-vtt/assets/musician_with_tambourine_1791910765361_9azotl.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/musician_with_tambourine_1791910765361_9azotl-e739dede.webp",
+    "id": "token-1791910767352-uyzwdl",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

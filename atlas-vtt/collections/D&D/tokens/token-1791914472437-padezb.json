@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "elder black dragon",
+    "imagePath": "atlas-vtt/assets/elder_black_dragon_1791914471478_yq5xft.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_black_dragon_1791914471478_yq5xft-95fe17f8.webp",
+    "id": "token-1791914472437-padezb",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

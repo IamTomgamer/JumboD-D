@@ -1,0 +1,35 @@
+---
+statblock: true
+layout: Basic 5e Layout
+name: Su-monster
+source: ToA
+size: Medium
+type: monstrosity
+alignment: chaotic evil
+ac: 12
+hp: 27
+hit_dice: 5d8 + 5
+speed: 30 ft., climb 30 ft.
+stats:
+- 14
+- 15
+- 12
+- 9
+- 13
+- 9
+skillsaves:
+- athletics: 6
+- perception: 3
+senses: passive Perception 13
+languages: —
+cr: '1'
+actions:
+- name: Multiattack
+  desc: 'The su-monster makes two attacks: one with its bite and one with its claws.'
+- name: Bite
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.'
+- name: Claws
+  desc: 'Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) slashing damage, or 12 (4d4 + 2) slashing damage if the su-monster is hanging by its tail and all four of its limbs are free.'
+- name: Psychic Crush (Recharge 5-6)
+  desc: The su-monster targets one creature it can see within 30 feet of it. The target must succeed on a DC 11 Wisdom saving throw or take 17 (5d6) psychic damage and be stunned for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+---

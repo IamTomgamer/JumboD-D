@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "sun cleric",
+    "imagePath": "atlas-vtt/assets/sun_cleric_1791914020423_86vg2m.webp",
+    "collection": "D&D",
+    "tags": [
+      "Religious Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/sun_cleric_1791914020423_86vg2m-d6fbe1a4.webp",
+    "id": "token-1791914020847-7lfyxe",
+    "createdAt": 1791914020847,
+    "modifiedAt": 1791914020847
+  }
+}

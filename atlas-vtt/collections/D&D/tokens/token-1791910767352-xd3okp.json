@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "joyful duelist",
+    "imagePath": "atlas-vtt/assets/joyful_duelist_1791910765309_dhesrd.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/joyful_duelist_1791910765309_dhesrd-2a9d54aa.webp",
+    "id": "token-1791910767352-xd3okp",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

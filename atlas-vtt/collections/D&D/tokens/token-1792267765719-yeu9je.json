@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Campfire",
+    "imagePath": "atlas-vtt/assets/Campfire_1792267765668_egnnk8.webp",
+    "collection": "D&D",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Campfire_1792267765668_egnnk8-c0ea4fae.webp",
+    "id": "token-1792267765719-yeu9je",
+    "createdAt": 1792267765719,
+    "modifiedAt": 1792267765719
+  }
+}

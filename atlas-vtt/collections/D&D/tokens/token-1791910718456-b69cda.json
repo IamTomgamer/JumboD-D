@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "middle aged, concerned",
+    "imagePath": "atlas-vtt/assets/middle_aged__concerned_1791910718027_9ukfar.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/middle_aged__concerned_1791910718027_9ukfar-0a3e9be3.webp",
+    "id": "token-1791910718456-b69cda",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

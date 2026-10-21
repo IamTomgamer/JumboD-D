@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "genius conductor",
+    "imagePath": "atlas-vtt/assets/genius_conductor_1791910717470_b8rwdu.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/genius_conductor_1791910717470_b8rwdu-f8dfbfbf.webp",
+    "id": "token-1791910718456-rvqjfd",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

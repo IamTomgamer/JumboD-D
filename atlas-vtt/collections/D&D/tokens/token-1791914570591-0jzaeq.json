@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "undead rider",
+    "imagePath": "atlas-vtt/assets/undead_rider_1791914569446_c9lj4s.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/undead_rider_1791914569446_c9lj4s-ac11a08d.webp",
+    "id": "token-1791914570591-0jzaeq",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

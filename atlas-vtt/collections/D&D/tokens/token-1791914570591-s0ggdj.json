@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "winged stitched zombie",
+    "imagePath": "atlas-vtt/assets/winged_stitched_zombie_1791914569791_0jjuzo.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/winged_stitched_zombie_1791914569791_0jjuzo-a164c29d.webp",
+    "id": "token-1791914570591-s0ggdj",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

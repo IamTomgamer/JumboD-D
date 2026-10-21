@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel of peacekeeping",
+    "imagePath": "atlas-vtt/assets/angel_of_peacekeeping_1791914363692_7xe9gb.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_of_peacekeeping_1791914363692_7xe9gb-2ff82c80.webp",
+    "id": "token-1791914365341-i62xnb",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

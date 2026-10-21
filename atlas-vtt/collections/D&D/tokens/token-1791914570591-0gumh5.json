@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "vengeful scaab",
+    "imagePath": "atlas-vtt/assets/vengeful_scaab_1791914569691_0pcm55.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/vengeful_scaab_1791914569691_0pcm55-584b782f.webp",
+    "id": "token-1791914570591-0gumh5",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

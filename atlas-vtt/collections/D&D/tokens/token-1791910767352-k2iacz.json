@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "older artificer",
+    "imagePath": "atlas-vtt/assets/older_artificer_1791910766444_k73fsr.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/older_artificer_1791910766444_k73fsr-408631cf.webp",
+    "id": "token-1791910767352-k2iacz",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

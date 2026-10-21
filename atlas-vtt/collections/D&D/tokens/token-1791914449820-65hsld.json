@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dragonborn paladin",
+    "imagePath": "atlas-vtt/assets/dragonborn_paladin_1791914449767_w9vdpp.webp",
+    "collection": "D&D",
+    "tags": [
+      "DragonBorn"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dragonborn_paladin_1791914449767_w9vdpp-f534e9c7.webp",
+    "id": "token-1791914449820-65hsld",
+    "createdAt": 1791914449820,
+    "modifiedAt": 1791914449820
+  }
+}

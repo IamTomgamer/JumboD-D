@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "archdemon of Iffnir",
+    "imagePath": "atlas-vtt/assets/archdemon_of_Iffnir_1791914417424_4ho3il.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/archdemon_of_Iffnir_1791914417424_4ho3il-5833489b.webp",
+    "id": "token-1791914418770-a94cdy",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Tegris",
+    "imagePath": "atlas-vtt/assets/Tegris_1791910917571_mh8fm8.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Tegris_1791910917571_mh8fm8-4b675398.webp",
+    "id": "token-1791910917675-sxdutf",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

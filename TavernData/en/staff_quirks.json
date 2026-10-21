@@ -1,0 +1,40 @@
+{
+  "races": [
+    "Aasimar",
+    "Firbolg",
+    "Goliath",
+    "Changeling",
+    "Tabaxi",
+    "Kenku",
+    "Triton",
+    "Yuan-ti",
+    "Satyr",
+    "Centaur",
+    "Locathah",
+    "Shifter",
+    "Kobold",
+    "Human",
+    "Elf",
+    "Dwarf",
+    "Tiefling",
+    "Goblin",
+    "Orc"
+  ],
+  "quirks": [
+    "Wears an amulet made of teeth from an unknown creature.",
+    "Speaks in riddles and proverbs.",
+    "Has a habit of flipping a coin before answering.",
+    "Has a rune-shaped scar on their face.",
+    "Constantly sniffs the air.",
+    "Hides half of their face under a thick bandage.",
+    "Has heterochromia (different colored eyes).",
+    "Moves absolutely silently.",
+    "Constantly twists a massive signet ring on their finger.",
+    "Stutters when nervous.",
+    "Blinks frequently.",
+    "Laughs with a high, rattling laugh.",
+    "Addresses everyone overly formally.",
+    "Chews on licorice root.",
+    "Wears clothes that are clearly too big for them."
+  ]
+}

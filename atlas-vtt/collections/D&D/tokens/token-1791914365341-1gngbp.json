@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel of dawn",
+    "imagePath": "atlas-vtt/assets/angel_of_dawn_1791914363515_3qgnhf.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_of_dawn_1791914363515_3qgnhf-9b29962a.webp",
+    "id": "token-1791914365341-1gngbp",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

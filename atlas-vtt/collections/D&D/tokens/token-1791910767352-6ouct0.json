@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "commanding noble",
+    "imagePath": "atlas-vtt/assets/commanding_noble_1791910765467_1kupfa.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/commanding_noble_1791910765467_1kupfa-9ae59945.webp",
+    "id": "token-1791910767352-6ouct0",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

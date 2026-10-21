@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel of preservation",
+    "imagePath": "atlas-vtt/assets/angel_of_preservation_1791914363775_fo9m10.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_of_preservation_1791914363775_fo9m10-978cc153.webp",
+    "id": "token-1791914365341-q03ely",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

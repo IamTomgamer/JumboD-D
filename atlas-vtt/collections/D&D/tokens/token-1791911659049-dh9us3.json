@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "viscera diviner",
+    "imagePath": "atlas-vtt/assets/viscera_diviner_1791911658549_x8lxkw.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/viscera_diviner_1791911658549_x8lxkw-4cf781bd.webp",
+    "id": "token-1791911659049-dh9us3",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1791911659049
+  }
+}

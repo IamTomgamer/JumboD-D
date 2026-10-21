@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "witch hag",
+    "imagePath": "atlas-vtt/assets/witch_hag_1791914207358_qsvvwm.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/witch_hag_1791914207358_qsvvwm-81e446db.webp",
+    "id": "token-1791914207704-axm6xh",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

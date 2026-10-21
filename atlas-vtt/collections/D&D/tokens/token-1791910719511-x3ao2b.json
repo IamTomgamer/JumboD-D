@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Jerden",
+    "imagePath": "atlas-vtt/assets/Jerden_1791910719240_z3sbme.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Jerden_1791910719240_z3sbme-f3e60e5d.webp",
+    "id": "token-1791910719511-x3ao2b",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

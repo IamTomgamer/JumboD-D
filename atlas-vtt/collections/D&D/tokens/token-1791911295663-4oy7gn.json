@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf warcaller",
+    "imagePath": "atlas-vtt/assets/dwarf_warcaller_1791911295376_4sd9kg.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_warcaller_1791911295376_4sd9kg-c02e2c83.webp",
+    "id": "token-1791911295663-4oy7gn",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "name": "Fighter",
+    "imagePath": "atlas-vtt/assets/Fighter_1791446490648_kieo4g.webp",
+    "collection": "Default",
+    "tags": [
+      "Class"
+    ],
+    "showRing": true,
+    "type": "token",
+    "id": "token-starter-fighter",
+    "createdAt": 1791446490651,
+    "modifiedAt": 1791446490651,
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Fighter_1791446490648_kieo4g-3315b345.webp"
+  }
+}

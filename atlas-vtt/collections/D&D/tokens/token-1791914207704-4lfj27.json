@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "occultist with wand",
+    "imagePath": "atlas-vtt/assets/occultist_with_wand_1791914206611_wa5gea.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/occultist_with_wand_1791914206611_wa5gea-92613e82.webp",
+    "id": "token-1791914207704-4lfj27",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

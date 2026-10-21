@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "undead dog",
+    "imagePath": "atlas-vtt/assets/undead_dog_1791914569046_pnfi1t.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/undead_dog_1791914569046_pnfi1t-cc7a8fec.webp",
+    "id": "token-1791914570591-x5wcht",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

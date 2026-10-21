@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female soft features",
+    "imagePath": "atlas-vtt/assets/human_female_soft_features_1791910766984_ll2mxu.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_soft_features_1791910766984_ll2mxu-b4e049ff.webp",
+    "id": "token-1791910767352-u7bubs",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

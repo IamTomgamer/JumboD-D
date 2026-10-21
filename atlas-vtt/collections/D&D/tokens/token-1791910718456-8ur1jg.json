@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Umedenith",
+    "imagePath": "atlas-vtt/assets/Umedenith_1791910718436_tw649z.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Umedenith_1791910718436_tw649z-e4ab2234.webp",
+    "id": "token-1791910718456-8ur1jg",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

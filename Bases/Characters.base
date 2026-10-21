@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.tags.contains("Character")
+    - '!file.name.contains("Template")'
+views:
+  - type: cards
+    name: Card view on folder
+    groupBy:
+      property: file.folder
+      direction: DESC
+    order:
+      - file.name
+    image: note.Image
+    imageFit: contain
+    imageAspectRatio: 1
+    cardSize: 200
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Born in
+      - Gender
+      - tags
+      - Race
+      - Class
+      - AssociatedGroup
+    sort:
+      - property: Born in
+        direction: DESC
+    image: note.Image
+    columnSize:
+      note.Class: 308
+  - type: table
+    name: Timeline
+    order:
+      - file.name
+      - Born in
+      - aat-event-start-date
+      - aat-event-end-date
+      - aat-render-enabled
+      - Race
+      - Status
+    sort:
+      - property: Status
+        direction: ASC
+      - property: Born in
+        direction: ASC
+  - type: cards
+    name: Group by tags
+    groupBy:
+      property: file.tags
+      direction: ASC
+    image: note.Image

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "elemental dragon wizard",
+    "imagePath": "atlas-vtt/assets/elemental_dragon_wizard_1791914471678_ftpxeb.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elemental_dragon_wizard_1791914471678_ftpxeb-937d3eb5.webp",
+    "id": "token-1791914472437-4jlvt3",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

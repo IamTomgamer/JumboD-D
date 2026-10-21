@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "hedge knight",
+    "imagePath": "atlas-vtt/assets/hedge_knight_1791910718193_779e71.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/hedge_knight_1791910718193_779e71-93e90f3e.webp",
+    "id": "token-1791910718456-ntr79l",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

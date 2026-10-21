@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "ranger with wolf",
+    "imagePath": "atlas-vtt/assets/ranger_with_wolf_1791910766877_vilzkn.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/ranger_with_wolf_1791910766877_vilzkn-bc40263e.webp",
+    "id": "token-1791910767352-ehso25",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

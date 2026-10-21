@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "contemplative warrior in forest",
+    "imagePath": "atlas-vtt/assets/contemplative_warrior_in_forest_1791910716894_j9va5u.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/contemplative_warrior_in_forest_1791910716894_j9va5u-34b9ee63.webp",
+    "id": "token-1791910718456-oqb537",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

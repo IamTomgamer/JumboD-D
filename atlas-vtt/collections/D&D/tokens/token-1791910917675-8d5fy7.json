@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Neved",
+    "imagePath": "atlas-vtt/assets/Neved_1791910917422_7tbcpx.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Neved_1791910917422_7tbcpx-58b60cef.webp",
+    "id": "token-1791910917675-8d5fy7",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "shepherd",
+    "imagePath": "atlas-vtt/assets/shepherd_1791910717977_zqffpr.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/shepherd_1791910717977_zqffpr-94a4271e.webp",
+    "id": "token-1791910718456-3l5occ",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

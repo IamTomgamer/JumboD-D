@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "elder in robes",
+    "imagePath": "atlas-vtt/assets/elder_in_robes_1791910719374_nd9fty.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_in_robes_1791910719374_nd9fty-b41893d1.webp",
+    "id": "token-1791910719511-wov8c1",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

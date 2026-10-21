@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "welcoming cleric",
+    "imagePath": "atlas-vtt/assets/welcoming_cleric_1791910766346_4000ri.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/welcoming_cleric_1791910766346_4000ri-b9c95bdd.webp",
+    "id": "token-1791910767352-4wvlb6",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

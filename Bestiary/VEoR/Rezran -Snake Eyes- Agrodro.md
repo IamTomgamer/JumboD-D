@@ -1,0 +1,51 @@
+---
+statblock: true
+layout: Basic 5e Layout
+name: Rezran "Snake Eyes" Agrodro
+source: VEoR
+size: Medium
+type: fiend
+subtype: devil
+alignment: Typically lawful evil
+ac: 18 (natural armor)
+hp: 195
+hit_dice: 26d8 + 78
+speed: 30 ft., fly 40 ft.
+stats:
+- 12
+- 17
+- 16
+- 17
+- 12
+- 19
+saves:
+- int: 8
+- cha: 9
+skillsaves:
+- deception: 9
+- insight: 6
+- perception: 6
+- persuasion: 9
+damage_resistances: cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
+damage_immunities: fire, poison
+condition_immunities: poisoned
+senses: darkvision 120 ft., passive Perception 16
+languages: Draconic, Infernal, telepathy 120 ft.
+cr: '15'
+traits:
+- name: Devil's Sight
+  desc: Magical darkness doesn't impede Rezran's darkvision.
+- name: Magic Resistance
+  desc: Rezran has advantage on saving throws against spells and other magical effects.
+- name: Spellcasting
+  desc: |-
+    Rezran casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 17):
+    At will: alter self, major image
+    3/day each: charm person, detect thoughts, fear
+    1/day each: confusion, dominate person, mass suggestion
+actions:
+- name: Multiattack
+  desc: Rezran makes two Fiendish Claw attacks, or it makes one Fiendish Claw attack and uses Spellcasting.
+- name: Fiendish Claw
+  desc: 'Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) force damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or take 16 (3d10) poison damage and become poisoned for 1 minute. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.'
+---

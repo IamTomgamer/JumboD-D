@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "determined warrior",
+    "imagePath": "atlas-vtt/assets/determined_warrior_1791910765279_wo24n2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/determined_warrior_1791910765279_wo24n2-4a372cd6.webp",
+    "id": "token-1791910767352-o2kfrj",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

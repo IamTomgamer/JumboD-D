@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel with radiant blade",
+    "imagePath": "atlas-vtt/assets/angel_with_radiant_blade_1791914364500_gek96h.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_with_radiant_blade_1791914364500_gek96h-f21db8d9.webp",
+    "id": "token-1791914365341-pzaze1",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

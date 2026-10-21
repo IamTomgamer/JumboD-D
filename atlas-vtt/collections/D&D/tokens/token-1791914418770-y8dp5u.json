@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "devouring demon",
+    "imagePath": "atlas-vtt/assets/devouring_demon_1791914418036_7o1igq.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/devouring_demon_1791914418036_7o1igq-cced7d0d.webp",
+    "id": "token-1791914418770-y8dp5u",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

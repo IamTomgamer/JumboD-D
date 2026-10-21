@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "paladin of death deity",
+    "imagePath": "atlas-vtt/assets/paladin_of_death_deity_1791910763987_inoz4m.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/paladin_of_death_deity_1791910763987_inoz4m-3d0a08d7.webp",
+    "id": "token-1791910767352-hyvp9t",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

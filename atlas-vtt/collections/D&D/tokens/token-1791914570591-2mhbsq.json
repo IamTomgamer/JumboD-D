@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "revenant token",
+    "imagePath": "atlas-vtt/assets/revenant_token_1791914568729_zjdzed.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/revenant_token_1791914568729_zjdzed-04841135.webp",
+    "id": "token-1791914570591-2mhbsq",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

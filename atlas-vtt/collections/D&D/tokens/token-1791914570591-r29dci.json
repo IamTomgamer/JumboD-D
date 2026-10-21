@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Gendour undead warrior",
+    "imagePath": "atlas-vtt/assets/Gendour_undead_warrior_1791914568182_iqsenw.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Gendour_undead_warrior_1791914568182_iqsenw-0df153d2.webp",
+    "id": "token-1791914570591-r29dci",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

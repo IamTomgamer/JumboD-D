@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Mathas",
+    "imagePath": "atlas-vtt/assets/Mathas_1791910719346_t9nehn.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Mathas_1791910719346_t9nehn-2d3043ca.webp",
+    "id": "token-1791910719511-cge3hj",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

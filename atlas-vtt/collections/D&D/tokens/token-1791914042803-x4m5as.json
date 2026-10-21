@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "death druid(1)",
+    "imagePath": "atlas-vtt/assets/death_druid_1__1791914042736_5f95un.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/death_druid_1__1791914042736_5f95un-3d20f7e4.webp",
+    "id": "token-1791914042803-x4m5as",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "attentive druid",
+    "imagePath": "atlas-vtt/assets/attentive_druid_1791914042237_m7zahv.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/attentive_druid_1791914042237_m7zahv-f74c7ba0.webp",
+    "id": "token-1791914042803-w85a36",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

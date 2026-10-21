@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Agorve",
+    "imagePath": "atlas-vtt/assets/Agorve_1791910764588_rryz62.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Agorve_1791910764588_rryz62-96e103d5.webp",
+    "id": "token-1791910767352-hrpb60",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

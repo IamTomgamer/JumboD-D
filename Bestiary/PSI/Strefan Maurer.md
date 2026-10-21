@@ -1,0 +1,82 @@
+---
+statblock: true
+layout: Basic 5e Layout
+name: Strefan Maurer
+source: PSI
+size: Medium
+type: undead
+subtype: shapechanger
+alignment: lawful evil
+ac: 16 (natural armor)
+hp: 144
+hit_dice: 17d8 + 68
+speed: 30 ft.
+stats:
+- 18
+- 18
+- 18
+- 20
+- 15
+- 18
+saves:
+- dex: 9
+- wis: 7
+- cha: 9
+skillsaves:
+- arcana: 15
+- perception: 12
+- religion: 10
+- stealth: 14
+damage_resistances: necrotic; bludgeoning, piercing, slashing from nonmagical attacks
+senses: darkvision 120 ft., passive Perception 22
+languages: Abyssal, Common, Draconic, Elvish, Giant, Infernal
+cr: '15'
+traits:
+- name: Shapechanger
+  desc: |-
+    If Strefan isn't in running water or sunlight, he can use his action to polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back into his true form.
+    While in bat or wolf form, Strefan can't speak. In bat form, his walking speed is 5 feet, and he has a flying speed of 30 feet. In wolf form, his walking speed is 40 feet. His statistics, other than his size and speed, are unchanged. Anything he is wearing transforms with him, but nothing he is carrying does. He reverts to his true form if he dies.
+    While in mist form, Strefan can't take any actions, speak, or manipulate objects. He is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and he can't pass through water. He has advantage on Strength, Dexterity, and Constitution saving throws, and he is immune to all nonmagical damage, except the damage he takes from sunlight.
+- name: Legendary Resistance (3/Day)
+  desc: If Strefan fails a saving throw, he can choose to succeed instead.
+- name: Misty Escape
+  desc: |-
+    When Strefan drops to 0 hit points outside his coffin, he transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that he isn't in running water or sunlight. If he can't transform, he is destroyed.
+    While he has 0 hit points in mist form, he can't revert to his vampire form, and he must reach his coffin within 2 hours or be destroyed. Once in his coffin, he reverts to his vampire form. He is then paralyzed until he regains at least 1 hit point. After 1 hour in his coffin with 0 hit points, he regains 1 hit point.
+- name: Regeneration
+  desc: Strefan regains 20 hit points at the start of his turn if he has at least 1 hit point and isn't in running water or sunlight. If he takes radiant damage or damage from holy water, this trait doesn't function at the start of his next turn.
+- name: Spider Climb
+  desc: Strefan can climb difficult surfaces, including upside down on ceilings, without having to make an ability check.
+- name: Vampire Vulnerabilities
+  desc: Weapons cut from living wood are particularly effective against vampires, though any weapon can harm or kill them. A vampire can't cross running water that shows the reflection of the moon, and water blessed by Avacyn (holy water) burns vampire flesh like acid. A vampire's reflection in silver (including a silver-backed glass mirror) appears as the vampire would have looked without the vampiric condition—neither its true appearance nor its glamer, but a normal human, flaws and all. For that reason, vampires go to great lengths to avoid mirrors, and the presence of silver in any form is unsettling to them.
+- name: Spellcasting
+  desc: |-
+    Strefan is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). He has the following wizard spells prepared:
+    Cantrips (at will): mage hand, prestidigitation, ray of frost
+    1st level (4 slots): comprehend languages, fog cloud, sleep
+    2nd level (3 slots): detect thoughts, gust of wind, mirror image
+    3rd level (3 slots): animate dead, fireball, nondetection
+    4th level (3 slots): blight, greater invisibility, polymorph
+    5th level (1 slot): animate objects, scrying
+actions:
+- name: Multiattack (Vampire Form Only)
+  desc: Strefan makes two attacks, only one of which can be a bite attack.
+- name: Unarmed Strike (Vampire or Wolf Form Only)
+  desc: 'Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, plus 14 (4d6) necrotic damage. If the target is a creature, Strefan can grapple it (escape DC 18) instead of dealing the slashing damage.'
+- name: Bite
+  desc: 'Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Strefan, incapacitated, or restrained. Hit: 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target''s hit point maximum is reduced by an amount equal to the necrotic damage taken, and Strefan regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under Strefan''s control.'
+- name: Charm
+  desc: |-
+    Strefan targets one humanoid he can see within 30 feet of him. If the target can see Strefan, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed. The charmed target regards Strefan as a trusted friend to be heeded and protected. The target isn't under Strefan's control, but it takes Strefan's requests and actions in the most favorable way and lets Strefan bite it.
+    Each time Strefan or his companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until Strefan is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
+- name: Children of the Night (1/Day)
+  desc: Strefan magically calls 2d4 swarms of bats or swarms of rats, provided that the sun isn't up. While outdoors, Strefan can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of Strefan and obeying his spoken commands. The beasts remain for 1 hour, until Strefan dies, or until he dismisses them as a bonus action.
+legendary_actions:
+- name: Move
+  desc: Strefan moves up to his speed without provoking opportunity attacks.
+- name: Unarmed Strike
+  desc: Strefan makes one unarmed strike.
+- name: Bite (Costs 2 Actions)
+  desc: Strefan makes one bite attack.
+legendary_description: The strefan maurer can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The strefan maurer regains spent legendary actions at the start of its turn.
+---

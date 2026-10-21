@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Theros champion",
+    "imagePath": "atlas-vtt/assets/Theros_champion_1791910717677_vih8cm.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Theros_champion_1791910717677_vih8cm-91453b7b.webp",
+    "id": "token-1791910718456-epa2yc",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

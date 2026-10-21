@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf curiosties crafter",
+    "imagePath": "atlas-vtt/assets/dwarf_curiosties_crafter_1791911294973_3bxerj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_curiosties_crafter_1791911294973_3bxerj-7969d1f4.webp",
+    "id": "token-1791911295663-mov0f7",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

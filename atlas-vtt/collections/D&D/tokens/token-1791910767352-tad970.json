@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "old lady smirking",
+    "imagePath": "atlas-vtt/assets/old_lady_smirking_1791910766252_u9z9hb.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/old_lady_smirking_1791910766252_u9z9hb-8fa8401c.webp",
+    "id": "token-1791910767352-tad970",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

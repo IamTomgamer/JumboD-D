@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "young man with earring",
+    "imagePath": "atlas-vtt/assets/young_man_with_earring_1791910719079_e3r39n.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/young_man_with_earring_1791910719079_e3r39n-4399f6f2.webp",
+    "id": "token-1791910719511-oir884",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

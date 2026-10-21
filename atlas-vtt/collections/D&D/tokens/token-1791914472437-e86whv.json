@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Old Gnawbone",
+    "imagePath": "atlas-vtt/assets/Old_Gnawbone_1791914471884_3ktdx7.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Old_Gnawbone_1791914471884_3ktdx7-14ad178e.webp",
+    "id": "token-1791914472437-e86whv",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

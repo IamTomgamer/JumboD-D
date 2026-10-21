@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "pup carer",
+    "imagePath": "atlas-vtt/assets/pup_carer_1791910717007_73f14b.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/pup_carer_1791910717007_73f14b-704d0ea4.webp",
+    "id": "token-1791910718456-jttdxb",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

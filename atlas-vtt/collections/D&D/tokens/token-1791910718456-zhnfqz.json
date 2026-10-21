@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "stern soldier",
+    "imagePath": "atlas-vtt/assets/stern_soldier_1791910718260_a6e98l.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/stern_soldier_1791910718260_a6e98l-1e797232.webp",
+    "id": "token-1791910718456-zhnfqz",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

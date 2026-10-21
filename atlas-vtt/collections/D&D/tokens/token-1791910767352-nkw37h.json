@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "elder shaman",
+    "imagePath": "atlas-vtt/assets/elder_shaman_1791910766160_jxd4es.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_shaman_1791910766160_jxd4es-1ca73cd1.webp",
+    "id": "token-1791910767352-nkw37h",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "female with light",
+    "imagePath": "atlas-vtt/assets/female_with_light_1791910766545_zenr6g.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/female_with_light_1791910766545_zenr6g-f68cf0d1.webp",
+    "id": "token-1791910767352-nrvovq",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

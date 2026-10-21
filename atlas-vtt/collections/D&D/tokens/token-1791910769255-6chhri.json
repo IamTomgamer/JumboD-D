@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Yakerra",
+    "imagePath": "atlas-vtt/assets/Yakerra_1791910768979_mtvccw.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Yakerra_1791910768979_mtvccw-1fa6fb65.webp",
+    "id": "token-1791910769255-6chhri",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

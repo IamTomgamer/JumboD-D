@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "youth in blue white dress",
+    "imagePath": "atlas-vtt/assets/youth_in_blue_white_dress_1791910917174_i3pzlv.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/youth_in_blue_white_dress_1791910917174_i3pzlv-e809d131.webp",
+    "id": "token-1791910917675-u8oyb6",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

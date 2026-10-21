@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf sorcerer",
+    "imagePath": "atlas-vtt/assets/dwarf_sorcerer_1791911295489_0t9e3r.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_sorcerer_1791911295489_0t9e3r-5ae40a7b.webp",
+    "id": "token-1791911295663-azp09y",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

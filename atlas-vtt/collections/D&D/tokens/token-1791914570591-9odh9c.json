@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "skeleton with crown",
+    "imagePath": "atlas-vtt/assets/skeleton_with_crown_1791914568838_yj7fbd.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/skeleton_with_crown_1791914568838_yj7fbd-d7c2e75a.webp",
+    "id": "token-1791914570591-9odh9c",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

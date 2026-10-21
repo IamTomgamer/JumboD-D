@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.folder.contains("Custom Homebrew")
+views:
+  - type: cards
+    name: Cards
+    groupBy:
+      property: file.folder
+      direction: ASC
+    image: note.Image
+    imageAspectRatio: 0.9

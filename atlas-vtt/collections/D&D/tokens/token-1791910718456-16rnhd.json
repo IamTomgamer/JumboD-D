@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "man in front of stained glass",
+    "imagePath": "atlas-vtt/assets/man_in_front_of_stained_glass_1791910716717_od1zuq.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/man_in_front_of_stained_glass_1791910716717_od1zuq-2ff7fb61.webp",
+    "id": "token-1791910718456-16rnhd",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "demilich",
+    "imagePath": "atlas-vtt/assets/demilich_1791914567913_jaxrjh.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/demilich_1791914567913_jaxrjh-917837b7.webp",
+    "id": "token-1791914570591-btd4ld",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

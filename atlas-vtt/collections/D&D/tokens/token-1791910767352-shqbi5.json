@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "mage youth",
+    "imagePath": "atlas-vtt/assets/mage_youth_1791910765796_77e8mk.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/mage_youth_1791910765796_77e8mk-81690b77.webp",
+    "id": "token-1791910767352-shqbi5",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

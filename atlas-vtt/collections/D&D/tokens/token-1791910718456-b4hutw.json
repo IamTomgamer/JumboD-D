@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Cothalkas",
+    "imagePath": "atlas-vtt/assets/Cothalkas_1791910716743_prnziz.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Cothalkas_1791910716743_prnziz-f7739afb.webp",
+    "id": "token-1791910718456-b4hutw",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

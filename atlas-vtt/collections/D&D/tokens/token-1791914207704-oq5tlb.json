@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "warlock summoner",
+    "imagePath": "atlas-vtt/assets/warlock_summoner_1791914206229_5jyrhp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Warlock"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/warlock_summoner_1791914206229_5jyrhp-a480201b.webp",
+    "id": "token-1791914207704-oq5tlb",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

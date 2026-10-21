@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "crying young woman",
+    "imagePath": "atlas-vtt/assets/crying_young_woman_1791910769004_hv25ka.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/crying_young_woman_1791910769004_hv25ka-1e7ba3e1.webp",
+    "id": "token-1791910769255-3dl6ta",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

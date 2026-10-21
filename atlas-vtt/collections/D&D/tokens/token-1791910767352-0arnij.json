@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female peasant",
+    "imagePath": "atlas-vtt/assets/human_female_peasant_1791910766721_6rahvf.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_peasant_1791910766721_6rahvf-3882555b.webp",
+    "id": "token-1791910767352-0arnij",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

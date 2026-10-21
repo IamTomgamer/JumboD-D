@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cloaked female with dagger",
+    "imagePath": "atlas-vtt/assets/cloaked_female_with_dagger_1791910768603_y5wm2y.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cloaked_female_with_dagger_1791910768603_y5wm2y-69277e9b.webp",
+    "id": "token-1791910769255-nsrwsd",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

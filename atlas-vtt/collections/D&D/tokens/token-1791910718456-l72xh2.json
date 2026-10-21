@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "blind man",
+    "imagePath": "atlas-vtt/assets/blind_man_1791910717561_rivgas.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blind_man_1791910717561_rivgas-4b6239a9.webp",
+    "id": "token-1791910718456-l72xh2",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

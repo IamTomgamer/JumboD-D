@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "moved mother",
+    "imagePath": "atlas-vtt/assets/moved_mother_1791910766311_etqmp5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/moved_mother_1791910766311_etqmp5-fc14fc8d.webp",
+    "id": "token-1791910767352-e15v6s",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

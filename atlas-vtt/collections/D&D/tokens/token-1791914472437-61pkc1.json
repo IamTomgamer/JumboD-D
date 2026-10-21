@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "prismatic dragon",
+    "imagePath": "atlas-vtt/assets/prismatic_dragon_1791914471933_2j2wah.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/prismatic_dragon_1791914471933_2j2wah-5185b393.webp",
+    "id": "token-1791914472437-61pkc1",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

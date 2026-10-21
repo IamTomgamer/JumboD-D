@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "floating bard",
+    "imagePath": "atlas-vtt/assets/floating_bard_1791910717092_fudip2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/floating_bard_1791910717092_fudip2-34b9557a.webp",
+    "id": "token-1791910718456-mifob8",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Zavyoud",
+    "imagePath": "atlas-vtt/assets/Zavyoud_1791910719210_fmuk1j.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Zavyoud_1791910719210_fmuk1j-77517ebe.webp",
+    "id": "token-1791910719511-jf3ojf",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

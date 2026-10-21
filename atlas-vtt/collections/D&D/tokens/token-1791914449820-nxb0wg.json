@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dragonborn sitting",
+    "imagePath": "atlas-vtt/assets/dragonborn_sitting_1791914449798_0yp1u6.webp",
+    "collection": "D&D",
+    "tags": [
+      "DragonBorn"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dragonborn_sitting_1791914449798_0yp1u6-8092b4f9.webp",
+    "id": "token-1791914449820-nxb0wg",
+    "createdAt": 1791914449820,
+    "modifiedAt": 1791914449820
+  }
+}

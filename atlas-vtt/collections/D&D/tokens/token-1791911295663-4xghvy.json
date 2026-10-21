@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf monk of the sun soul",
+    "imagePath": "atlas-vtt/assets/dwarf_monk_of_the_sun_soul_1791911294866_3ocue3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_monk_of_the_sun_soul_1791911294866_3ocue3-c40970bd.webp",
+    "id": "token-1791911295663-4xghvy",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

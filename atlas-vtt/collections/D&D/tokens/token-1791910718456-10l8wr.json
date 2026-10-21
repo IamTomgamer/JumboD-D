@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "vigilant scholar",
+    "imagePath": "atlas-vtt/assets/vigilant_scholar_1791910717194_eav7hw.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/vigilant_scholar_1791910717194_eav7hw-43a109ee.webp",
+    "id": "token-1791910718456-10l8wr",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

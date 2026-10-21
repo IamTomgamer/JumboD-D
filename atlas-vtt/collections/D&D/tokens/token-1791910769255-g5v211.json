@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Vemika",
+    "imagePath": "atlas-vtt/assets/Vemika_1791910768879_n4w2x9.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Vemika_1791910768879_n4w2x9-32ce7ebc.webp",
+    "id": "token-1791910769255-g5v211",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

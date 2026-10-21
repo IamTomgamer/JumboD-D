@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "light cleric",
+    "imagePath": "atlas-vtt/assets/light_cleric_1791914020781_3gm2u9.webp",
+    "collection": "D&D",
+    "tags": [
+      "Religious Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/light_cleric_1791914020781_3gm2u9-b2e807da.webp",
+    "id": "token-1791914020847-a1pj1d",
+    "createdAt": 1791914020847,
+    "modifiedAt": 1791914020847
+  }
+}

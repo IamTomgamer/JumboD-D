@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "adult green dragon",
+    "imagePath": "atlas-vtt/assets/adult_green_dragon_1791914470917_w29lz4.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/adult_green_dragon_1791914470917_w29lz4-24fa3bb4.webp",
+    "id": "token-1791914472437-t89cnw",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1792099354045,
+    "statblockPath": "Bestiary/MM/Adult Green Dragon.md"
+  }
+}

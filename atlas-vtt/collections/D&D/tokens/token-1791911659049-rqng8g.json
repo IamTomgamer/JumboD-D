@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cultist",
+    "imagePath": "atlas-vtt/assets/cultist_1791911658932_nsewdb.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cultist_1791911658932_nsewdb-5512dccd.webp",
+    "id": "token-1791911659049-rqng8g",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1792099393902,
+    "statblockPath": "Bestiary/MM/Cultist.md"
+  }
+}

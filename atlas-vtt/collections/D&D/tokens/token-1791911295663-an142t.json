@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf warlord",
+    "imagePath": "atlas-vtt/assets/dwarf_warlord_1791911295333_vr3m85.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_warlord_1791911295333_vr3m85-757004c1.webp",
+    "id": "token-1791911295663-an142t",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

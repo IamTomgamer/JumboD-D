@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "rogue concerned",
+    "imagePath": "atlas-vtt/assets/rogue_concerned_1791910717108_xxq1bv.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/rogue_concerned_1791910717108_xxq1bv-faf300c0.webp",
+    "id": "token-1791910718456-m243hc",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

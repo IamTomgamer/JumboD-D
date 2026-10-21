@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "ghoul",
+    "imagePath": "atlas-vtt/assets/ghoul_1791914568283_s7p2x6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/ghoul_1791914568283_s7p2x6-783bdcf9.webp",
+    "id": "token-1791914570591-wm7b5o",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

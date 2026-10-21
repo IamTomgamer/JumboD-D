@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Omedec",
+    "imagePath": "atlas-vtt/assets/Omedec_1791910719319_0uca12.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Omedec_1791910719319_0uca12-08518f5d.webp",
+    "id": "token-1791910719511-xlmiyp",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

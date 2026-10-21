@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "necromancer 2",
+    "imagePath": "atlas-vtt/assets/necromancer_2_1791914144123_brza41.webp",
+    "collection": "D&D",
+    "tags": [
+      "Necromancer"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/necromancer_2_1791914144123_brza41-c878b89f.webp",
+    "id": "token-1791914144224-sptpe4",
+    "createdAt": 1791914144224,
+    "modifiedAt": 1791914144224
+  }
+}

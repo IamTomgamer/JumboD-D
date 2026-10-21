@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Chult druid",
+    "imagePath": "atlas-vtt/assets/Chult_druid_1791914041905_2oqt99.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Chult_druid_1791914041905_2oqt99-33d47fd2.webp",
+    "id": "token-1791914042803-s8dps7",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

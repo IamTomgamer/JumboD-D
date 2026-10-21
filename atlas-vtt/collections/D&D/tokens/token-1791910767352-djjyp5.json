@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "middle aged woman",
+    "imagePath": "atlas-vtt/assets/middle_aged_woman_1791910766370_8sd6i0.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/middle_aged_woman_1791910766370_8sd6i0-f0430aff.webp",
+    "id": "token-1791910767352-djjyp5",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

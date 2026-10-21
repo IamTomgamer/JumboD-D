@@ -1,0 +1,25 @@
+{
+  "id": "map-1792481814501-o57kge",
+  "name": "ascot",
+  "mapFilePath": "atlas-vtt/assets/ascot_1792481814416_mr718n.webp",
+  "tags": [
+    "Towns"
+  ],
+  "collection": "D&D",
+  "createdAt": 1792481814501,
+  "modifiedAt": 1792481814501,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "ascot",
+    "mapFilePath": "atlas-vtt/assets/ascot_1792481814416_mr718n.webp",
+    "collection": "D&D",
+    "tags": [
+      "Towns"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/ascot_1792481814416_mr718n-320296f9.webp",
+    "id": "map-1792481814501-o57kge",
+    "createdAt": 1792481814501,
+    "modifiedAt": 1792481814501
+  }
+}

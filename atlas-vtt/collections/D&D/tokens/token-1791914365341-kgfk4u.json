@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel with scythe",
+    "imagePath": "atlas-vtt/assets/angel_with_scythe_1791914364592_4iyz35.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_with_scythe_1791914364592_4iyz35-5ccd0d30.webp",
+    "id": "token-1791914365341-kgfk4u",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

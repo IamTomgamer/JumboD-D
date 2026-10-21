@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "frowning noble woman",
+    "imagePath": "atlas-vtt/assets/frowning_noble_woman_1791910765968_zbalbt.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/frowning_noble_woman_1791910765968_zbalbt-2bbfcc1c.webp",
+    "id": "token-1791910767352-rv1h68",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

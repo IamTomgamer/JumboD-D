@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "young man, neutral expession",
+    "imagePath": "atlas-vtt/assets/young_man__neutral_expession_1791910716643_xa0aaw.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/young_man__neutral_expession_1791910716643_xa0aaw-4c7bd4fa.webp",
+    "id": "token-1791910718456-lf0m5u",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

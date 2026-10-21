@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf mace wielder",
+    "imagePath": "atlas-vtt/assets/dwarf_mace_wielder_1791911295059_ig0x03.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_mace_wielder_1791911295059_ig0x03-11aca520.webp",
+    "id": "token-1791911295663-27xgf0",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

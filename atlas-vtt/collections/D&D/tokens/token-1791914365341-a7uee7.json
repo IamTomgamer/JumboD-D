@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "protector angel",
+    "imagePath": "atlas-vtt/assets/protector_angel_1791914364999_h05jh2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/protector_angel_1791914364999_h05jh2-6063f4cd.webp",
+    "id": "token-1791914365341-a7uee7",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

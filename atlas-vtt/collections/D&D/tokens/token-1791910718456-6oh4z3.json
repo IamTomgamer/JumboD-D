@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Bertand",
+    "imagePath": "atlas-vtt/assets/Bertand_1791910718392_mjqqlv.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Bertand_1791910718392_mjqqlv-beb5fa79.webp",
+    "id": "token-1791910718456-6oh4z3",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

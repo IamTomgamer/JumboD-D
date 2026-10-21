@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "warforged multi handed",
+    "imagePath": "atlas-vtt/assets/warforged_multi_handed_1791914320279_giac7r.webp",
+    "collection": "D&D",
+    "tags": [
+      "Warforged"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/warforged_multi_handed_1791914320279_giac7r-ece46028.webp",
+    "id": "token-1791914320504-qmejcp",
+    "createdAt": 1791914320504,
+    "modifiedAt": 1791914320504
+  }
+}

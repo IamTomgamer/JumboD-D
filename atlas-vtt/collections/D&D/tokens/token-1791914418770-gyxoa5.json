@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "demon overlord",
+    "imagePath": "atlas-vtt/assets/demon_overlord_1791914417651_9xi6od.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/demon_overlord_1791914417651_9xi6od-c71c3e8c.webp",
+    "id": "token-1791914418770-gyxoa5",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

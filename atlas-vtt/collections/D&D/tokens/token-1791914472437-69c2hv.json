@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "elder platinum dragon",
+    "imagePath": "atlas-vtt/assets/elder_platinum_dragon_1791914471645_af01vd.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_platinum_dragon_1791914471645_af01vd-13843ae0.webp",
+    "id": "token-1791914472437-69c2hv",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

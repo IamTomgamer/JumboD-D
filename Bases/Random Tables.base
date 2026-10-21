@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.tags.contains("RollTables")
+views:
+  - type: cards
+    name: View
+    groupBy:
+      property: file.tags
+      direction: ASC
+    order:
+      - file.name
+      - dice
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.tags
+      - dice

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "blue dragon upon treasure",
+    "imagePath": "atlas-vtt/assets/blue_dragon_upon_treasure_1791914471376_ayt849.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blue_dragon_upon_treasure_1791914471376_ayt849-ecb2c490.webp",
+    "id": "token-1791914472437-bxoths",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

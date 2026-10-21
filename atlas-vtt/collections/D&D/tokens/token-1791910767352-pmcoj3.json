@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "woman with glowing blade",
+    "imagePath": "atlas-vtt/assets/woman_with_glowing_blade_1791910766272_5zcjao.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/woman_with_glowing_blade_1791910766272_5zcjao-8dfbbd1e.webp",
+    "id": "token-1791910767352-pmcoj3",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

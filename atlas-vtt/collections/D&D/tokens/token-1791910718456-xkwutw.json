@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "acolyte young",
+    "imagePath": "atlas-vtt/assets/acolyte_young_1791910716776_8lt68e.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/acolyte_young_1791910716776_8lt68e-44bd93c1.webp",
+    "id": "token-1791910718456-xkwutw",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

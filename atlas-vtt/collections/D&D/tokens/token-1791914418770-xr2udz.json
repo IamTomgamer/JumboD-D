@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "devilish overlord",
+    "imagePath": "atlas-vtt/assets/devilish_overlord_1791914417999_oxq3lp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/devilish_overlord_1791914417999_oxq3lp-127a1294.webp",
+    "id": "token-1791914418770-xr2udz",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

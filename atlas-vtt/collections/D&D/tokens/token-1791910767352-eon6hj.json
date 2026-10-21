@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "fair young woman",
+    "imagePath": "atlas-vtt/assets/fair_young_woman_1791910764938_0ereze.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/fair_young_woman_1791910764938_0ereze-34866c22.webp",
+    "id": "token-1791910767352-eon6hj",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

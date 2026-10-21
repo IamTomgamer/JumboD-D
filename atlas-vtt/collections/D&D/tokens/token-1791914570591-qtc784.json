@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "winged undead",
+    "imagePath": "atlas-vtt/assets/winged_undead_1791914569833_ln5hf9.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/winged_undead_1791914569833_ln5hf9-1ed86ea2.webp",
+    "id": "token-1791914570591-qtc784",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

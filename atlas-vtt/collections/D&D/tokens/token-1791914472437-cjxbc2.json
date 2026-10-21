@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "green dragon",
+    "imagePath": "atlas-vtt/assets/green_dragon_1791914471818_yilxct.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/green_dragon_1791914471818_yilxct-7b545663.webp",
+    "id": "token-1791914472437-cjxbc2",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

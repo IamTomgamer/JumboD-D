@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human warrior stern",
+    "imagePath": "atlas-vtt/assets/human_warrior_stern_1791910717765_vk0frc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_warrior_stern_1791910717765_vk0frc-12137d6a.webp",
+    "id": "token-1791910718456-ehlpaf",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

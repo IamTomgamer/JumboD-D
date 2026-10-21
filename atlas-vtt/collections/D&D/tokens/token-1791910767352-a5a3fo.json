@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "young woman in snowy forest",
+    "imagePath": "atlas-vtt/assets/young_woman_in_snowy_forest_1791910764342_dozhui.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/young_woman_in_snowy_forest_1791910764342_dozhui-12d39e17.webp",
+    "id": "token-1791910767352-a5a3fo",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

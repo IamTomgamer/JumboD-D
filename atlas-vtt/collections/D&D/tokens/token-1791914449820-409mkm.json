@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dragonborn bard",
+    "imagePath": "atlas-vtt/assets/dragonborn_bard_1791914449665_nntovt.webp",
+    "collection": "D&D",
+    "tags": [
+      "DragonBorn"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dragonborn_bard_1791914449665_nntovt-f8428f2f.webp",
+    "id": "token-1791914449820-409mkm",
+    "createdAt": 1791914449820,
+    "modifiedAt": 1791914449820
+  }
+}

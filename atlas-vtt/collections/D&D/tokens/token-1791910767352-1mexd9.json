@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "smirking lady with lantern",
+    "imagePath": "atlas-vtt/assets/smirking_lady_with_lantern_1791910764662_s7j4lp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/smirking_lady_with_lantern_1791910764662_s7j4lp-f95249c4.webp",
+    "id": "token-1791910767352-1mexd9",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

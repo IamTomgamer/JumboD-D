@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel of righteousness",
+    "imagePath": "atlas-vtt/assets/angel_of_righteousness_1791914363882_jjesro.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_of_righteousness_1791914363882_jjesro-87644372.webp",
+    "id": "token-1791914365341-7vorvj",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

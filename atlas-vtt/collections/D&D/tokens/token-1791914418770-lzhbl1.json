@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "arcanaloth cloaked",
+    "imagePath": "atlas-vtt/assets/arcanaloth_cloaked_1791914417400_ni96d0.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/arcanaloth_cloaked_1791914417400_ni96d0-6a722575.webp",
+    "id": "token-1791914418770-lzhbl1",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

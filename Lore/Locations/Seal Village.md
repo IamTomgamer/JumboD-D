@@ -1,0 +1,1 @@
+a village that is a magic seal

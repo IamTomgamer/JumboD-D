@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "witch angered",
+    "imagePath": "atlas-vtt/assets/witch_angered_1791914206528_dvc3qc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/witch_angered_1791914206528_dvc3qc-532cd6e1.webp",
+    "id": "token-1791914207704-v71asx",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "regal queen",
+    "imagePath": "atlas-vtt/assets/regal_queen_1791910765036_k3xnab.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/regal_queen_1791910765036_k3xnab-b38c820c.webp",
+    "id": "token-1791910767352-3hzln7",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

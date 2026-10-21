@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cleric bewildered",
+    "imagePath": "atlas-vtt/assets/cleric_bewildered_1791914020566_tzm9af.webp",
+    "collection": "D&D",
+    "tags": [
+      "Religious Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cleric_bewildered_1791914020566_tzm9af-9ff6d7e4.webp",
+    "id": "token-1791914020847-a7x2w0",
+    "createdAt": 1791914020847,
+    "modifiedAt": 1791914020847
+  }
+}

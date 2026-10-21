@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "hunter middle aged",
+    "imagePath": "atlas-vtt/assets/hunter_middle_aged_1791910718312_nbcd46.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/hunter_middle_aged_1791910718312_nbcd46-3bbaee35.webp",
+    "id": "token-1791910718456-a6d1kn",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

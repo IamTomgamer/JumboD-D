@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "eager apprentice",
+    "imagePath": "atlas-vtt/assets/eager_apprentice_1791910765851_1rszxy.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/eager_apprentice_1791910765851_1rszxy-32a4c93d.webp",
+    "id": "token-1791910767352-9pnwvi",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

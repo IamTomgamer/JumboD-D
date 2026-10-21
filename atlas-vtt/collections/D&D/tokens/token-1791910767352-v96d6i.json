@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "young academic",
+    "imagePath": "atlas-vtt/assets/young_academic_1791910764301_qibrkd.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/young_academic_1791910764301_qibrkd-31071a58.webp",
+    "id": "token-1791910767352-v96d6i",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

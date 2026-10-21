@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "druid auburn hair",
+    "imagePath": "atlas-vtt/assets/druid_auburn_hair_1791914042144_p92plq.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/druid_auburn_hair_1791914042144_p92plq-dfbe4292.webp",
+    "id": "token-1791914042803-8ddfsj",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

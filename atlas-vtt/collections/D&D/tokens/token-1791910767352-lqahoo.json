@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female warrior",
+    "imagePath": "atlas-vtt/assets/human_female_warrior_1791910766755_c0pa10.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_warrior_1791910766755_c0pa10-8ab33782.webp",
+    "id": "token-1791910767352-lqahoo",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

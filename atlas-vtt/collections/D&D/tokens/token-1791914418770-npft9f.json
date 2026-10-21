@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "demon with chalice",
+    "imagePath": "atlas-vtt/assets/demon_with_chalice_1791914417751_4s2cc6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/demon_with_chalice_1791914417751_4s2cc6-be7cbabe.webp",
+    "id": "token-1791914418770-npft9f",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female noble young",
+    "imagePath": "atlas-vtt/assets/human_female_noble_young_1791910766625_rlr3qq.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_noble_young_1791910766625_rlr3qq-832f0685.webp",
+    "id": "token-1791910767352-5xk1ac",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "arcane conjurer",
+    "imagePath": "atlas-vtt/assets/arcane_conjurer_1791910716852_e1609n.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/arcane_conjurer_1791910716852_e1609n-2372d397.webp",
+    "id": "token-1791910718456-6ocvkd",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

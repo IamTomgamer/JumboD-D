@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Vistor",
+    "imagePath": "atlas-vtt/assets/Vistor_1791910719471_5ysvow.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Vistor_1791910719471_5ysvow-bddaebbf.webp",
+    "id": "token-1791910719511-lvhcxi",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

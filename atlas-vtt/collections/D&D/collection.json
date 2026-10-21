@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "uid": "87a10b93-845e-4f7e-9ca2-72d493b4d766",
+  "version": 1,
+  "tags": {
+    "tokens:human": {
+      "id": "human",
+      "name": "Human",
+      "group": "tokens"
+    },
+    "tokens:male": {
+      "id": "male",
+      "name": "Male",
+      "group": "tokens"
+    },
+    "tokens:female": {
+      "id": "female",
+      "name": "Female",
+      "group": "tokens"
+    },
+    "tokens:children": {
+      "id": "children",
+      "name": "Children",
+      "group": "tokens"
+    },
+    "tokens:dwarf": {
+      "id": "dwarf",
+      "name": "Dwarf",
+      "group": "tokens"
+    },
+    "tokens:paladon": {
+      "id": "paladon",
+      "name": "Paladon",
+      "group": "tokens"
+    },
+    "tokens:paladin": {
+      "id": "paladin",
+      "name": "Paladin",
+      "group": "tokens"
+    },
+    "tokens:barbarian": {
+      "id": "barbarian",
+      "name": "Barbarian",
+      "group": "tokens"
+    },
+    "tokens:artificer": {
+      "id": "artificer",
+      "name": "Artificer",
+      "group": "tokens"
+    },
+    "tokens:smith": {
+      "id": "smith",
+      "name": "Smith",
+      "group": "tokens"
+    },
+    "tokens:miner": {
+      "id": "miner",
+      "name": "Miner",
+      "group": "tokens"
+    },
+    "tokens:cultist": {
+      "id": "cultist",
+      "name": "Cultist",
+      "group": "tokens"
+    },
+    "tokens:religious-caster": {
+      "id": "religious-caster",
+      "name": "Religious Caster",
+      "group": "tokens"
+    },
+    "tokens:druid": {
+      "id": "druid",
+      "name": "Druid",
+      "group": "tokens"
+    },
+    "tokens:electromancer": {
+      "id": "electromancer",
+      "name": "Electromancer",
+      "group": "tokens"
+    },
+    "tokens:fire-caster": {
+      "id": "fire-caster",
+      "name": "Fire Caster",
+      "group": "tokens"
+    },
+    "tokens:necromancer": {
+      "id": "necromancer",
+      "name": "Necromancer",
+      "group": "tokens"
+    },
+    "tokens:warlock": {
+      "id": "warlock",
+      "name": "Warlock",
+      "group": "tokens"
+    },
+    "tokens:witch": {
+      "id": "witch",
+      "name": "Witch",
+      "group": "tokens"
+    },
+    "tokens:warforged": {
+      "id": "warforged",
+      "name": "Warforged",
+      "group": "tokens"
+    },
+    "tokens:angel": {
+      "id": "angel",
+      "name": "Angel",
+      "group": "tokens"
+    },
+    "tokens:demon/devil": {
+      "id": "demon/devil",
+      "name": "Demon/Devil",
+      "group": "tokens"
+    },
+    "tokens:dragonborn": {
+      "id": "dragonborn",
+      "name": "DragonBorn",
+      "group": "tokens"
+    },
+    "tokens:dragon": {
+      "id": "dragon",
+      "name": "Dragon",
+      "group": "tokens"
+    },
+    "tokens:undead": {
+      "id": "undead",
+      "name": "Undead",
+      "group": "tokens"
+    },
+    "maps:dungeon": {
+      "id": "dungeon",
+      "name": "Dungeon",
+      "group": "maps"
+    },
+    "maps:brimmed-caps": {
+      "id": "brimmed-caps",
+      "name": "Brimmed Caps",
+      "group": "maps"
+    },
+    "maps:session-1": {
+      "id": "session-1",
+      "name": "Session 1",
+      "group": "maps"
+    },
+    "maps:world": {
+      "id": "world",
+      "name": "World",
+      "group": "maps"
+    },
+    "tokens:player": {
+      "id": "player",
+      "name": "Player",
+      "group": "tokens"
+    },
+    "tokens:myconid": {
+      "id": "myconid",
+      "name": "Myconid",
+      "group": "tokens"
+    },
+    "tokens:non-character": {
+      "id": "non-character",
+      "name": "Non-Character",
+      "group": "tokens"
+    },
+    "maps:towns": {
+      "id": "towns",
+      "name": "Towns",
+      "group": "maps"
+    },
+    "maps:cities": {
+      "id": "cities",
+      "name": "Cities",
+      "group": "maps"
+    }
+  },
+  "settings": {
+    "conditions": [
+      {
+        "id": "dnd5e-blinded",
+        "name": "Blinded",
+        "color": "#475569",
+        "icon": "blindfold",
+        "effect": "blinded"
+      },
+      {
+        "id": "dnd5e-charmed",
+        "name": "Charmed",
+        "color": "#db2777",
+        "icon": "heart"
+      },
+      {
+        "id": "dnd5e-deafened",
+        "name": "Deafened",
+        "color": "#0891b2",
+        "icon": "hearing-disabled"
+      },
+      {
+        "id": "dnd5e-exhaustion",
+        "name": "Exhaustion",
+        "color": "#92400e",
+        "icon": "tired-eye",
+        "valued": true
+      },
+      {
+        "id": "dnd5e-frightened",
+        "name": "Frightened",
+        "color": "#7c3aed",
+        "icon": "terror"
+      },
+      {
+        "id": "dnd5e-grappled",
+        "name": "Grappled",
+        "color": "#ea580c",
+        "icon": "grab"
+      },
+      {
+        "id": "dnd5e-incapacitated",
+        "name": "Incapacitated",
+        "color": "#b91c1c",
+        "icon": "knockout"
+      },
+      {
+        "id": "dnd5e-invisible",
+        "name": "Invisible",
+        "color": "#c7d2fe",
+        "icon": "invisible",
+        "effect": "invisible"
+      },
+      {
+        "id": "dnd5e-paralyzed",
+        "name": "Paralyzed",
+        "color": "#38bdf8",
+        "icon": "frozen-body"
+      },
+      {
+        "id": "dnd5e-petrified",
+        "name": "Petrified",
+        "color": "#78716c",
+        "icon": "stoned-skull"
+      },
+      {
+        "id": "dnd5e-poisoned",
+        "name": "Poisoned",
+        "color": "#16a34a",
+        "icon": "poison"
+      },
+      {
+        "id": "dnd5e-prone",
+        "name": "Prone",
+        "color": "#d97706",
+        "icon": "foot-trip"
+      },
+      {
+        "id": "dnd5e-restrained",
+        "name": "Restrained",
+        "color": "#0d9488",
+        "icon": "imprisoned"
+      },
+      {
+        "id": "dnd5e-stunned",
+        "name": "Stunned",
+        "color": "#facc15",
+        "icon": "knocked-out-stars"
+      },
+      {
+        "id": "dnd5e-unconscious",
+        "name": "Unconscious",
+        "color": "#1e3a8a",
+        "icon": "sleepy"
+      }
+    ],
+    "gridDefaults": {
+      "unitType": "feet",
+      "unitDistance": 5,
+      "measurementMode": "metric",
+      "diagonalRule": "equidistant",
+      "coneAngle": 53.13,
+      "abstractRangeBands": []
+    },
+    "defaultWidgets": {
+      "hpBar": true,
+      "stressBar": false,
+      "initiativeTracker": true
+    },
+    "dice": {
+      "defaultRoll": "1d20",
+      "crit": "natural"
+    },
+    "resources": [
+      {
+        "key": "hp",
+        "name": "HP",
+        "field": "hp",
+        "direction": "drains",
+        "color": "#22c55e",
+        "defeatedWhenSpent": true,
+        "visibleToPlayers": true,
+        "slot": 0
+      }
+    ],
+    "systemPresetId": "builtin:dnd5e",
+    "customCreatureFilters": [],
+    "hiddenCreatureFilters": [],
+    "lootBases": [
+      "Bases/Loot Bases/Weapons.base",
+      "Bases/Loot Bases/Random Items.base"
+    ],
+    "lootCurrency": "GP"
+  },
+  "createdAt": 1791447563265,
+  "modifiedAt": 1792264090653,
+  "publisherId": "8a60750b-40c6-4965-82b6-017f35478b64"
+}

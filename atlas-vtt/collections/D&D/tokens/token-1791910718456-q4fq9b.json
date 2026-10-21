@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "man in black leather armor",
+    "imagePath": "atlas-vtt/assets/man_in_black_leather_armor_1791910716924_fziocb.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/man_in_black_leather_armor_1791910716924_fziocb-27449b86.webp",
+    "id": "token-1791910718456-q4fq9b",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "medic",
+    "imagePath": "atlas-vtt/assets/medic_1791910717777_d3vg4x.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/medic_1791910717777_d3vg4x-e03bccc6.webp",
+    "id": "token-1791910718456-n3jfmj",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

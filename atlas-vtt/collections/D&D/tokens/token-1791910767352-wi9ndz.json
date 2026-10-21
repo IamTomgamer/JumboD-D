@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cleric bestowing blessing",
+    "imagePath": "atlas-vtt/assets/cleric_bestowing_blessing_1791910764494_68ofnt.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cleric_bestowing_blessing_1791910764494_68ofnt-78308334.webp",
+    "id": "token-1791910767352-wi9ndz",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

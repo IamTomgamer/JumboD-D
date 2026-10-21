@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "blight dracolich",
+    "imagePath": "atlas-vtt/assets/blight_dracolich_1791914567564_xlveus.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blight_dracolich_1791914567564_xlveus-f687d666.webp",
+    "id": "token-1791914570591-94cxsh",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

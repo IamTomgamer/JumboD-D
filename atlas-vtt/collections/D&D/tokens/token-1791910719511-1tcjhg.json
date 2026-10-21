@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "older bearded armored",
+    "imagePath": "atlas-vtt/assets/older_bearded_armored_1791910719151_ok9y4e.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/older_bearded_armored_1791910719151_ok9y4e-92220a78.webp",
+    "id": "token-1791910719511-1tcjhg",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

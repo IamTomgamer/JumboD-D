@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "ascended elder mystic",
+    "imagePath": "atlas-vtt/assets/ascended_elder_mystic_1791910764545_5173yn.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/ascended_elder_mystic_1791910764545_5173yn-abef1cd2.webp",
+    "id": "token-1791910767352-msjcs1",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

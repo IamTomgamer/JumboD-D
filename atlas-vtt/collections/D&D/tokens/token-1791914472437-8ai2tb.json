@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "black dragon menace",
+    "imagePath": "atlas-vtt/assets/black_dragon_menace_1791914471074_kdn79h.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/black_dragon_menace_1791914471074_kdn79h-6590e5e5.webp",
+    "id": "token-1791914472437-8ai2tb",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

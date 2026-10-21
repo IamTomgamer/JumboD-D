@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "white dragon with red feathers",
+    "imagePath": "atlas-vtt/assets/white_dragon_with_red_feathers_1791914472370_shcx8l.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/white_dragon_with_red_feathers_1791914472370_shcx8l-2b0cd6a8.webp",
+    "id": "token-1791914472437-jgpyfz",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human noble assassin",
+    "imagePath": "atlas-vtt/assets/human_noble_assassin_1791910767163_k5pf6l.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_noble_assassin_1791910767163_k5pf6l-7db5c3f6.webp",
+    "id": "token-1791910767352-5eq522",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

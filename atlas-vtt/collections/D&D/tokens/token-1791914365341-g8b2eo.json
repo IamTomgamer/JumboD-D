@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel with emblem",
+    "imagePath": "atlas-vtt/assets/angel_with_emblem_1791914364391_0dnoe6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_with_emblem_1791914364391_0dnoe6-f0418069.webp",
+    "id": "token-1791914365341-g8b2eo",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

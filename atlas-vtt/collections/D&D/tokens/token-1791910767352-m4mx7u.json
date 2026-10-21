@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "historian with glasses",
+    "imagePath": "atlas-vtt/assets/historian_with_glasses_1791910765737_dtg4uz.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/historian_with_glasses_1791910765737_dtg4uz-74eb6176.webp",
+    "id": "token-1791910767352-m4mx7u",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

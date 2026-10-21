@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "man with yellow eyes",
+    "imagePath": "atlas-vtt/assets/man_with_yellow_eyes_1791910717433_gd8946.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/man_with_yellow_eyes_1791910717433_gd8946-230fcbd8.webp",
+    "id": "token-1791910718456-m5tl8f",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

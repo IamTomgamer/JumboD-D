@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "khan s messenger",
+    "imagePath": "atlas-vtt/assets/khan_s_messenger_1791910717666_f7n1e5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/khan_s_messenger_1791910717666_f7n1e5-04c2d999.webp",
+    "id": "token-1791910718456-xb81xz",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

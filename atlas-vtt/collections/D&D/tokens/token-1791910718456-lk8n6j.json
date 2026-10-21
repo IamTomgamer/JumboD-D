@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "bearded grey haired man",
+    "imagePath": "atlas-vtt/assets/bearded_grey_haired_man_1791910716809_k1qhxq.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/bearded_grey_haired_man_1791910716809_k1qhxq-22d59ce3.webp",
+    "id": "token-1791910718456-lk8n6j",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

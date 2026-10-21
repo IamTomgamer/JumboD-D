@@ -1,0 +1,58 @@
+---
+statblock: true
+layout: Basic 5e Layout
+name: Fenthaza
+source: ToA
+size: Medium
+type: monstrosity
+subtype: shapechanger, yuan-ti
+alignment: neutral evil
+ac: 14 (natural armor)
+hp: 71
+hit_dice: 13d8 + 13
+speed: 30 ft.
+stats:
+- 16
+- 14
+- 13
+- 14
+- 12
+- 16
+saves:
+- wis: 3
+- cha: 5
+skillsaves:
+- deception: 5
+- stealth: 4
+damage_immunities: poison
+condition_immunities: poisoned
+senses: darkvision 120 ft. (penetrates magical darkness), passive Perception 11
+languages: Abyssal, Common, Draconic
+cr: '4'
+traits:
+- name: Shapechanger
+  desc: Fenthaza can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.
+- name: Death Fangs (2/Day)
+  desc: The first time Fenthaza hits with a melee attack on its turn, it can deal an extra 16 (3d10) necrotic damage to the target.
+- name: Magic Resistance
+  desc: Fenthaza has advantage on saving throws against spells and other magical effects.
+- name: Innate Spellcasting (Yuan-ti Form Only)
+  desc: |-
+    Fenthaza's innate spellcasting ability is Charisma (spell save DC 13). Fenthaza can innately cast the following spells, requiring no material components:
+    At will: animal friendship (snakes only)
+    3/day: suggestion
+- name: Spellcasting (Yuan-ti Form Only)
+  desc: |-
+    Fenthaza is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+    Cantrips (at will): chill touch, eldritch blast (range 300 ft., +3 bonus to each damage roll), mage hand, message, poison spray, prestidigitation
+    3rd level (2 slots): arms of Hadar, darkness, fear, hex, hold person, hunger of Hadar, witch bolt
+actions:
+- name: Multiattack (Yuan-ti Form Only)
+  desc: Fenthaza makes one constrict attack and one scimitar attack.
+- name: Constrict
+  desc: 'Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 14) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and Fenthaza can''t constrict another target.'
+- name: Scimitar (Yuan-ti Form Only)
+  desc: 'Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.'
+- name: Invoke Nightmare (Recharges after a Short or Long Rest)
+  desc: Fenthaza taps into the nightmares of a creature it can see within 60 feet of it and creates an illusory, immobile manifestation of the creature's deepest fears, visible only to that creature. The target must make a DC 13 Intelligence saving throw. On a failed save, the target takes 11 (2d10) psychic damage and is frightened of the manifestation, believing it to be real. Fenthaza must concentrate to maintain the illusion (as if concentrating on a spell), which lasts for up to 1 minute and can't be harmed. The target can repeat the saving throw at the end of each of its turns, ending the illusion on a success, or taking 11 (2d10) psychic damage on a failure.
+---

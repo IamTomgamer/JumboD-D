@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "child finding flower",
+    "imagePath": "atlas-vtt/assets/child_finding_flower_1791910916914_49xqpd.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/child_finding_flower_1791910916914_49xqpd-e8900702.webp",
+    "id": "token-1791910917675-2cw7rq",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

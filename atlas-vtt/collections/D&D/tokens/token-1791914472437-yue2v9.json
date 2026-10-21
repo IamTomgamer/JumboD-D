@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "adult white dragon",
+    "imagePath": "atlas-vtt/assets/adult_white_dragon_1791914471009_mbu7w0.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/adult_white_dragon_1791914471009_mbu7w0-1165df45.webp",
+    "id": "token-1791914472437-yue2v9",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

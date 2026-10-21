@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "gifted orator",
+    "imagePath": "atlas-vtt/assets/gifted_orator_1791910766467_8bknha.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/gifted_orator_1791910766467_8bknha-0d1ee743.webp",
+    "id": "token-1791910767352-wt2fk2",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Umodothar",
+    "imagePath": "atlas-vtt/assets/Umodothar_1791910719116_b02o62.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Umodothar_1791910719116_b02o62-41f30211.webp",
+    "id": "token-1791910719511-cf99zf",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

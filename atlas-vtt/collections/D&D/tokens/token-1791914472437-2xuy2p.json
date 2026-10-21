@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "blue dragon at sea",
+    "imagePath": "atlas-vtt/assets/blue_dragon_at_sea_1791914471226_54c9bl.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blue_dragon_at_sea_1791914471226_54c9bl-ae4b5f93.webp",
+    "id": "token-1791914472437-2xuy2p",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

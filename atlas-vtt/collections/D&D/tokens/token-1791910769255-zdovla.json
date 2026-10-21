@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Lethrena artificer",
+    "imagePath": "atlas-vtt/assets/Lethrena_artificer_1791910769146_2pix1b.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Lethrena_artificer_1791910769146_2pix1b-d17080ba.webp",
+    "id": "token-1791910769255-zdovla",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "ritualist with dagger",
+    "imagePath": "atlas-vtt/assets/ritualist_with_dagger_1791910717888_2hwtl4.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/ritualist_with_dagger_1791910717888_2hwtl4-ac44afe7.webp",
+    "id": "token-1791910718456-9vq1vv",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

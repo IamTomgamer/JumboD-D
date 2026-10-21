@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "chaotic magic sorcerer",
+    "imagePath": "atlas-vtt/assets/chaotic_magic_sorcerer_1791914119425_5zuuzm.webp",
+    "collection": "D&D",
+    "tags": [
+      "Fire Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/chaotic_magic_sorcerer_1791914119425_5zuuzm-9dbb7afb.webp",
+    "id": "token-1791914119600-hlnqwx",
+    "createdAt": 1791914119600,
+    "modifiedAt": 1791914119600
+  }
+}

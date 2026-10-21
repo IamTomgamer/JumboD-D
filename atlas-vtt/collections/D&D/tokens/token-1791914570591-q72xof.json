@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "bone dragon",
+    "imagePath": "atlas-vtt/assets/bone_dragon_1791914567672_ytdyxy.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/bone_dragon_1791914567672_ytdyxy-a748dbfa.webp",
+    "id": "token-1791914570591-q72xof",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "careful crafter",
+    "imagePath": "atlas-vtt/assets/careful_crafter_1791910717125_wwwkhr.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/careful_crafter_1791910717125_wwwkhr-b956bc87.webp",
+    "id": "token-1791910718456-waimgc",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

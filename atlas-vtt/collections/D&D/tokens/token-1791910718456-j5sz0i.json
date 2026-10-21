@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "acolyte elder worn out robe (1)",
+    "imagePath": "atlas-vtt/assets/acolyte_elder_worn_out_robe__1__1791910718016_8wtnak.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/acolyte_elder_worn_out_robe__1__1791910718016_8wtnak-bd84cbbb.webp",
+    "id": "token-1791910718456-j5sz0i",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

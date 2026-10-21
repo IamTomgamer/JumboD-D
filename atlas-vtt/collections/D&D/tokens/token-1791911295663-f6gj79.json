@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf cleric with hammer",
+    "imagePath": "atlas-vtt/assets/dwarf_cleric_with_hammer_1791911295097_sy2yvx.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_cleric_with_hammer_1791911295097_sy2yvx-5d0ddd85.webp",
+    "id": "token-1791911295663-f6gj79",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

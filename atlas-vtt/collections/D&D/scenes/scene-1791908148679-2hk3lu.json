@@ -1,0 +1,15 @@
+{
+  "mapPath": "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
+  "atlasRecord": {
+    "format": 1,
+    "type": "scene",
+    "name": "WorldMap",
+    "collection": "D&D",
+    "tags": [
+      "World"
+    ],
+    "id": "scene-1791908148679-2hk3lu",
+    "createdAt": 1791908148679,
+    "modifiedAt": 1792079943423
+  }
+}

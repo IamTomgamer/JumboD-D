@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "coven participant",
+    "imagePath": "atlas-vtt/assets/coven_participant_1791910717018_utp4yj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/coven_participant_1791910717018_utp4yj-b24d8467.webp",
+    "id": "token-1791910718456-qh62sz",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

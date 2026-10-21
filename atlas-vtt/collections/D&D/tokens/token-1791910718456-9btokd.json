@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "young man",
+    "imagePath": "atlas-vtt/assets/young_man_1791910718068_6bb20m.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/young_man_1791910718068_6bb20m-d8856aca.webp",
+    "id": "token-1791910718456-9btokd",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

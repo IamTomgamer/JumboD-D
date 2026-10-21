@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "elder fire mage",
+    "imagePath": "atlas-vtt/assets/elder_fire_mage_1791914118977_cxdkos.webp",
+    "collection": "D&D",
+    "tags": [
+      "Fire Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_fire_mage_1791914118977_cxdkos-58ed34b9.webp",
+    "id": "token-1791914119600-l29oie",
+    "createdAt": 1791914119600,
+    "modifiedAt": 1791914119600
+  }
+}

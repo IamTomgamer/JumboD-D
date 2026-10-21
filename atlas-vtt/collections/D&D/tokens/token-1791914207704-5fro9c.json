@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "witch cloaked",
+    "imagePath": "atlas-vtt/assets/witch_cloaked_1791914207054_bmidx7.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/witch_cloaked_1791914207054_bmidx7-4214d998.webp",
+    "id": "token-1791914207704-5fro9c",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

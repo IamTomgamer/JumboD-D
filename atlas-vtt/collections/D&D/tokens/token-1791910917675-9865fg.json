@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Isomille",
+    "imagePath": "atlas-vtt/assets/Isomille_1791910916798_mscrdn.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Isomille_1791910916798_mscrdn-86ef4f75.webp",
+    "id": "token-1791910917675-9865fg",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

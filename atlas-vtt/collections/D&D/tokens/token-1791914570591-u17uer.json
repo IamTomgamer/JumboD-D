@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "decaying ooze",
+    "imagePath": "atlas-vtt/assets/decaying_ooze_1791914567788_bjxyrt.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/decaying_ooze_1791914567788_bjxyrt-075467d8.webp",
+    "id": "token-1791914570591-u17uer",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

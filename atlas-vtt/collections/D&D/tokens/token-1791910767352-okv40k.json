@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "old lady with braid",
+    "imagePath": "atlas-vtt/assets/old_lady_with_braid_1791910766410_cf66c7.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/old_lady_with_braid_1791910766410_cf66c7-6cc4d653.webp",
+    "id": "token-1791910767352-okv40k",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

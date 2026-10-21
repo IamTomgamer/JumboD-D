@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "priest in robes",
+    "imagePath": "atlas-vtt/assets/priest_in_robes_1791914020666_zmfp0d.webp",
+    "collection": "D&D",
+    "tags": [
+      "Religious Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/priest_in_robes_1791914020666_zmfp0d-84797358.webp",
+    "id": "token-1791914020847-2oqf9f",
+    "createdAt": 1791914020847,
+    "modifiedAt": 1791914020847
+  }
+}

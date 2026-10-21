@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "baneslayer angel",
+    "imagePath": "atlas-vtt/assets/baneslayer_angel_1791914364682_70ccc3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/baneslayer_angel_1791914364682_70ccc3-645e801e.webp",
+    "id": "token-1791914365341-jezzh4",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

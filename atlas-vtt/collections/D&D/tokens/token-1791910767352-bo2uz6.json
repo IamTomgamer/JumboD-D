@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "young woman with ribbon in neck",
+    "imagePath": "atlas-vtt/assets/young_woman_with_ribbon_in_neck_1791910764213_p8059j.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/young_woman_with_ribbon_in_neck_1791910764213_p8059j-483f629a.webp",
+    "id": "token-1791910767352-bo2uz6",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

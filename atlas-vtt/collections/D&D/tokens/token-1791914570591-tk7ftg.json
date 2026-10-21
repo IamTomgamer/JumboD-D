@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "ghoul enchanted",
+    "imagePath": "atlas-vtt/assets/ghoul_enchanted_1791914568225_g6oiv0.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/ghoul_enchanted_1791914568225_g6oiv0-73890711.webp",
+    "id": "token-1791914570591-tk7ftg",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

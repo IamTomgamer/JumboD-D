@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "proud Chult inhabitant",
+    "imagePath": "atlas-vtt/assets/proud_Chult_inhabitant_1791910764051_d9evw6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/proud_Chult_inhabitant_1791910764051_d9evw6-90c08df6.webp",
+    "id": "token-1791910767352-3adwdn",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

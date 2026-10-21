@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "revenant death knight",
+    "imagePath": "atlas-vtt/assets/revenant_death_knight_1791914568679_rbl9zi.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/revenant_death_knight_1791914568679_rbl9zi-92d5c58b.webp",
+    "id": "token-1791914570591-jhua1k",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

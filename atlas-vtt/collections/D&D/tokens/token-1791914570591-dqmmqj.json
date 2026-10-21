@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "zombie decomposiing dress",
+    "imagePath": "atlas-vtt/assets/zombie_decomposiing_dress_1791914570299_ubejcy.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/zombie_decomposiing_dress_1791914570299_ubejcy-74b646b6.webp",
+    "id": "token-1791914570591-dqmmqj",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

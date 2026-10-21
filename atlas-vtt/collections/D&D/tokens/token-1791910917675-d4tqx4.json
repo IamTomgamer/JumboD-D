@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Tomik",
+    "imagePath": "atlas-vtt/assets/Tomik_1791910917634_g74awh.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Tomik_1791910917634_g74awh-59e958dc.webp",
+    "id": "token-1791910917675-d4tqx4",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

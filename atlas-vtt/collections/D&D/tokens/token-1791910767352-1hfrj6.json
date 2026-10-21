@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human noble with soft features",
+    "imagePath": "atlas-vtt/assets/human_noble_with_soft_features_1791910767321_lv0jdp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_noble_with_soft_features_1791910767321_lv0jdp-a496d97e.webp",
+    "id": "token-1791910767352-1hfrj6",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

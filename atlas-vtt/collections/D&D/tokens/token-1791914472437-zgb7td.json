@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "elder dragon, emanating dark energy",
+    "imagePath": "atlas-vtt/assets/elder_dragon__emanating_dark_energy_1791914471526_yr2k17.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_dragon__emanating_dark_energy_1791914471526_yr2k17-279a901f.webp",
+    "id": "token-1791914472437-zgb7td",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "wandering witch",
+    "imagePath": "atlas-vtt/assets/wandering_witch_1791914207145_iqgpr6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/wandering_witch_1791914207145_iqgpr6-28a52fd3.webp",
+    "id": "token-1791914207704-co8eu4",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

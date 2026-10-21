@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "nature ritualist",
+    "imagePath": "atlas-vtt/assets/nature_ritualist_1791914042479_3dmq1a.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/nature_ritualist_1791914042479_3dmq1a-274c5b98.webp",
+    "id": "token-1791914042803-efl8jw",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

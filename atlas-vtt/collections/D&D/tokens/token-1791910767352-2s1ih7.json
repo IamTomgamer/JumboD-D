@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "fair maid, auburn hair",
+    "imagePath": "atlas-vtt/assets/fair_maid__auburn_hair_1791910765144_zsvv8g.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/fair_maid__auburn_hair_1791910765144_zsvv8g-8624d4e9.webp",
+    "id": "token-1791910767352-2s1ih7",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

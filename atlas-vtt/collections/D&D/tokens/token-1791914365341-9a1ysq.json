@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angel of order",
+    "imagePath": "atlas-vtt/assets/angel_of_order_1791914363616_aiqysc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Angel"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angel_of_order_1791914363616_aiqysc-15d513fb.webp",
+    "id": "token-1791914365341-9a1ysq",
+    "createdAt": 1791914365341,
+    "modifiedAt": 1791914365341
+  }
+}

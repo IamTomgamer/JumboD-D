@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "druid dragonspeaker",
+    "imagePath": "atlas-vtt/assets/druid_dragonspeaker_1791914042386_a1v6ar.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/druid_dragonspeaker_1791914042386_a1v6ar-6c421d8b.webp",
+    "id": "token-1791914042803-qza5b0",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

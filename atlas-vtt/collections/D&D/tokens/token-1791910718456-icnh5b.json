@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "mysterious white haired man",
+    "imagePath": "atlas-vtt/assets/mysterious_white_haired_man_1791910716976_fdl8iz.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/mysterious_white_haired_man_1791910716976_fdl8iz-0c0d26ea.webp",
+    "id": "token-1791910718456-icnh5b",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

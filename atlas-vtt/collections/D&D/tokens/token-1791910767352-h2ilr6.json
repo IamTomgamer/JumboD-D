@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "traveller with backpack",
+    "imagePath": "atlas-vtt/assets/traveller_with_backpack_1791910765886_dc6tx3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/traveller_with_backpack_1791910765886_dc6tx3-6a5cd1d9.webp",
+    "id": "token-1791910767352-h2ilr6",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

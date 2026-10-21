@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "concerned soldier",
+    "imagePath": "atlas-vtt/assets/concerned_soldier_1791910717295_4bye1j.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/concerned_soldier_1791910717295_4bye1j-249de4bc.webp",
+    "id": "token-1791910718456-4iqhtw",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

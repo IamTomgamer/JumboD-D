@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angry peasant",
+    "imagePath": "atlas-vtt/assets/angry_peasant_1791910716827_oahuxz.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angry_peasant_1791910716827_oahuxz-6efbb016.webp",
+    "id": "token-1791910718456-klgbdf",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

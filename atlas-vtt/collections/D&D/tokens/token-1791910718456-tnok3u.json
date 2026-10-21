@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "nordling elder",
+    "imagePath": "atlas-vtt/assets/nordling_elder_1791910716799_ggv10y.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/nordling_elder_1791910716799_ggv10y-30ccd595.webp",
+    "id": "token-1791910718456-tnok3u",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

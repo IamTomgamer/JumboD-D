@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "pacifist villager",
+    "imagePath": "atlas-vtt/assets/pacifist_villager_1791910764096_kyt6yk.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/pacifist_villager_1791910764096_kyt6yk-4c0b2cfe.webp",
+    "id": "token-1791910767352-36g5uw",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

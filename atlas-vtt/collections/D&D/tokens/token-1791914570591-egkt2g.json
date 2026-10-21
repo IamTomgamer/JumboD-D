@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "lich 3",
+    "imagePath": "atlas-vtt/assets/lich_3_1791914568563_hnllsf.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/lich_3_1791914568563_hnllsf-c8f05b7e.webp",
+    "id": "token-1791914570591-egkt2g",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

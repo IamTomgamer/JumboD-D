@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "druid caller",
+    "imagePath": "atlas-vtt/assets/druid_caller_1791914042328_elhn6j.webp",
+    "collection": "D&D",
+    "tags": [
+      "Druid"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/druid_caller_1791914042328_elhn6j-2cd66f38.webp",
+    "id": "token-1791914042803-m7v4fq",
+    "createdAt": 1791914042803,
+    "modifiedAt": 1791914042803
+  }
+}

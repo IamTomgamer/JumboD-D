@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "inquisitive scholar",
+    "imagePath": "atlas-vtt/assets/inquisitive_scholar_1791910717548_yaryuy.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/inquisitive_scholar_1791910717548_yaryuy-0695d2e6.webp",
+    "id": "token-1791910718456-nl0uws",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

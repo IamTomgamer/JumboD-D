@@ -1,0 +1,41 @@
+---
+statblock: true
+layout: Basic 5e Layout
+name: Weretiger
+source: XMM
+size: Small or Medium
+type: monstrosity
+subtype: lycanthrope
+alignment: neutral
+ac: 12
+hp: 120
+hit_dice: 16d8 + 48
+speed: 30 ft.
+stats:
+- 17
+- 15
+- 16
+- 10
+- 13
+- 11
+skillsaves:
+- perception: 5
+- stealth: 4
+senses: Darkvision 60 ft., passive Perception 15
+languages: Common (can't speak in tiger form)
+cr: '4'
+actions:
+- name: Multiattack
+  desc: The weretiger makes two attacks, using Scratch or Longbow in any combination. It can replace one attack with a Bite attack.
+- name: Bite (Tiger or Hybrid Form Only)
+  desc: 'm +5, reach 5 ft. Hit: 12 (2d8 + 3) Piercing damage. If the target is a Humanoid, it is subjected to the following effect. con DC 13.  The target is cursed. If the cursed target drops to 0 Hit Points, it instead becomes a Weretiger under the DM''s control and has 10 Hit Points.  The target is immune to this weretiger''s curse for 24 hours.'
+- name: Scratch
+  desc: 'm +5, reach 5 ft. Hit: 10 (2d6 + 3) Slashing damage.'
+- name: Longbow (Humanoid or Hybrid Form Only)
+  desc: 'r +4, range 150/600 ft. Hit: 11 (2d8 + 2) Piercing damage.'
+bonus_actions:
+- name: Prowl (Tiger or Hybrid Form Only)
+  desc: The weretiger moves up to its Speed without provoking Opportunity Attacks. At the end of this movement, the weretiger can take the Hide action.
+- name: Shape-Shift
+  desc: The weretiger shape-shifts into a Large tiger-humanoid hybrid or a Large tiger, or it returns to its true humanoid form. Its game statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed.
+---

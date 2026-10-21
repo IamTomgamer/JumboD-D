@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf with shield",
+    "imagePath": "atlas-vtt/assets/dwarf_with_shield_1791911294749_7ml04l.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_with_shield_1791911294749_7ml04l-50024b89.webp",
+    "id": "token-1791911295663-o75ymm",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "young warrior paladin",
+    "imagePath": "atlas-vtt/assets/young_warrior_paladin_1791910718084_x3zhub.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/young_warrior_paladin_1791910718084_x3zhub-315ceeb7.webp",
+    "id": "token-1791910718456-ce6w3z",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

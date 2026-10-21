@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "twin diviner 1",
+    "imagePath": "atlas-vtt/assets/twin_diviner_1_1791910765946_b63qa2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/twin_diviner_1_1791910765946_b63qa2-dd71b65c.webp",
+    "id": "token-1791910767352-rayo9w",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

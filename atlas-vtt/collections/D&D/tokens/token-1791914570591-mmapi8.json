@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "demilich with jewels as eyes",
+    "imagePath": "atlas-vtt/assets/demilich_with_jewels_as_eyes_1791914567874_hhgapf.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/demilich_with_jewels_as_eyes_1791914567874_hhgapf-611a66ec.webp",
+    "id": "token-1791914570591-mmapi8",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

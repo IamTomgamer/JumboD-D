@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "zombie couple",
+    "imagePath": "atlas-vtt/assets/zombie_couple_1791914570254_pxye96.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/zombie_couple_1791914570254_pxye96-7fe2ed65.webp",
+    "id": "token-1791914570591-98gbrv",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

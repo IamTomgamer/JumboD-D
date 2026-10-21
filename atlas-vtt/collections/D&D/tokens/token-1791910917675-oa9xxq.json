@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Thordev",
+    "imagePath": "atlas-vtt/assets/Thordev_1791910917389_3cteac.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Thordev_1791910917389_3cteac-a7328d8a.webp",
+    "id": "token-1791910917675-oa9xxq",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

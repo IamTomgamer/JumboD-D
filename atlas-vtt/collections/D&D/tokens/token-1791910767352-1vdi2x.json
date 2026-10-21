@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "villager defending with pitchfork",
+    "imagePath": "atlas-vtt/assets/villager_defending_with_pitchfork_1791910765178_e0sfo6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/villager_defending_with_pitchfork_1791910765178_e0sfo6-353914e2.webp",
+    "id": "token-1791910767352-1vdi2x",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

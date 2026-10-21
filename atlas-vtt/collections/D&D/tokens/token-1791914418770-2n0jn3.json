@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "bone devil",
+    "imagePath": "atlas-vtt/assets/bone_devil_1791914417436_jddxmm.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/bone_devil_1791914417436_jddxmm-42c6aefc.webp",
+    "id": "token-1791914418770-2n0jn3",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

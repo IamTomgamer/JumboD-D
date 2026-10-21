@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Vistani seer",
+    "imagePath": "atlas-vtt/assets/Vistani_seer_1791910764879_3dcis6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Vistani_seer_1791910764879_3dcis6-eeae6a13.webp",
+    "id": "token-1791910767352-qdij9e",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

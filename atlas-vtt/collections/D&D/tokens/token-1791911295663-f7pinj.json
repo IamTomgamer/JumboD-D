@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf fighter worried",
+    "imagePath": "atlas-vtt/assets/dwarf_fighter_worried_1791911295575_odt3bk.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_fighter_worried_1791911295575_odt3bk-d7bef808.webp",
+    "id": "token-1791911295663-f7pinj",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

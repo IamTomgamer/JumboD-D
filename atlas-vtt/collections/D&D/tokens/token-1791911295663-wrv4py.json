@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf hawk scout",
+    "imagePath": "atlas-vtt/assets/dwarf_hawk_scout_1791911295280_tqxcxe.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_hawk_scout_1791911295280_tqxcxe-265f5ccd.webp",
+    "id": "token-1791911295663-wrv4py",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

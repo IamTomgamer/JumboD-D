@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "armored undead general",
+    "imagePath": "atlas-vtt/assets/armored_undead_general_1791914567496_w6o0bu.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/armored_undead_general_1791914567496_w6o0bu-9071e57d.webp",
+    "id": "token-1791914570591-9ozto6",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

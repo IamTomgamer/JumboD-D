@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "mother and child",
+    "imagePath": "atlas-vtt/assets/mother_and_child_1791910764978_dahvaj.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/mother_and_child_1791910764978_dahvaj-c7df54d1.webp",
+    "id": "token-1791910767352-wvwe99",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

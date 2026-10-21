@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "noble in black",
+    "imagePath": "atlas-vtt/assets/noble_in_black_1791910768544_kvd59f.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/noble_in_black_1791910768544_kvd59f-72754401.webp",
+    "id": "token-1791910769255-z13eml",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

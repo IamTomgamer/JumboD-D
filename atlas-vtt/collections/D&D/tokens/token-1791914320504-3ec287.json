@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "warforged dark metal",
+    "imagePath": "atlas-vtt/assets/warforged_dark_metal_1791914320212_5kxhzc.webp",
+    "collection": "D&D",
+    "tags": [
+      "Warforged"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/warforged_dark_metal_1791914320212_5kxhzc-4126d9b3.webp",
+    "id": "token-1791914320504-3ec287",
+    "createdAt": 1791914320504,
+    "modifiedAt": 1791914320504
+  }
+}

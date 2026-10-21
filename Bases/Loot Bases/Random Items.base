@@ -1,0 +1,6 @@
+filters:
+  and:
+    - LootTables.contains("RandomItem")
+views:
+  - type: table
+    name: Sigilists chest

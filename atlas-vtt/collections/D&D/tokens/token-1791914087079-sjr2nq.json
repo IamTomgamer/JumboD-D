@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "electromancer 3",
+    "imagePath": "atlas-vtt/assets/electromancer_3_1791914086728_2ahfc5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Electromancer"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/electromancer_3_1791914086728_2ahfc5-4fadaf42.webp",
+    "id": "token-1791914087079-sjr2nq",
+    "createdAt": 1791914087079,
+    "modifiedAt": 1791914087079
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "imprisoned demon",
+    "imagePath": "atlas-vtt/assets/imprisoned_demon_1791914418342_4c6if4.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/imprisoned_demon_1791914418342_4c6if4-7c77d508.webp",
+    "id": "token-1791914418770-7v9lkx",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

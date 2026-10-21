@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "pale alchemist",
+    "imagePath": "atlas-vtt/assets/pale_alchemist_1791910765004_n3f9ws.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/pale_alchemist_1791910765004_n3f9ws-7bdfefb5.webp",
+    "id": "token-1791910767352-lhhgg0",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

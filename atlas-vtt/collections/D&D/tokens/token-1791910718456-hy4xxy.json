@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "tired bearded man",
+    "imagePath": "atlas-vtt/assets/tired_bearded_man_1791910717059_qhtguh.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/tired_bearded_man_1791910717059_qhtguh-3a4eba39.webp",
+    "id": "token-1791910718456-hy4xxy",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

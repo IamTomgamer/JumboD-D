@@ -1,0 +1,20 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dwarf miner",
+    "imagePath": "atlas-vtt/assets/dwarf_miner_1791911294909_lwqjjp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male",
+      "Miner",
+      "Paladin"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dwarf_miner_1791911294909_lwqjjp-eeacbe84.webp",
+    "id": "token-1791911295663-0s4wlw",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

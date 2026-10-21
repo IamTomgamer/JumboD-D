@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female nomadic",
+    "imagePath": "atlas-vtt/assets/human_female_nomadic_1791910766780_pn04y1.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_nomadic_1791910766780_pn04y1-e0603d4a.webp",
+    "id": "token-1791910767352-lqhnl8",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

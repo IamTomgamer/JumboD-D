@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "caster with gleaming eyes",
+    "imagePath": "atlas-vtt/assets/caster_with_gleaming_eyes_1791910764253_xtf6f6.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/caster_with_gleaming_eyes_1791910764253_xtf6f6-7bca1a90.webp",
+    "id": "token-1791910767352-xnnhrt",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "adult gold dragon",
+    "imagePath": "atlas-vtt/assets/adult_gold_dragon_1791914470875_k2cn09.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/adult_gold_dragon_1791914470875_k2cn09-11bcebc5.webp",
+    "id": "token-1791914472437-i8hpye",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1792099341687,
+    "statblockPath": "Bestiary/MM/Adult Gold Dragon.md"
+  }
+}

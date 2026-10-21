@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "frowning bearded man",
+    "imagePath": "atlas-vtt/assets/frowning_bearded_man_1791910717627_ude9zu.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/frowning_bearded_man_1791910717627_ude9zu-35a0b02d.webp",
+    "id": "token-1791910718456-4b90s5",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

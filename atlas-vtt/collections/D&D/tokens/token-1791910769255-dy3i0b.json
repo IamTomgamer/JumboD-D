@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Sedelmir",
+    "imagePath": "atlas-vtt/assets/Sedelmir_1791910768754_xpiev7.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Sedelmir_1791910768754_xpiev7-abb48b9f.webp",
+    "id": "token-1791910769255-dy3i0b",
+    "createdAt": 1791910769255,
+    "modifiedAt": 1791910769255
+  }
+}

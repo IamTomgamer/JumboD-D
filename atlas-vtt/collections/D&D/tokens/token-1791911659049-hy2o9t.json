@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "dragon cult priest",
+    "imagePath": "atlas-vtt/assets/dragon_cult_priest_1791911658432_em22hd.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/dragon_cult_priest_1791911658432_em22hd-44fb469d.webp",
+    "id": "token-1791911659049-hy2o9t",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1791911659049
+  }
+}

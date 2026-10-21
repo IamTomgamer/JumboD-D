@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Radane",
+    "imagePath": "atlas-vtt/assets/Radane_1791910917530_8ankr4.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Radane_1791910917530_8ankr4-067f35fa.webp",
+    "id": "token-1791910917675-1z0mc9",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

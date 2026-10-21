@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Trester",
+    "imagePath": "atlas-vtt/assets/Trester_1791910719308_65k4yf.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Trester_1791910719308_65k4yf-358f24e8.webp",
+    "id": "token-1791910719511-zbzg4k",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

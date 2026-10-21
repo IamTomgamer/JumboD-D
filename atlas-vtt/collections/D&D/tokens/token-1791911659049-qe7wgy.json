@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "cultist in swamp",
+    "imagePath": "atlas-vtt/assets/cultist_in_swamp_1791911658884_46m7ye.webp",
+    "collection": "D&D",
+    "tags": [
+      "Cultist"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/cultist_in_swamp_1791911658884_46m7ye-ed6f1755.webp",
+    "id": "token-1791911659049-qe7wgy",
+    "createdAt": 1791911659049,
+    "modifiedAt": 1791911659049
+  }
+}

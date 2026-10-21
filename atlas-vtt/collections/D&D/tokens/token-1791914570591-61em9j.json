@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "zombies rising",
+    "imagePath": "atlas-vtt/assets/zombies_rising_1791914570546_3y8e7l.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/zombies_rising_1791914570546_3y8e7l-1e612041.webp",
+    "id": "token-1791914570591-61em9j",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

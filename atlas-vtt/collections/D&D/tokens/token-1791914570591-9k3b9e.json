@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "undead goblin",
+    "imagePath": "atlas-vtt/assets/undead_goblin_1791914569083_oktyq0.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/undead_goblin_1791914569083_oktyq0-c06c7c7c.webp",
+    "id": "token-1791914570591-9k3b9e",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

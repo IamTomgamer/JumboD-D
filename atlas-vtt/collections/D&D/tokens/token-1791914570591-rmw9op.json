@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "zombie 4",
+    "imagePath": "atlas-vtt/assets/zombie_4_1791914569991_rs0pdp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/zombie_4_1791914569991_rs0pdp-2439284d.webp",
+    "id": "token-1791914570591-rmw9op",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

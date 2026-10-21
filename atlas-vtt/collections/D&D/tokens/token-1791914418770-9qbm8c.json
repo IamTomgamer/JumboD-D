@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "horned crow caller",
+    "imagePath": "atlas-vtt/assets/horned_crow_caller_1791914418217_i5vba9.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/horned_crow_caller_1791914418217_i5vba9-78911a7b.webp",
+    "id": "token-1791914418770-9qbm8c",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "angered man",
+    "imagePath": "atlas-vtt/assets/angered_man_1791910716960_tb8dep.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/angered_man_1791910716960_tb8dep-53fae299.webp",
+    "id": "token-1791910718456-ojjp07",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

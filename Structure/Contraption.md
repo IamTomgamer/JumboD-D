@@ -1,0 +1,2 @@
+A **Contraption** is a machine that works through [[Conjuring Ink]] and is made by [[Sigilist|Sigilists]].
+Most of the [[Sigilist|Sigilists]] that specialize in **Contraptions** are good friends with [[Artificers]]

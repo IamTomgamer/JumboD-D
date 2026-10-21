@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Droghiev",
+    "imagePath": "atlas-vtt/assets/Droghiev_1791910719417_c9l1c2.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Droghiev_1791910719417_c9l1c2-ede29d01.webp",
+    "id": "token-1791910719511-5haj02",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Cardat",
+    "imagePath": "atlas-vtt/assets/Cardat_1791910917125_elm3xo.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Children"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Cardat_1791910917125_elm3xo-6737d256.webp",
+    "id": "token-1791910917675-6kyx0m",
+    "createdAt": 1791910917675,
+    "modifiedAt": 1791910917675
+  }
+}

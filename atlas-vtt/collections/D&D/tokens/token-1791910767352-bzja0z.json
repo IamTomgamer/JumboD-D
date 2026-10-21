@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "female mage with pristine garments",
+    "imagePath": "atlas-vtt/assets/female_mage_with_pristine_garments_1791910766511_44g6bp.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/female_mage_with_pristine_garments_1791910766511_44g6bp-14bd343c.webp",
+    "id": "token-1791910767352-bzja0z",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "caligo skin witch",
+    "imagePath": "atlas-vtt/assets/caligo_skin_witch_1791914206979_jor3jo.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/caligo_skin_witch_1791914206979_jor3jo-8c72df17.webp",
+    "id": "token-1791914207704-r14l8m",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

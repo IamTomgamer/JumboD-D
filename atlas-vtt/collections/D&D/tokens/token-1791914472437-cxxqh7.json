@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "sky hunter",
+    "imagePath": "atlas-vtt/assets/sky_hunter_1791914472212_efczzd.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dragon"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/sky_hunter_1791914472212_efczzd-c1c1fe38.webp",
+    "id": "token-1791914472437-cxxqh7",
+    "createdAt": 1791914472437,
+    "modifiedAt": 1791914472437
+  }
+}

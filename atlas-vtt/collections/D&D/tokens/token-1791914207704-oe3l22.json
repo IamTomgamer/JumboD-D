@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "blood witch",
+    "imagePath": "atlas-vtt/assets/blood_witch_1791914206787_87ou4p.webp",
+    "collection": "D&D",
+    "tags": [
+      "Witch"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/blood_witch_1791914206787_87ou4p-493ca035.webp",
+    "id": "token-1791914207704-oe3l22",
+    "createdAt": 1791914207704,
+    "modifiedAt": 1791914207704
+  }
+}

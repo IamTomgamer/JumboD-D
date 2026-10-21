@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "intelligent inventor",
+    "imagePath": "atlas-vtt/assets/intelligent_inventor_1791910765561_034b9x.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/intelligent_inventor_1791910765561_034b9x-217259fd.webp",
+    "id": "token-1791910767352-791y22",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

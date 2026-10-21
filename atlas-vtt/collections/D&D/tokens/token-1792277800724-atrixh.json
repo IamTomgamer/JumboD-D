@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Scalewolf",
+    "imagePath": "atlas-vtt/assets/Scalewolf_1792277800651_uqxluk.webp",
+    "collection": "D&D",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Scalewolf_1792277800651_uqxluk-bde2abd7.webp",
+    "id": "token-1792277800724-atrixh",
+    "createdAt": 1792277800724,
+    "modifiedAt": 1792277800724
+  }
+}

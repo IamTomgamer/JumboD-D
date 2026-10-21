@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "black and white clothes",
+    "imagePath": "atlas-vtt/assets/black_and_white_clothes_1791910717725_n4podx.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/black_and_white_clothes_1791910717725_n4podx-6e194bb0.webp",
+    "id": "token-1791910718456-6dztqk",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

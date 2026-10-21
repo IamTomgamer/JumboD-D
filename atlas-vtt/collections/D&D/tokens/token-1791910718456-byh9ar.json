@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "smirking seafarer",
+    "imagePath": "atlas-vtt/assets/smirking_seafarer_1791910716699_p34otf.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/smirking_seafarer_1791910716699_p34otf-c5c33dc4.webp",
+    "id": "token-1791910718456-byh9ar",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}

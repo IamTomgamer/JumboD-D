@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "night messenger",
+    "imagePath": "atlas-vtt/assets/night_messenger_1791910765200_jmjje3.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/night_messenger_1791910765200_jmjje3-58bb37a5.webp",
+    "id": "token-1791910767352-zaukey",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

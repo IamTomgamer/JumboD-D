@@ -1,0 +1,212 @@
+/* ==========================================
+   1. THEME VARIABLES
+   ========================================== */
+:root {
+    /* Backgrounds */
+    --dnd-bg-primary: #262A36; /* Synced with DnD_UI_Toolkit */
+    --dnd-bg-secondary: #323748;
+    --dnd-bg-tertiary: #3A4055;
+    --dnd-bg-hover: #363B4A;
+    --dnd-bg-darker: #303440;
+    --dnd-bg-group: #2D334A;
+
+    /* Text */
+    --dnd-text-primary: #E0E0E0;
+    --dnd-text-secondary: #A0A0D0;
+    --dnd-text-sublabel: #A0C7D0;
+    --dnd-text-bright: #ffffff;
+    --dnd-text-muted: #B8B8D0;
+    --dnd-text-group: #B8C4FF;
+
+    /* Borders */
+    --dnd-border-primary: #383E54;
+    --dnd-border-active: #6D7CBA;
+    --dnd-border-focus: #000000;
+
+    /* Accents */
+    --dnd-accent-teal: #64D8CB;
+    --dnd-accent-red: #E57373;
+    --dnd-accent-purple: #B29DDB;
+}
+
+/* ==========================================
+   2. MAIN CONTAINERS
+   ========================================== */
+.dnd-features-window {
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--dnd-border-primary);
+    background-color: var(--dnd-bg-primary);
+    color: var(--dnd-text-primary);
+    border-radius: 6px;
+    padding: 16px;
+    margin: 10px 0;
+    font-family: var(--font-text); /* Inherits Obsidian's default font */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dnd-error-window {
+    border: 2px solid #e74c3c;
+    background-color: rgba(231, 76, 60, 0.1);
+    color: #e74c3c;
+    padding: 12px 16px;
+    border-radius: 8px;
+    margin: 10px 0;
+    font-weight: 500;
+}
+
+.dnd-error-window strong {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 1.1em;
+}
+
+/* ==========================================
+   3. FEATURE TYPOGRAPHY & BADGES
+   ========================================== */
+.dnd-feature-title {
+    display: flex;
+    align-items: center; /* Vertically centers the badge with the text */
+    margin-bottom: 4px;
+    color: var(--dnd-text-bright);
+    font-weight: bold;
+}
+
+.dnd-level-badge {
+    background-color: var(--dnd-bg-tertiary);
+    color: var(--dnd-accent-purple); 
+    padding: 2px 10px;
+    border-radius: 12px; /* Gives it the rounded pill shape */
+    font-size: 0.85em;
+    font-weight: normal;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+/* ==========================================
+   4. SETTINGS UI
+   ========================================== */
+.dnd-draggable-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 12px;
+}
+
+.dnd-draggable-item {
+    background-color: var(--dnd-bg-tertiary);
+    border: 1px solid var(--dnd-border-primary);
+    color: var(--dnd-text-primary);
+    padding: 10px 16px;
+    border-radius: 6px;
+    cursor: grab;
+    font-weight: 500;
+    transition: background-color 0.2s ease;
+}
+
+.dnd-draggable-item:active {
+    cursor: grabbing;
+}
+
+.dnd-draggable-item:hover {
+    background-color: var(--dnd-bg-hover);
+}
+
+/* ==========================================
+   5. UTILITIES & FEATURE FORMATTING
+   ========================================== */
+/* Add a visual separator (divider) between feature blocks */
+.dnd-features-window > div > div {
+    border-bottom: 1px solid var(--dnd-border-primary);
+    padding-bottom: 14px; /* Space between text and the line */
+}
+
+/* Remove the margin and border from the very last feature block */
+.dnd-features-window > div > div:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+/* ==========================================
+   6. TYPOGRAPHY & COMPONENT CLASSES
+   ========================================== */
+.dnd-section-header {
+    color: var(--dnd-text-primary);
+    margin-bottom: 8px;
+    margin-top: 24px;
+    font-weight: 600;
+}
+
+.dnd-class-header {
+    color: var(--dnd-accent-teal);
+    border-bottom: 1px solid var(--dnd-border-primary);
+    padding-bottom: 4px;
+    margin-bottom: 12px;
+    margin-top: 0;
+}
+
+.dnd-feature-block {
+    margin-bottom: 14px;
+}
+
+.dnd-badge-combined {
+    background-color: var(--dnd-bg-group);
+}
+
+.dnd-feature-name {
+    /* Swapped from bright to primary based on your previous request! */
+    color: var(--dnd-text-primary); 
+}
+
+.dnd-feature-desc {
+    /* Swapped from primary to bright! */
+    color: var(--dnd-text-bright); 
+    line-height: 1.5;
+    margin-top: 4px;
+}
+
+/* Strip Obsidian's default bulky margins from rendered markdown paragraphs */
+.dnd-feature-desc p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+/* Remove the top margin from the very first paragraph so it sits flush with the title */
+.dnd-feature-desc p:first-child {
+    margin-top: 0;
+}
+
+/* Remove the bottom margin from the very last paragraph to prevent extra padding at the bottom of the box */
+.dnd-feature-desc p:last-child {
+    margin-bottom: 0;
+}
+
+/* Ensure all rendered Markdown tables stretch to full card width */
+.dnd-feature-desc table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 8px 0;
+}
+
+/* Optional: Ensure balanced cell padding and alignment across themes */
+.dnd-feature-desc th,
+.dnd-feature-desc td {
+    text-align: left;
+    padding: 6px 10px;
+}
+
+.dnd-error-text {
+    color: var(--dnd-accent-red);
+}
+
+/* Settings UI Spacing */
+.dnd-settings-header {
+    margin-top: 2rem;
+}
+
+.dnd-settings-subgroup {
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    color: var(--text-accent);
+}

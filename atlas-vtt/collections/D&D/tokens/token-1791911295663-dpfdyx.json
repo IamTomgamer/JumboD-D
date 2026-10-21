@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "elder dwarf",
+    "imagePath": "atlas-vtt/assets/elder_dwarf_1791911295530_oetean.webp",
+    "collection": "D&D",
+    "tags": [
+      "Dwarf",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/elder_dwarf_1791911295530_oetean-f41ca1e6.webp",
+    "id": "token-1791911295663-dpfdyx",
+    "createdAt": 1791911295663,
+    "modifiedAt": 1791911295663
+  }
+}

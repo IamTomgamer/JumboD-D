@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "rider of flying contraption",
+    "imagePath": "atlas-vtt/assets/rider_of_flying_contraption_1791910766217_euh35f.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/rider_of_flying_contraption_1791910766217_euh35f-ed3c8acf.webp",
+    "id": "token-1791910767352-w36r2x",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

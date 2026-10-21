@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "Dohrann",
+    "imagePath": "atlas-vtt/assets/Dohrann_1791910719443_grj6q1.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Dohrann_1791910719443_grj6q1-c11dbabd.webp",
+    "id": "token-1791910719511-41h30v",
+    "createdAt": 1791910719511,
+    "modifiedAt": 1791910719511
+  }
+}

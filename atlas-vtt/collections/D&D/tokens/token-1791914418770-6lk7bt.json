@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "multi handed demon",
+    "imagePath": "atlas-vtt/assets/multi_handed_demon_1791914418466_5xpfy5.webp",
+    "collection": "D&D",
+    "tags": [
+      "Demon/Devil"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/multi_handed_demon_1791914418466_5xpfy5-e6454f20.webp",
+    "id": "token-1791914418770-6lk7bt",
+    "createdAt": 1791914418770,
+    "modifiedAt": 1791914418770
+  }
+}

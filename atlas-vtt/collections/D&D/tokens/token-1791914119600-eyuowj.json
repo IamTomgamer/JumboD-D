@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "sparkmage",
+    "imagePath": "atlas-vtt/assets/sparkmage_1791914119207_i2mo79.webp",
+    "collection": "D&D",
+    "tags": [
+      "Fire Caster"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/sparkmage_1791914119207_i2mo79-540fce24.webp",
+    "id": "token-1791914119600-eyuowj",
+    "createdAt": 1791914119600,
+    "modifiedAt": 1791914119600
+  }
+}

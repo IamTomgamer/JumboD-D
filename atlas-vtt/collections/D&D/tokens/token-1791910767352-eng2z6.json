@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "human female ranger",
+    "imagePath": "atlas-vtt/assets/human_female_ranger_1791910766679_s9o2im.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Female"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/human_female_ranger_1791910766679_s9o2im-e852097c.webp",
+    "id": "token-1791910767352-eng2z6",
+    "createdAt": 1791910767352,
+    "modifiedAt": 1791910767352
+  }
+}

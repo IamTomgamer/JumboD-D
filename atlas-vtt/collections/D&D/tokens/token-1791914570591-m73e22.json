@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "undead sentient",
+    "imagePath": "atlas-vtt/assets/undead_sentient_1791914569613_kkuf9g.webp",
+    "collection": "D&D",
+    "tags": [
+      "Undead"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/undead_sentient_1791914569613_kkuf9g-1b5ab45d.webp",
+    "id": "token-1791914570591-m73e22",
+    "createdAt": 1791914570591,
+    "modifiedAt": 1791914570591
+  }
+}

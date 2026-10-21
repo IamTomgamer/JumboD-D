@@ -1,0 +1,18 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": false,
+    "name": "inspiring orator",
+    "imagePath": "atlas-vtt/assets/inspiring_orator_1791910717419_pibci7.webp",
+    "collection": "D&D",
+    "tags": [
+      "Human",
+      "Male"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/inspiring_orator_1791910717419_pibci7-7076b254.webp",
+    "id": "token-1791910718456-vm9jxs",
+    "createdAt": 1791910718456,
+    "modifiedAt": 1791910718456
+  }
+}
