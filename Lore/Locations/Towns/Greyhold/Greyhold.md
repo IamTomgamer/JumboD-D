@@ -16,6 +16,8 @@ image:
 | [[Sigilist's Shop]]   |                                               |
 | [[Sorcerer's Shop]]   |                                               |
 | [[Airship Builders]]  |                                               |
+| [[Artificer's Shop]]  |                                               |
+|                       |                                               |
 
 # Available Homes
 

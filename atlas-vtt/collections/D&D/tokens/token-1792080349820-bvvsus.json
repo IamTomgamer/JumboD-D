@@ -13,6 +13,7 @@
     "thumbnailPath": "atlas-vtt/assets/thumbnails/WAR_01_1792080349687_5j4rj8-90a9eabb.webp",
     "id": "token-1792080349820-bvvsus",
     "createdAt": 1792080349820,
-    "modifiedAt": 1792080358486
+    "modifiedAt": 1792652050700,
+    "playerCharacter": true
   }
 }

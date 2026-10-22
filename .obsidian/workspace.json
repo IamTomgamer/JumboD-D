@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "6fbc9e824b6c00be",
+            "id": "d0c918bc8982c6d5",
             "type": "leaf",
             "state": {
               "type": "atlas-vtt",
@@ -27,48 +27,74 @@
                 "mapFilePath": "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
                 "tabs": [
                   {
-                    "id": "tab-1792607243116-atpqgl",
+                    "id": "tab-1792652117484-asvtel",
                     "filePath": "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
                     "displayName": "WorldMap",
+                    "isLoaded": true,
+                    "isDirty": false
+                  },
+                  {
+                    "id": "tab-1792655491317-fsvq1j",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/Starting Dungeon.atlasmap",
+                    "displayName": "Starting Dungeon",
                     "isLoaded": false,
-                    "isDirty": false
-                  },
-                  {
-                    "id": "tab-1792607243182-fbf04e",
-                    "filePath": "atlas-vtt/collections/D&D/scenes/greyhold.atlasmap",
-                    "displayName": "greyhold",
-                    "isLoaded": true,
-                    "isDirty": false
-                  },
-                  {
-                    "id": "tab-1792607261517-0g3npz",
-                    "filePath": "atlas-vtt/collections/D&D/scenes/Ascot.atlasmap",
-                    "displayName": "Ascot",
-                    "isLoaded": true,
                     "isDirty": false
                   }
                 ],
-                "activeTabId": "tab-1792607243116-atpqgl",
+                "activeTabId": "tab-1792652117484-asvtel",
                 "viewportPerTab": {
-                  "tab-1792607243182-fbf04e": {
-                    "centerX": 1495,
-                    "centerY": 1321.5,
-                    "scale": 0.3095346197502838
+                  "tab-1792652117484-asvtel": {
+                    "centerX": 6048,
+                    "centerY": 3308,
+                    "scale": 0.0871279761904762
                   },
-                  "tab-1792607243116-atpqgl": {
-                    "centerX": 5639.582642006428,
-                    "centerY": 3239.45110289674,
-                    "scale": 0.2590279178500264
-                  },
-                  "tab-1792607261517-0g3npz": {
-                    "centerX": 2762.5,
-                    "centerY": 1518,
-                    "scale": 0.19075113122171947
+                  "tab-1792655491317-fsvq1j": {
+                    "centerX": 575.1773911942948,
+                    "centerY": 391.72095404126355,
+                    "scale": 1.377458522464415
                   }
                 }
               },
               "icon": "map",
               "title": "Atlas: WorldMap.atlasmap"
+            }
+          },
+          {
+            "id": "c90854de14bccffb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c525aa1cd8851b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Locations/Towns/Ascot/Ascot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ascot"
+            }
+          },
+          {
+            "id": "2c10331eca2fa38a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesh 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sesh 2"
             }
           },
           {
@@ -78,7 +104,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lore/Locations/Towns/Greyhold/Greyhold.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -105,68 +131,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sesh 2.md",
+                "file": "Lore/Myths & Legends/Mythology/Gods/Mehelia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesh 2"
+              "title": "Mehelia"
             }
           },
           {
-            "id": "2f5be886e133f284",
+            "id": "e21f2808514ed655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Characters/Player Characters/Desmodus (WAR-01).md",
+                "file": "Lore/Taverns/Tavern Ruby Tiara.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desmodus (WAR-01)"
-            }
-          },
-          {
-            "id": "9d5c4a869d177b26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Characters/Player Characters/Bob Bobber.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bob Bobber"
-            }
-          },
-          {
-            "id": "57c3b0209420564e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lore/Characters/Player Characters/Daimon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daimon"
-            }
-          },
-          {
-            "id": "3d2aa56b5f75287c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tavern Ruby Tiara"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -200,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Locations/Tavern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -305,7 +293,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Lore/Locations/Towns/Greyhold/Greyhold.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -375,7 +363,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -450,53 +438,53 @@
       }
     ]
   },
-  "active": "0f8cef62e08a1c76",
+  "active": "b8d04f52bc16315d",
   "lastOpenFiles": [
-    "Lore/Characters/Player Characters/Daimon.md",
-    "Sesh 2.md",
-    "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
-    "Lore/Locations/Towns/Greyhold/Greyhold.md",
     "Lore/Locations/Towns/Ascot/Ascot.md",
-    "atlas-vtt/collections/D&D/scenes/Ascot.atlasmap",
+    "Lore/Locations/Towns/Greyhold/Greyhold.md",
+    "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
+    "Lore/Myths & Legends/Mythology/Gods/Mehelia.md",
+    "Lore/Myths & Legends/Mythology/Gods/Kudrasil.md",
+    "atlas-vtt/collections/D&D/scenes/Starting Dungeon.atlasmap",
+    "Sesh 2.md",
+    "Timeline/Timeline Notes/Forged War/The Forged War.md",
+    "atlas-vtt/collections/D&D/loot-history/48890d91-3ca1-4b80-a19d-d794adf28607.json",
     "atlas-vtt/collections/D&D/scenes/greyhold.atlasmap",
-    "atlas-vtt/collections/D&D/scenes/Ascot Town Square.atlasmap",
-    "atlas-vtt/collections/D&D/scenes/greyhold.thumb.jpg",
-    "atlas-vtt/collections/D&D/scenes/scene-1792606698839-q9azxg.json",
-    "atlas-vtt/collections/D&D/maps/map-1792606691289-5xcvs3.json",
-    "atlas-vtt/assets/thumbnails/greyhold_1792606691094_6jbm4q-de036907.webp",
-    "atlas-vtt/assets/greyhold_1792606691094_6jbm4q.png",
-    "atlas-vtt/collections/D&D/scenes/Greyhold.atlasmap",
-    "atlas-vtt/campaigns/JumboD&D/campaign.json",
-    "atlas-vtt/campaigns/JumboD&D",
-    "atlas-vtt/campaigns",
-    "Sessions/Sesh 1.md",
-    "Sessions/Sesh 0.md",
+    "atlas-vtt/collections/D&D/scenes/WorldMap.thumb.jpg",
+    "atlas-vtt/collections/D&D/scenes/scene-1792651930769-s6ihjg.json",
+    "atlas-vtt/collections/D&D/maps/map-1792651910245-745p3o.json",
+    "atlas-vtt/assets/thumbnails/WorldMap_1792651909251_0yy2no-c3ff3bbd.webp",
+    "atlas-vtt/assets/WorldMap_1792651909251_0yy2no.png",
+    "Maps/Unconfirmed 641078.crdownload",
+    "Maps/Azgaar's Map Gen/World Map.map.crswap",
+    "Bases/Sessions.base",
+    "Lore/Events/Illegal Tournament.md",
+    "Lore/Events",
+    "Lore/Taverns/Tavern Ruby Tiara.md",
+    "Lore/Locations/Towns/Greyhold/Tavern \"Sacred Potion\".md",
+    "Lore/Locations/Towns/Ascot/Tavern \"The Wandering Basilisk\".md",
+    "Lore/Characters/NPCs/Warforged/F-02.md",
+    "Lore/Characters/NPCs/Dwarves/Lornebyrn.md",
+    "Lore/Characters/Player Characters/Daimon.md",
     "Lore/Characters/Player Characters/Bob Bobber.md",
     "Lore/Characters/Player Characters/Desmodus (WAR-01).md",
+    "Lore/Groups/The Brimhats.md",
+    "Brimmed Caps.md",
+    "atlas-vtt/collections/D&D/scenes/greyhold.thumb.jpg",
+    "atlas-vtt/assets/thumbnails/greyhold_1792606691094_6jbm4q-de036907.webp",
+    "atlas-vtt/assets/greyhold_1792606691094_6jbm4q.png",
+    "Sessions/Sesh 1.md",
+    "Sessions/Sesh 0.md",
     "Structure/Andere Lore.md",
     "Welcome.md",
     "Bestiary/Homebrew/Flying Warforged.md",
-    "Lore/Locations/Towns/Ascot/Tavern \"The Wandering Basilisk\".md",
     "atlas-vtt/assets/Occultist_1792601021126_7ornay.webp",
     "atlas-vtt/assets/Assassin_1792601021111_xvy11k.webp",
     "atlas-vtt/assets/Knight_1792601021104_hrik9k.webp",
     "atlas-vtt/assets/Wizard_1792601021097_d1sspr.webp",
-    "atlas-vtt/assets/Warlock_1792601021089_lgf4so.webp",
-    "atlas-vtt/assets/Rogue_1792601021081_mlpm9c.webp",
-    "atlas-vtt/assets/Ranger_1792601021064_3issaq.webp",
     "Music/Locations/Cities.md",
     "Music/Locations/Taverns.md",
     "Music/Locations/Towns.md",
-    "Music/Events/Boss Fights.md",
-    "Custom Homebrew/Spells/Serpents Bed of Sand.md",
-    "Custom Homebrew/Weapons/Crystal Shotgun.md",
-    "Timeline/Timeline.md",
-    "Timeline/Timeline Notes/Forged War/Invention of Warforged (the X-series).md",
-    "Timeline/Timeline Notes/Forged War/Invention of Warforged (the F-series).md",
-    "Timeline/Timeline Notes/Forged War/Invention of Warforged (the T-series).md",
-    "Timeline/Timeline Notes/Forged War/Invention of Warforged (the WAR-series).md",
-    "Bestiary/AATM/Animated Coffin.md",
-    "Bestiary/Homebrew/Flying Warforged (1).md",
     "Timeline/Test/Canvases/Basic concept.canvas",
     "Timeline/Test/Canvases/Basic usage.canvas",
     "Timeline/Test/Canvases/Conditional Formats.canvas",

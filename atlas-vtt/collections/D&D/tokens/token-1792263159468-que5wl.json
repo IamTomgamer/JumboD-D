@@ -12,6 +12,7 @@
     "thumbnailPath": "atlas-vtt/assets/thumbnails/Daimon_1792263159394_s789bj-8be148c2.webp",
     "id": "token-1792263159468-que5wl",
     "createdAt": 1792263159468,
-    "modifiedAt": 1792267675797
+    "modifiedAt": 1792653274386,
+    "playerCharacter": true
   }
 }

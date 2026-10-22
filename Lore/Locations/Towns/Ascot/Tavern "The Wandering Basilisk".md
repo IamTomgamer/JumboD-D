@@ -6,7 +6,7 @@ Location: "[[Ascot]]"
 
 # The Wandering Basilisk
 **Service Level:** Average Tavern (4 rooms; 4 waitstaff, 2 bouncers)
-**Location:** Trade Crossroads
+**Location:** [[Ascot]]
 
 ## In the common room
 *The aroma of fresh pastry and cinnamon fills the air. The place feels very cozy and safe.*

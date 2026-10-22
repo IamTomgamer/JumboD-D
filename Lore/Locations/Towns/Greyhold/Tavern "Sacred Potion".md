@@ -1,3 +1,9 @@
+---
+tags:
+  - Locations/Tavern
+Location:
+---
+
 # Sacred Potion
 **Service Level:** Luxury Tavern (15 rooms; 10 waitstaff, 8 bouncers)
 **Location:** Desert Oasis
@@ -47,5 +53,3 @@
 ## Rumors
 - The thieves' guild has a new leader; turf wars are expected.
 - Farmers complain that someone is draining the blood from their livestock at night.
-
-#tavern, #dnd

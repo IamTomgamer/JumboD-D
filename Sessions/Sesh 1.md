@@ -6,7 +6,7 @@ People:
   - Gage
   - Maya
   - Thijs
-Played?: false
+Played?: true
 Month: 10
 Year: 2026
 ---

@@ -1,0 +1,25 @@
+{
+  "id": "map-1792651910245-745p3o",
+  "name": "WorldMap",
+  "mapFilePath": "atlas-vtt/assets/WorldMap_1792651909251_0yy2no.png",
+  "tags": [
+    "World"
+  ],
+  "collection": "D&D",
+  "createdAt": 1792651910245,
+  "modifiedAt": 1792651910245,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "WorldMap",
+    "mapFilePath": "atlas-vtt/assets/WorldMap_1792651909251_0yy2no.png",
+    "collection": "D&D",
+    "tags": [
+      "World"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/WorldMap_1792651909251_0yy2no-c3ff3bbd.webp",
+    "id": "map-1792651910245-745p3o",
+    "createdAt": 1792651910245,
+    "modifiedAt": 1792651910245
+  }
+}

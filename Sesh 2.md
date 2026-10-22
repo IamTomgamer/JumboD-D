@@ -14,8 +14,6 @@ After defeating some cultists in the starting dungeon, they meet a Scalewolf tha
 They can't find out anything about her, since she can't talk.
 at least she can make a nice pet i guess lol.
 
-uhhhh
-
 a single cultist enters.
 He looks wide-eyes at the party, and then at the dead cultists.
 He RUNS
@@ -39,3 +37,10 @@ they look through the dungeon, and eventually maybe even through another level o
 
 # Option 4
 I DONT KNOW, IMPROVISE
+
+
+
+If they choose to go to Greyhold, they're stopped by border patrol.
+they're asked a couple of questions ("what is your goal in Greyhold?", "")
+
+If they make it to [[Greyhold]], make sure they hear about the [[Illegal Tournament]], and how an dwarven general from [[The Forged War]] is hosting it.

@@ -306,9 +306,18 @@
       "Bases/Loot Bases/Weapons.base",
       "Bases/Loot Bases/Random Items.base"
     ],
-    "lootCurrency": "GP"
+    "lootCurrency": "GP",
+    "randomTables": [
+      {
+        "path": "Random Tables/Loot/Contraptions.md",
+        "table": "Main Table",
+        "index": 0,
+        "kind": "text",
+        "label": "Contraptions"
+      }
+    ]
   },
   "createdAt": 1791447563265,
-  "modifiedAt": 1792264090653,
+  "modifiedAt": 1792652388222,
   "publisherId": "8a60750b-40c6-4965-82b6-017f35478b64"
 }

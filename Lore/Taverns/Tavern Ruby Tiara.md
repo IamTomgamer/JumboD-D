@@ -1,11 +1,12 @@
 ---
 tags:
   - Locations/Tavern
+Location: "[[Greyhold]]"
 ---
 
 # Ruby Tiara
 **Service Level:** Cheap Tavern (8 rooms; 6 waitstaff, 2 bouncers)
-**Location:** Dwarven Mine
+**Location:** [[greyhold]]
 
 ## In the common room
 *Cages with songbirds hang from the ceiling. Their chirping fills the entire room.*
