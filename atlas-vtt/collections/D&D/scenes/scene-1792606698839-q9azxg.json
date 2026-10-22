@@ -1,0 +1,15 @@
+{
+  "mapPath": "atlas-vtt/collections/D&D/scenes/greyhold.atlasmap",
+  "atlasRecord": {
+    "format": 1,
+    "type": "scene",
+    "name": "greyhold",
+    "collection": "D&D",
+    "tags": [
+      "Cities"
+    ],
+    "id": "scene-1792606698839-q9azxg",
+    "createdAt": 1792606698839,
+    "modifiedAt": 1792606698839
+  }
+}

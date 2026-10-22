@@ -3,6 +3,7 @@ tags:
   - Locations/Towns
 Image:
 ---
+[[Ascot.atlasmap]]
 # Shops
 
 | Type                  | Name                                                        |

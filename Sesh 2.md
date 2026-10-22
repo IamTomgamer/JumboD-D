@@ -16,3 +16,26 @@ at least she can make a nice pet i guess lol.
 
 uhhhh
 
+a single cultist enters.
+He looks wide-eyes at the party, and then at the dead cultists.
+He RUNS
+Then there are a couple of options.
+
+# Option 1
+They run after him and get to him in time, interrogating or killing him (or both)
+
+Interrogating him will lead to the information that:
+- This cult despises the god of silverwood trees, [[Kudrasil]]
+- This cult is always experimenting with forbidden magic like transformation, teleportation, healing, etc.
+- This cult worships a woman named [[Mehelia]] for being the first one to use magic forbidden by [[Kudrasil]]
+
+# Option 2
+They let him go, let him tell the boss what he saw.
+Eventually (maybe in [[Sesh 3]]) they're found by some higher-ranking cultists
+
+# Option 3
+They run after him but lose him, so now they have to go looking for him.
+they look through the dungeon, and eventually maybe even through another level of the dungeon.
+
+# Option 4
+I DONT KNOW, IMPROVISE

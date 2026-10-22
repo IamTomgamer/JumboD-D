@@ -1,0 +1,21 @@
+{
+  "id": "map-1792606691289-5xcvs3",
+  "name": "greyhold",
+  "mapFilePath": "atlas-vtt/assets/greyhold_1792606691094_6jbm4q.png",
+  "tags": [],
+  "collection": "D&D",
+  "createdAt": 1792606691289,
+  "modifiedAt": 1792606691289,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "greyhold",
+    "mapFilePath": "atlas-vtt/assets/greyhold_1792606691094_6jbm4q.png",
+    "collection": "D&D",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/greyhold_1792606691094_6jbm4q-de036907.webp",
+    "id": "map-1792606691289-5xcvs3",
+    "createdAt": 1792606691289,
+    "modifiedAt": 1792606691289
+  }
+}

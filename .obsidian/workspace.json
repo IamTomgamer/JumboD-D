@@ -18,6 +18,88 @@
             }
           },
           {
+            "id": "6fbc9e824b6c00be",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt",
+              "state": {
+                "file": "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
+                "mapFilePath": "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
+                "tabs": [
+                  {
+                    "id": "tab-1792607243116-atpqgl",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
+                    "displayName": "WorldMap",
+                    "isLoaded": false,
+                    "isDirty": false
+                  },
+                  {
+                    "id": "tab-1792607243182-fbf04e",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/greyhold.atlasmap",
+                    "displayName": "greyhold",
+                    "isLoaded": true,
+                    "isDirty": false
+                  },
+                  {
+                    "id": "tab-1792607261517-0g3npz",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/Ascot.atlasmap",
+                    "displayName": "Ascot",
+                    "isLoaded": true,
+                    "isDirty": false
+                  }
+                ],
+                "activeTabId": "tab-1792607243116-atpqgl",
+                "viewportPerTab": {
+                  "tab-1792607243182-fbf04e": {
+                    "centerX": 1495,
+                    "centerY": 1321.5,
+                    "scale": 0.3095346197502838
+                  },
+                  "tab-1792607243116-atpqgl": {
+                    "centerX": 5639.582642006428,
+                    "centerY": 3239.45110289674,
+                    "scale": 0.2590279178500264
+                  },
+                  "tab-1792607261517-0g3npz": {
+                    "centerX": 2762.5,
+                    "centerY": 1518,
+                    "scale": 0.19075113122171947
+                  }
+                }
+              },
+              "icon": "map",
+              "title": "Atlas: WorldMap.atlasmap"
+            }
+          },
+          {
+            "id": "b8d04f52bc16315d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Locations/Towns/Greyhold/Greyhold.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Greyhold"
+            }
+          },
+          {
+            "id": "21f8bf0505da0650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Locations/Towns/Ascot/Ascot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ascot"
+            }
+          },
+          {
             "id": "0f8cef62e08a1c76",
             "type": "leaf",
             "state": {
@@ -72,9 +154,19 @@
               "icon": "lucide-file",
               "title": "Daimon"
             }
+          },
+          {
+            "id": "3d2aa56b5f75287c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -312,40 +404,86 @@
       "webpage-html-export:Export as HTML": false
     }
   },
+  "floating": {
+    "id": "0da93a97e90cb6e9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3fbc18ed47a600eb",
+        "type": "window",
+        "children": [
+          {
+            "id": "5cd2f4af82afa5b7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "59a6ac794116b1fe",
+                "type": "leaf",
+                "state": {
+                  "type": "atlas-vtt-local-player",
+                  "state": {
+                    "tabId": "tab-1792607261517-0g3npz",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/Ascot.atlasmap",
+                    "frozen": false,
+                    "camera": {
+                      "centerX": 2762.5,
+                      "centerY": 1518,
+                      "scale": 0.19075113122171947,
+                      "width": 6138.888888888889,
+                      "height": 4765.371477369769
+                    }
+                  },
+                  "icon": "presentation",
+                  "title": "Player view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 244,
+        "y": 27,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "0f8cef62e08a1c76",
   "lastOpenFiles": [
-    "Bases/Sessions.base",
-    "Sessions/Sesh 1.md",
+    "Lore/Characters/Player Characters/Daimon.md",
     "Sesh 2.md",
+    "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
+    "Lore/Locations/Towns/Greyhold/Greyhold.md",
+    "Lore/Locations/Towns/Ascot/Ascot.md",
+    "atlas-vtt/collections/D&D/scenes/Ascot.atlasmap",
+    "atlas-vtt/collections/D&D/scenes/greyhold.atlasmap",
+    "atlas-vtt/collections/D&D/scenes/Ascot Town Square.atlasmap",
+    "atlas-vtt/collections/D&D/scenes/greyhold.thumb.jpg",
+    "atlas-vtt/collections/D&D/scenes/scene-1792606698839-q9azxg.json",
+    "atlas-vtt/collections/D&D/maps/map-1792606691289-5xcvs3.json",
+    "atlas-vtt/assets/thumbnails/greyhold_1792606691094_6jbm4q-de036907.webp",
+    "atlas-vtt/assets/greyhold_1792606691094_6jbm4q.png",
+    "atlas-vtt/collections/D&D/scenes/Greyhold.atlasmap",
+    "atlas-vtt/campaigns/JumboD&D/campaign.json",
+    "atlas-vtt/campaigns/JumboD&D",
+    "atlas-vtt/campaigns",
+    "Sessions/Sesh 1.md",
     "Sessions/Sesh 0.md",
     "Lore/Characters/Player Characters/Bob Bobber.md",
     "Lore/Characters/Player Characters/Desmodus (WAR-01).md",
-    "Lore/Characters/Player Characters/Daimon.md",
     "Structure/Andere Lore.md",
     "Welcome.md",
-    "Lore/Locations/Towns/Greyhold/Greyhold.md",
-    "Bases/Homebrew.base",
     "Bestiary/Homebrew/Flying Warforged.md",
-    "Lore/Locations/Towns/Ascot/Ascot.md",
     "Lore/Locations/Towns/Ascot/Tavern \"The Wandering Basilisk\".md",
-    "atlas-vtt/collections/Default/tokens/token-starter-occultist.json",
     "atlas-vtt/assets/Occultist_1792601021126_7ornay.webp",
-    "atlas-vtt/collections/Default/tokens/token-starter-assassin.json",
     "atlas-vtt/assets/Assassin_1792601021111_xvy11k.webp",
-    "atlas-vtt/collections/Default/tokens/token-starter-knight.json",
     "atlas-vtt/assets/Knight_1792601021104_hrik9k.webp",
-    "atlas-vtt/collections/Default/tokens/token-starter-wizard.json",
     "atlas-vtt/assets/Wizard_1792601021097_d1sspr.webp",
-    "atlas-vtt/collections/Default/tokens/token-starter-warlock.json",
     "atlas-vtt/assets/Warlock_1792601021089_lgf4so.webp",
-    "atlas-vtt/collections/Default/tokens/token-starter-rogue.json",
     "atlas-vtt/assets/Rogue_1792601021081_mlpm9c.webp",
-    "atlas-vtt/collections/Default/tokens/token-starter-ranger.json",
     "atlas-vtt/assets/Ranger_1792601021064_3issaq.webp",
-    "atlas-vtt/collections/Default/tokens/token-starter-paladin.json",
-    "atlas-vtt/assets/Paladin_1792601021057_qvhwgm.webp",
-    "atlas-vtt/assets/Fighter_1792601021050_6plm17.webp",
-    "atlas-vtt/assets/Cleric_1792601021042_0m50yu.webp",
     "Music/Locations/Cities.md",
     "Music/Locations/Taverns.md",
     "Music/Locations/Towns.md",

@@ -3,7 +3,7 @@ tags:
   - Locations/Towns
 image:
 ---
-
+[[greyhold.atlasmap]]
 # Shops
 
 | Type                  | Name                                          |
