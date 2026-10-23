@@ -21,42 +21,14 @@
             "id": "d0c918bc8982c6d5",
             "type": "leaf",
             "state": {
-              "type": "atlas-vtt",
+              "type": "markdown",
               "state": {
-                "file": "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
-                "mapFilePath": "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
-                "tabs": [
-                  {
-                    "id": "tab-1792652117484-asvtel",
-                    "filePath": "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
-                    "displayName": "WorldMap",
-                    "isLoaded": true,
-                    "isDirty": false
-                  },
-                  {
-                    "id": "tab-1792655491317-fsvq1j",
-                    "filePath": "atlas-vtt/collections/D&D/scenes/Starting Dungeon.atlasmap",
-                    "displayName": "Starting Dungeon",
-                    "isLoaded": false,
-                    "isDirty": false
-                  }
-                ],
-                "activeTabId": "tab-1792652117484-asvtel",
-                "viewportPerTab": {
-                  "tab-1792652117484-asvtel": {
-                    "centerX": 6048,
-                    "centerY": 3308,
-                    "scale": 0.0871279761904762
-                  },
-                  "tab-1792655491317-fsvq1j": {
-                    "centerX": 575.1773911942948,
-                    "centerY": 391.72095404126355,
-                    "scale": 1.377458522464415
-                  }
-                }
+                "file": "Random Tables/Loot/Weapons.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "map",
-              "title": "Atlas: WorldMap.atlasmap"
+              "icon": "lucide-file",
+              "title": "Weapons"
             }
           },
           {
@@ -154,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Locations/Tavern",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Random Tables/Loot/Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Locations/Towns/Greyhold/Greyhold.md",
+                "file": "Random Tables/Loot/Weapons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -367,8 +340,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 494.984375,
-    "collapsed": true
+    "width": 494.984375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -438,15 +410,25 @@
       }
     ]
   },
-  "active": "b8d04f52bc16315d",
+  "active": "e7baf5beaa0a6543",
   "lastOpenFiles": [
-    "Lore/Locations/Towns/Ascot/Ascot.md",
-    "Lore/Locations/Towns/Greyhold/Greyhold.md",
-    "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
-    "Lore/Myths & Legends/Mythology/Gods/Mehelia.md",
-    "Lore/Myths & Legends/Mythology/Gods/Kudrasil.md",
-    "atlas-vtt/collections/D&D/scenes/Starting Dungeon.atlasmap",
+    "Maps/Azgaar's Map Gen/World Map.map.crswap",
+    "Random Tables/Loot/Random Item.md",
+    "Random Tables/Loot/Potions.md",
+    "Random Tables/Loot/Magic Item.md",
+    "Random Tables/Loot/Contraptions.md",
+    "Lore/Characters/Player Characters/Daimon.md",
     "Sesh 2.md",
+    "Lore/Myths & Legends/Mythology/Gods/Kudrasil.md",
+    "Timeline/Timeline.md",
+    "Lore/Characters/Player Characters/Desmodus (WAR-01).md",
+    "Lore/Characters/Player Characters/Bob Bobber.md",
+    "Images/Characters/Fungus.png",
+    "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
+    "Lore/Locations/Towns/Greyhold/Greyhold.md",
+    "Lore/Locations/Towns/Ascot/Ascot.md",
+    "Lore/Myths & Legends/Mythology/Gods/Mehelia.md",
+    "atlas-vtt/collections/D&D/scenes/Starting Dungeon.atlasmap",
     "Timeline/Timeline Notes/Forged War/The Forged War.md",
     "atlas-vtt/collections/D&D/loot-history/48890d91-3ca1-4b80-a19d-d794adf28607.json",
     "atlas-vtt/collections/D&D/scenes/greyhold.atlasmap",
@@ -456,7 +438,6 @@
     "atlas-vtt/assets/thumbnails/WorldMap_1792651909251_0yy2no-c3ff3bbd.webp",
     "atlas-vtt/assets/WorldMap_1792651909251_0yy2no.png",
     "Maps/Unconfirmed 641078.crdownload",
-    "Maps/Azgaar's Map Gen/World Map.map.crswap",
     "Bases/Sessions.base",
     "Lore/Events/Illegal Tournament.md",
     "Lore/Events",
@@ -465,9 +446,6 @@
     "Lore/Locations/Towns/Ascot/Tavern \"The Wandering Basilisk\".md",
     "Lore/Characters/NPCs/Warforged/F-02.md",
     "Lore/Characters/NPCs/Dwarves/Lornebyrn.md",
-    "Lore/Characters/Player Characters/Daimon.md",
-    "Lore/Characters/Player Characters/Bob Bobber.md",
-    "Lore/Characters/Player Characters/Desmodus (WAR-01).md",
     "Lore/Groups/The Brimhats.md",
     "Brimmed Caps.md",
     "atlas-vtt/collections/D&D/scenes/greyhold.thumb.jpg",
@@ -476,15 +454,9 @@
     "Sessions/Sesh 1.md",
     "Sessions/Sesh 0.md",
     "Structure/Andere Lore.md",
-    "Welcome.md",
-    "Bestiary/Homebrew/Flying Warforged.md",
     "atlas-vtt/assets/Occultist_1792601021126_7ornay.webp",
     "atlas-vtt/assets/Assassin_1792601021111_xvy11k.webp",
     "atlas-vtt/assets/Knight_1792601021104_hrik9k.webp",
-    "atlas-vtt/assets/Wizard_1792601021097_d1sspr.webp",
-    "Music/Locations/Cities.md",
-    "Music/Locations/Taverns.md",
-    "Music/Locations/Towns.md",
     "Timeline/Test/Canvases/Basic concept.canvas",
     "Timeline/Test/Canvases/Basic usage.canvas",
     "Timeline/Test/Canvases/Conditional Formats.canvas",
