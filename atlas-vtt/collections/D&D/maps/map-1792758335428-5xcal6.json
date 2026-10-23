@@ -1,0 +1,25 @@
+{
+  "id": "map-1792758335428-5xcal6",
+  "name": "Tournament  -1",
+  "mapFilePath": "atlas-vtt/assets/Tournament___1_1792758335280_iw7xfj.png",
+  "tags": [
+    "Tournament"
+  ],
+  "collection": "D&D",
+  "createdAt": 1792758335428,
+  "modifiedAt": 1792758335428,
+  "atlasRecord": {
+    "format": 1,
+    "type": "map",
+    "name": "Tournament  -1",
+    "mapFilePath": "atlas-vtt/assets/Tournament___1_1792758335280_iw7xfj.png",
+    "collection": "D&D",
+    "tags": [
+      "Tournament"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Tournament___1_1792758335280_iw7xfj-bb73e0ef.webp",
+    "id": "map-1792758335428-5xcal6",
+    "createdAt": 1792758335428,
+    "modifiedAt": 1792758335428
+  }
+}

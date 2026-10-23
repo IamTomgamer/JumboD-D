@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Altar",
+    "imagePath": "atlas-vtt/assets/Altar_1792759211271_svw6ua.webp",
+    "collection": "D&D",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Altar_1792759211271_svw6ua-2f36e718.webp",
+    "id": "token-1792759211371-2xa688",
+    "createdAt": 1792759211371,
+    "modifiedAt": 1792759211371
+  }
+}

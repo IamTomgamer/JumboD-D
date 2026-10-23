@@ -1,0 +1,15 @@
+{
+  "mapPath": "atlas-vtt/collections/D&D/scenes/Tournament Elevation 1.atlasmap",
+  "atlasRecord": {
+    "format": 1,
+    "type": "scene",
+    "name": "Tournament Elevation 1",
+    "collection": "D&D",
+    "tags": [
+      "Tournament"
+    ],
+    "id": "scene-1792758073902-55lt8s",
+    "createdAt": 1792758073902,
+    "modifiedAt": 1792758073902
+  }
+}

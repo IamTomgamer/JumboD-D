@@ -1,0 +1,42 @@
+{
+  "description": "Encounter with 1 token",
+  "tokens": [
+    {
+      "id": "tok_1792758854871_15vt15xi2",
+      "name": "Chest",
+      "imagePath": "atlas-vtt/assets/Chest_1792097778371_nhis6w.webp",
+      "cell": {
+        "q": 0,
+        "r": 0
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "state": {
+        "imagePath": "atlas-vtt/assets/Chest_1792097778371_nhis6w.webp",
+        "kind": "character",
+        "name": "Chest",
+        "assetId": "token-1792097778471-rlficf",
+        "showRing": true,
+        "layer": 1
+      }
+    }
+  ],
+  "difficulty": "medium",
+  "formation": {
+    "gridType": "square",
+    "pitch": 90
+  },
+  "atlasRecord": {
+    "format": 1,
+    "name": "Chest",
+    "collection": "D&D",
+    "tags": [],
+    "thumbnailUrl": "app://0158289415a69aee710e0a71eff99b8b7b2a/Volumes/Tom's%20SSD/03-Personal/Obsidian%20Vaults/JumboD&D/Github/JumboD&D/atlas-vtt/assets/encounter-thumbnails/encounter-1792758876719.png?1792758876730",
+    "id": "encounter-1792758876742-w2o2r3",
+    "createdAt": 1792758876742,
+    "modifiedAt": 1792758876742,
+    "type": "encounter"
+  }
+}

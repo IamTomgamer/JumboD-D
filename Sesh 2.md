@@ -26,6 +26,7 @@ Interrogating him will lead to the information that:
 - This cult despises the god of silverwood trees, [[Kudrasil]]
 - This cult is always experimenting with forbidden magic like transformation, teleportation, healing, etc.
 - This cult worships a woman named [[Mehelia]] for being the first one to use magic forbidden by [[Kudrasil]]
+- There's a [[Illegal Tournament|tournament]] in [[Greyhold]] where a team of cultists will fight for the prize.
 
 # Option 2
 They let him go, let him tell the boss what he saw.

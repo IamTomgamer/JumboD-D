@@ -172,6 +172,11 @@
       "id": "cities",
       "name": "Cities",
       "group": "maps"
+    },
+    "maps:tournament": {
+      "id": "tournament",
+      "name": "Tournament",
+      "group": "maps"
     }
   },
   "settings": {

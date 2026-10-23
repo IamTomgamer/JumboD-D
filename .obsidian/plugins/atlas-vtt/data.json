@@ -1,6 +1,7 @@
 {
   "showChangelogOnUpdate": true,
   "changelogMajorUpdatesOnly": false,
+  "checkForUpdates": true,
   "hotkeys": {},
   "onboarding": {
     "enabled": true,
@@ -20,21 +21,33 @@
     "size": 16
   },
   "diceDisplay": "fast",
+  "detectGridOnNewScenes": true,
   "diceColour": "accent",
   "diceFont": "medieval",
-  "experimental": {},
-  "statblockPane": {
-    "hintDismissed": false
+  "initiativeNames": false,
+  "initiativeFromTurn": true,
+  "initiativeDock": "right",
+  "initiativeBanner": true,
+  "initiativeFollowTurn": false,
+  "initiativeMovesOnTurn": false,
+  "experimental": {
+    "dynamicLighting": true,
+    "onlinePlay": false,
+    "statblockEditor": false
   },
   "toolbar": {},
   "localPlayerView": {
     "showToolbar": false,
     "showTokenNameplates": true,
     "showNotePreviews": false,
-    "showGrid": true,
     "showWidgets": true,
     "showInitiative": true,
     "showDiceRolls": false,
-    "showCommandPalette": false
+    "showCommandPalette": false,
+    "showCursors": false,
+    "showGrid": true
+  },
+  "statblockPane": {
+    "hintDismissed": false
   }
 }

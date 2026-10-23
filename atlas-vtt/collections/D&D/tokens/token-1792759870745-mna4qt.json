@@ -1,0 +1,15 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Petrification",
+    "imagePath": "atlas-vtt/assets/Petrification_1792759870511_or21x7.webp",
+    "collection": "D&D",
+    "tags": [],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Petrification_1792759870511_or21x7-dbcc5d60.webp",
+    "id": "token-1792759870745-mna4qt",
+    "createdAt": 1792759870745,
+    "modifiedAt": 1792759870745
+  }
+}

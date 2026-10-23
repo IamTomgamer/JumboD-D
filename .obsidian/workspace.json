@@ -18,17 +18,119 @@
             }
           },
           {
+            "id": "e8175f08e6f68a16",
+            "type": "leaf",
+            "state": {
+              "type": "atlas-vtt",
+              "state": {
+                "file": "atlas-vtt/collections/D&D/scenes/Tournament  -1.atlasmap",
+                "mapFilePath": "atlas-vtt/collections/D&D/scenes/Tournament  -1.atlasmap",
+                "tabs": [
+                  {
+                    "id": "tab-1792758020047-4a96p7",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
+                    "displayName": "WorldMap",
+                    "isLoaded": true,
+                    "isDirty": false
+                  },
+                  {
+                    "id": "tab-1792758029258-z4rq59",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/greyhold.atlasmap",
+                    "displayName": "greyhold",
+                    "isLoaded": true,
+                    "isDirty": false
+                  },
+                  {
+                    "id": "tab-1792758073945-wd2j2d",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/Tournament Elevation 1.atlasmap",
+                    "displayName": "Tournament Elevation 1",
+                    "isLoaded": true,
+                    "isDirty": false
+                  },
+                  {
+                    "id": "tab-1792758343639-8dumav",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/Tournament  -1.atlasmap",
+                    "displayName": "Tournament  -1",
+                    "isLoaded": true,
+                    "isDirty": false
+                  },
+                  {
+                    "id": "tab-1792758352356-hjgsym",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/Tournament  -2.atlasmap",
+                    "displayName": "Tournament  -2",
+                    "isLoaded": true,
+                    "isDirty": false
+                  },
+                  {
+                    "id": "tab-1792758369894-nhinvx",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/Tournament  -3.atlasmap",
+                    "displayName": "Tournament  -3",
+                    "isLoaded": true,
+                    "isDirty": false
+                  },
+                  {
+                    "id": "tab-1792758383623-wl3q28",
+                    "filePath": "atlas-vtt/collections/D&D/scenes/Tournament  -4.atlasmap",
+                    "displayName": "Tournament  -4",
+                    "isLoaded": true,
+                    "isDirty": false
+                  }
+                ],
+                "activeTabId": "tab-1792758343639-8dumav",
+                "viewportPerTab": {
+                  "tab-1792758020047-4a96p7": {
+                    "centerX": 8092.092358564884,
+                    "centerY": 4775.213230595706,
+                    "scale": 0.31901180669044216
+                  },
+                  "tab-1792758029258-z4rq59": {
+                    "centerX": 1506.3231441955263,
+                    "centerY": 1333.3643208250905,
+                    "scale": 0.29966471739450257
+                  },
+                  "tab-1792758073945-wd2j2d": {
+                    "centerX": 517.5008551777687,
+                    "centerY": 498.97527688366165,
+                    "scale": 1.1758375947025606
+                  },
+                  "tab-1792758343639-8dumav": {
+                    "centerX": 1414.9469267847662,
+                    "centerY": 2125.9487781476478,
+                    "scale": 0.18568817891045347
+                  },
+                  "tab-1792758352356-hjgsym": {
+                    "centerX": 1880.5576792536315,
+                    "centerY": 2538.8065378111132,
+                    "scale": 0.15554712147475439
+                  },
+                  "tab-1792758369894-nhinvx": {
+                    "centerX": 1009.1843588377765,
+                    "centerY": 1816.0282598217334,
+                    "scale": 0.130020695982975
+                  },
+                  "tab-1792758383623-wl3q28": {
+                    "centerX": 1501.9149091352006,
+                    "centerY": 3434.2923226256285,
+                    "scale": 0.2018885482986375
+                  }
+                }
+              },
+              "icon": "map",
+              "title": "Atlas: Tournament  -1.atlasmap"
+            }
+          },
+          {
             "id": "d0c918bc8982c6d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random Tables/Loot/Weapons.md",
+                "file": "Sesh 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weapons"
+              "title": "Sesh 2"
             }
           },
           {
@@ -204,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Random Tables/Loot/Weapons.md",
+                "file": "atlas-vtt/collections/D&D/scenes/Tournament  -2.atlasmap",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +368,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Random Tables/Loot/Weapons.md",
+                "file": "atlas-vtt/collections/D&D/scenes/Tournament  -2.atlasmap",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -336,11 +438,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 494.984375
+    "width": 494.984375,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -410,37 +513,46 @@
       }
     ]
   },
-  "active": "e7baf5beaa0a6543",
+  "active": "e8175f08e6f68a16",
   "lastOpenFiles": [
-    "Maps/Azgaar's Map Gen/World Map.map.crswap",
+    "atlas-vtt/collections/D&D/tokens/token-1792759870745-mna4qt.json",
+    "atlas-vtt/assets/thumbnails/Petrification_1792759870511_or21x7-dbcc5d60.webp",
+    "atlas-vtt/assets/Petrification_1792759870511_or21x7.webp",
+    "atlas-vtt/collections/D&D/tokens/token-1792759664854-fpnr09.json",
+    "atlas-vtt/assets/thumbnails/yo_guys_what_does_this_spell_do_v0_vev4g4q1u00h1_1792759664767_d32qi6-36e5aa6d.webp",
+    "atlas-vtt/assets/yo_guys_what_does_this_spell_do_v0_vev4g4q1u00h1_1792759664767_d32qi6.webp",
+    "Bestiary/MM/Cultist.md",
+    "atlas-vtt/collections/D&D/scenes/greyhold.atlasmap",
+    "atlas-vtt/collections/D&D/tokens/token-1792759211371-2xa688.json",
+    "atlas-vtt/assets/thumbnails/Altar_1792759211271_svw6ua-2f36e718.webp",
+    "atlas-vtt/assets/Altar_1792759211271_svw6ua.webp",
+    "atlas-vtt/collections/D&D/encounters/encounter-1792758876742-w2o2r3.json",
+    "atlas-vtt/assets/encounter-thumbnails/encounter-1792758876719.png",
+    "atlas-vtt/assets/encounter-thumbnails",
+    "atlas-vtt/collections/D&D/scenes/Tournament  -4.thumb.jpg",
+    "atlas-vtt/collections/D&D/scenes/scene-1792758383579-rkr0th.json",
+    "atlas-vtt/collections/D&D/scenes/Tournament  -4.atlasmap",
+    "atlas-vtt/collections/D&D/scenes/Tournament  -3.thumb.jpg",
+    "atlas-vtt/collections/D&D/scenes/scene-1792758369845-1sn3ei.json",
+    "atlas-vtt/collections/D&D/scenes/Tournament  -3.atlasmap",
+    "atlas-vtt/collections/D&D/scenes/Tournament  -2.thumb.jpg",
+    "atlas-vtt/collections/D&D/scenes/scene-1792758352317-vysphk.json",
+    "Lore/Locations/Towns/Greyhold/Greyhold.md",
+    "Sesh 2.md",
+    "Random Tables/Loot/Weapons.md",
     "Random Tables/Loot/Random Item.md",
     "Random Tables/Loot/Potions.md",
     "Random Tables/Loot/Magic Item.md",
     "Random Tables/Loot/Contraptions.md",
     "Lore/Characters/Player Characters/Daimon.md",
-    "Sesh 2.md",
     "Lore/Myths & Legends/Mythology/Gods/Kudrasil.md",
     "Timeline/Timeline.md",
     "Lore/Characters/Player Characters/Desmodus (WAR-01).md",
     "Lore/Characters/Player Characters/Bob Bobber.md",
-    "Images/Characters/Fungus.png",
-    "atlas-vtt/collections/D&D/scenes/WorldMap.atlasmap",
-    "Lore/Locations/Towns/Greyhold/Greyhold.md",
     "Lore/Locations/Towns/Ascot/Ascot.md",
     "Lore/Myths & Legends/Mythology/Gods/Mehelia.md",
-    "atlas-vtt/collections/D&D/scenes/Starting Dungeon.atlasmap",
     "Timeline/Timeline Notes/Forged War/The Forged War.md",
-    "atlas-vtt/collections/D&D/loot-history/48890d91-3ca1-4b80-a19d-d794adf28607.json",
-    "atlas-vtt/collections/D&D/scenes/greyhold.atlasmap",
-    "atlas-vtt/collections/D&D/scenes/WorldMap.thumb.jpg",
-    "atlas-vtt/collections/D&D/scenes/scene-1792651930769-s6ihjg.json",
-    "atlas-vtt/collections/D&D/maps/map-1792651910245-745p3o.json",
-    "atlas-vtt/assets/thumbnails/WorldMap_1792651909251_0yy2no-c3ff3bbd.webp",
-    "atlas-vtt/assets/WorldMap_1792651909251_0yy2no.png",
-    "Maps/Unconfirmed 641078.crdownload",
-    "Bases/Sessions.base",
     "Lore/Events/Illegal Tournament.md",
-    "Lore/Events",
     "Lore/Taverns/Tavern Ruby Tiara.md",
     "Lore/Locations/Towns/Greyhold/Tavern \"Sacred Potion\".md",
     "Lore/Locations/Towns/Ascot/Tavern \"The Wandering Basilisk\".md",
@@ -448,15 +560,7 @@
     "Lore/Characters/NPCs/Dwarves/Lornebyrn.md",
     "Lore/Groups/The Brimhats.md",
     "Brimmed Caps.md",
-    "atlas-vtt/collections/D&D/scenes/greyhold.thumb.jpg",
-    "atlas-vtt/assets/thumbnails/greyhold_1792606691094_6jbm4q-de036907.webp",
-    "atlas-vtt/assets/greyhold_1792606691094_6jbm4q.png",
     "Sessions/Sesh 1.md",
-    "Sessions/Sesh 0.md",
-    "Structure/Andere Lore.md",
-    "atlas-vtt/assets/Occultist_1792601021126_7ornay.webp",
-    "atlas-vtt/assets/Assassin_1792601021111_xvy11k.webp",
-    "atlas-vtt/assets/Knight_1792601021104_hrik9k.webp",
     "Timeline/Test/Canvases/Basic concept.canvas",
     "Timeline/Test/Canvases/Basic usage.canvas",
     "Timeline/Test/Canvases/Conditional Formats.canvas",
